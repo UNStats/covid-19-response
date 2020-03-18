@@ -1,0 +1,48 @@
+{
+  "private": true,
+  "name": "covid-19-response-for-nsos",
+  "description": "Resources for National Statistical Offices on how to respond to the COVID-19 emergency.",
+  "version": "0.0.0",
+  "author": "Thilo Maier <maier@un.org>",
+  "homepage": "https://undataforum.org",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "build": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby build",
+    "clean": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
+    "lint": "yarn run lint:code && yarn run lint:other",
+    "lint:code": "eslint . --cache --ext .js,.jsx --ignore-path .gitignore",
+    "lint:other": "yarn run prettier --check",
+    "prettier": "prettier \"**/*.{md,mdx,css,yaml,yml}\" --ignore-path .gitignore",
+    "format": "yarn run format:code && yarn run format:other",
+    "format:code": "yarn run lint:code --fix",
+    "format:other": "yarn run prettier --write",
+    "purge": "rm -rf ./node_modules"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "dependencies": {
+    "@undataforum/components": "^0.73.0",
+    "@undataforum/gatsby-theme-base": "^0.12.3",
+    "@undataforum/gatsby-theme-blog": "^0.11.1",
+    "@undataforum/gatsby-theme-profiles": "^0.8.1",
+    "cross-env": "^7.0.2",
+    "gatsby": "^2.19.45",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "theme-ui": "^0.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-shopify": "^35.0.0",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.8",
+    "prettier": "^1.19.1"
+  }
+}

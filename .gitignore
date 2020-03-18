@@ -1,0 +1,6 @@
+.cache
+.DS_Store
+.eslintcache
+.now
+node_modules
+public

@@ -1,0 +1,22 @@
+{
+  "extends": ["config:base"],
+  "automerge": false,
+  "labels": ["renovate"],
+  "reviewers": ["454de6e"],
+  "semanticCommits": false,
+  "packageRules": [
+    {
+      "sourceUrlPrefixes": ["https://github.com/undataforum/design-system"],
+      "groupName": "undataforum/design-system packages"
+    },
+    {
+      "sourceUrlPrefixes": ["https://github.com/undataforum/gatsby-themes"],
+      "groupName": "undataforum/gatsby-themes packages"
+    },
+    {
+      "packagePatterns": ["@changesets"],
+      "groupName": "atlassian/changesets packages"
+    }
+  ],
+  "schedule": "every weekend"
+}
