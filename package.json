@@ -32,11 +32,13 @@
     "@undataforum/gatsby-theme-blog": "^0.11.2",
     "@undataforum/gatsby-theme-profiles": "^0.8.1",
     "cross-env": "^7.0.2",
+    "deepmerge": "^4.2.2",
     "gatsby": "^2.19.48",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "theme-ui": "^0.3.1"
+    "theme-ui": "^0.3.1",
+    "typeface-roboto": "^0.0.75"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
