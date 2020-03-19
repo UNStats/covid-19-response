@@ -16,8 +16,6 @@ module.exports = {
         collection: 'category1',
       },
     },
-
-    /*
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
@@ -27,7 +25,6 @@ module.exports = {
         collection: 'category2',
       },
     },
-    */
     '@undataforum/gatsby-theme-profiles',
   ],
 };
