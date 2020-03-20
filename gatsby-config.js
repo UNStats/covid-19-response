@@ -2,7 +2,7 @@ const pkg = require('./package.json');
 
 module.exports = {
   siteMetadata: {
-    title: 'COVID-19 response for National Statistical Offices',
+    title: 'Business Continuity for NSOs',
     description: pkg.description,
     keywords: ['National Statistical Offices'],
     siteTwitterUsername: 'UNStats',
