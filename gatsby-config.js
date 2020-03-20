@@ -3,8 +3,10 @@ const pkg = require('./package.json');
 module.exports = {
   siteMetadata: {
     title: 'COVID-19 response for National Statistical Offices',
-    siteUrl: pkg.homepage,
     description: pkg.description,
+    keywords: ['National Statistical Offices'],
+    siteTwitterUsername: 'UNStats',
+    siteUrl: pkg.homepage,
   },
   plugins: [
     {

@@ -1,0 +1,72 @@
+import { graphql } from 'gatsby';
+import { Seo } from '@undataforum/gatsby-theme-base';
+
+import HomepageLayout from '../components/homepage-layout';
+import PostList from '../components/post-list';
+
+export default HomepageLayout;
+
+<Seo title="Homepage" description={props.data.site.siteMetadata.description} />
+
+Ea excepteur enim labore incididunt laboris occaecat et culpa. Cupidatat in
+reprehenderit excepteur excepteur culpa esse laboris velit Lorem qui dolor
+irure. Sit duis est reprehenderit culpa ea officia eiusmod. Occaecat ipsum
+ullamco fugiat aliqua aute occaecat voluptate eiusmod ipsum consectetur ex
+aliquip. Pariatur exercitation irure culpa veniam incididunt adipisicing tempor
+labore exercitation proident nulla ullamco labore.
+
+## Category 1
+
+<PostList posts={props.data.category1.nodes} mb={4} />
+
+## Category 2
+
+<PostList posts={props.data.category2.nodes} />
+
+export const query = graphql`
+  query {
+    site {
+      siteMetadata {
+        description
+      }
+    }
+    category1: allPost(
+      limit: 4
+      sort: { fields: date, order: DESC }
+      filter: { collection: { eq: "category1" } }
+    ) {
+      nodes {
+        id
+        title {
+          text
+        }
+        date(formatString: "MMM DD, YYYY")
+        description {
+          childMdx {
+            body
+          }
+        }
+        path
+      }
+    }
+    category2: allPost(
+      limit: 4
+      sort: { fields: date, order: DESC }
+      filter: { collection: { eq: "category2" } }
+    ) {
+      nodes {
+        id
+        title {
+          text
+        }
+        date(formatString: "MMM DD, YYYY")
+        description {
+          childMdx {
+            body
+          }
+        }
+        path
+      }
+    }
+  }
+`;
