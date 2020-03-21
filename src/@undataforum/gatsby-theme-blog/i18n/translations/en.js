@@ -1,8 +1,12 @@
 const en = {
-  'category1.title': 'Category 1',
-  'category1.description': 'Category 1 overview page description.',
-  'category2.title': 'Category 2',
-  'category2.description': 'Category 2 overview page description.',
+  'data-collection.title': 'Data collection',
+  'data-collection.description':
+    'Articles about how to handle data collection.',
+  'work-arrangements.title': 'Work arrangements',
+  'work-arrangements.description':
+    'Articles about how to handle work arrangements.',
+  'data-portals.title': 'Data portals',
+  'data-portals.description': 'Articles about how to handle data portals.',
 };
 
 export default en;
