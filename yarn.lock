@@ -1292,12 +1292,7 @@
     unist-builder "2.0.3"
     unist-util-visit "2.0.2"
 
-"@mdx-js/react@1.5.5":
-  version "1.5.5"
-  resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.5.5.tgz#0036e65ec59521059f33292f535b9ef0d67bd0e6"
-  integrity sha512-Qwvri4zyU9ZbhhXsH0wfSZ/J9b8mARRTB6GSCTnyKRffO2CaQXl9oLsvRAeQSLRei/onEARc+RexH+jMeNS1rw==
-
-"@mdx-js/react@^1.0.0":
+"@mdx-js/react@1.5.5", "@mdx-js/react@^1.0.0":
   version "1.5.5"
   resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.5.5.tgz#0036e65ec59521059f33292f535b9ef0d67bd0e6"
   integrity sha512-Qwvri4zyU9ZbhhXsH0wfSZ/J9b8mARRTB6GSCTnyKRffO2CaQXl9oLsvRAeQSLRei/onEARc+RexH+jMeNS1rw==
@@ -1766,14 +1761,14 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@undataforum/components@^0.73.0":
+"@undataforum/components@0.73.0", "@undataforum/components@^0.73.0":
   version "0.73.0"
   resolved "https://registry.yarnpkg.com/@undataforum/components/-/components-0.73.0.tgz#ca8cf4e1b43f1d87eb7b458e828287e8a580a141"
   integrity sha512-JA5t5/7aHM1JOgu8BX6Dao6EEk78Qj/slK32vTCZahC5FjNrjL8yo5VjQgnJQvGvQJKjfwxLAzJgNLfzOVTp8A==
   dependencies:
     prop-types "^15.7.2"
 
-"@undataforum/gatsby-theme-base@^0.13.0":
+"@undataforum/gatsby-theme-base@0.13.0", "@undataforum/gatsby-theme-base@^0.13.0":
   version "0.13.0"
   resolved "https://registry.yarnpkg.com/@undataforum/gatsby-theme-base/-/gatsby-theme-base-0.13.0.tgz#deb3a6313586c1c0169f8fb403fbaa5a68f76006"
   integrity sha512-vTbOzDWi9lkicRVvfWEEbodLWSmwdHnzHV1LiibcbaVgW40eSnC2oymkcXd+PYYG12T3ST8q882gwdm3Dd2aqw==
@@ -1792,7 +1787,7 @@
     prop-types "^15.7.2"
     react-helmet "^5.2.1"
 
-"@undataforum/gatsby-theme-blog@^0.11.3":
+"@undataforum/gatsby-theme-blog@0.11.3":
   version "0.11.3"
   resolved "https://registry.yarnpkg.com/@undataforum/gatsby-theme-blog/-/gatsby-theme-blog-0.11.3.tgz#d52cbcc7fc4e2f0c93540c4c9b585e2c0afaeae1"
   integrity sha512-hAychBO9nsXYxxTN2kTr9bFEss4Z2nTr9sEVJCmDLf6hrJE5/voSZHnaC0IOhTEJtP6nVCw0hT7bPTMgWvTTUQ==
@@ -1807,7 +1802,7 @@
     remark "^11.0.1"
     strip-markdown "^3.1.0"
 
-"@undataforum/gatsby-theme-profiles@^0.8.2":
+"@undataforum/gatsby-theme-profiles@0.8.2":
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/@undataforum/gatsby-theme-profiles/-/gatsby-theme-profiles-0.8.2.tgz#1d4bef1ff5deeeaef571f41864e4160210e29ce2"
   integrity sha512-P2xbUWAqhS62gIURYArL9aATHvxFaI/h6sYEwl9RWeAA4I1r0iB69JKM7/UO/jLM9b2RI8H59CmKL3Q5RmzWxQ==
@@ -3932,7 +3927,7 @@ create-react-context@0.3.0:
     gud "^1.0.0"
     warning "^4.0.3"
 
-cross-env@^7.0.2:
+cross-env@7.0.2:
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/cross-env/-/cross-env-7.0.2.tgz#bd5ed31339a93a3418ac4f3ca9ca3403082ae5f9"
   integrity sha512-KZP/bMEOJEDCkDQAyRhu3RL2ZO/SUVrxQVI0G3YEQ+OLbRA3c6zgixe8Mq8a/z7+HKlNEjo8oiLUs8iRijY2Rw==
@@ -4356,7 +4351,7 @@ deep-is@~0.1.3:
   resolved "https://registry.yarnpkg.com/deep-is/-/deep-is-0.1.3.tgz#b369d6fb5dbc13eecf524f91b070feedc357cf34"
   integrity sha1-s2nW+128E+7PUk+RsHD+7cNXzzQ=
 
-deepmerge@^4.0.0, deepmerge@^4.2.2:
+deepmerge@4.2.2, deepmerge@^4.0.0, deepmerge@^4.2.2:
   version "4.2.2"
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
   integrity sha512-FJ3UgI4gIl+PHZm53knsuSFpE+nESMr7M4v9QcgB7S63Kj/6WqMiFQJpBBYz1Pt+66bZpP3Q7Lye0Oo9MPKEdg==
@@ -5191,7 +5186,7 @@ eslint-plugin-react@^7.19.0:
     string.prototype.matchall "^4.0.2"
     xregexp "^4.3.0"
 
-eslint-plugin-shopify@^35.0.0:
+eslint-plugin-shopify@35.0.0:
   version "35.0.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-shopify/-/eslint-plugin-shopify-35.0.0.tgz#074b4572bb9e2238cba698b2c5eb9020dd23bbaf"
   integrity sha512-kpn1+Ik7P6f0vOjvOVQXk2DnMiYSCUB6NgHYqTr7TxAmw5uEI5sd6wcsUDlhU8Y8iEhgW7QNjwxNL5IdKP5diA==
@@ -5265,7 +5260,7 @@ eslint-visitor-keys@^1.0.0, eslint-visitor-keys@^1.1.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-1.1.0.tgz#e2a82cea84ff246ad6fb57f9bde5b46621459ec2"
   integrity sha512-8y9YjtM1JBJU/A9Kc+SbaOV4y29sSWckBwMHa+FGtVj5gN/sbnKDf6xJUl+8g7FAij9LVaP8C24DUiH/f/2Z9A==
 
-eslint@^6.8.0:
+eslint@6.8.0, eslint@^6.8.0:
   version "6.8.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.8.0.tgz#62262d6729739f9275723824302fb227c8c93ffb"
   integrity sha512-K+Iayyo2LtyYhDSYwz5D5QdWw0hCacNzyq1Y821Xna2xSJj7cijoLLYmLxTQgcgZ9mC61nryMy9S7GRbYpI5Ig==
@@ -6342,7 +6337,7 @@ gatsby-transformer-sharp@^2.3.19:
     semver "^5.7.1"
     sharp "^0.23.4"
 
-gatsby@^2.19.49:
+gatsby@2.19.49:
   version "2.19.49"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.19.49.tgz#33d5879e443060ccf68503ad9cf23e56e909a5a5"
   integrity sha512-PesQQ/1RV2ukfTj1FYSlL08lFJng/4q8Vf78ZxPsl7cw6+fhSRoNtnjy8JGSjlXnH7DQ2YjkDKdEXdcdRljl3g==
@@ -7290,7 +7285,7 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
-husky@^4.2.3:
+husky@4.2.3:
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/husky/-/husky-4.2.3.tgz#3b18d2ee5febe99e27f2983500202daffbc3151e"
   integrity sha512-VxTsSTRwYveKXN4SaH1/FefRJYCtx+wx04sSVcOpD7N2zjoHxa+cEJ07Qg5NmV3HAK+IRKOyNVpi2YBIVccIfQ==
@@ -8479,7 +8474,7 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@^10.0.8:
+lint-staged@10.0.8:
   version "10.0.8"
   resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-10.0.8.tgz#0f7849cdc336061f25f5d4fcbcfa385701ff4739"
   integrity sha512-Oa9eS4DJqvQMVdywXfEor6F4vP+21fPHF8LUXgBbVWUSWBddjqsvO6Bv1LwMChmgQZZqwUvgJSHlu8HFHAPZmA==
@@ -10942,7 +10937,7 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^1.19.1:
+prettier@1.19.1:
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
@@ -11010,7 +11005,7 @@ prompts@^2.3.1:
     kleur "^3.0.3"
     sisteransi "^1.0.4"
 
-prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@15.7.2, prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -11268,7 +11263,7 @@ react-dev-utils@^9.1.0:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@^16.13.1:
+react-dom@16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.13.1.tgz#c1bd37331a0486c078ee54c4740720993b2e0e7f"
   integrity sha512-81PIMmVLnCNLO/fFOQxdQkvEq/+Hfpv24XNJfpyZhTRfO0QcmQIF/PgCa1zCOj2w1hrn12MFLyaJ/G0+Mxtfag==
@@ -11367,7 +11362,7 @@ react-side-effect@^1.1.0:
   dependencies:
     shallowequal "^1.0.1"
 
-react@^16.13.1, react@^16.8.0:
+react@16.13.1, react@^16.8.0:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
   integrity sha512-YMZQQq32xHLX0bz5Mnibv1/LHb3Sqzngu7xstSM+vrkE5Kzr9xE0yMByK5kMoTK30YVJE61WfbxIFFvfeDKT1w==
@@ -13268,7 +13263,7 @@ text-table@0.2.0, text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
-theme-ui@^0.3.1:
+theme-ui@0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/theme-ui/-/theme-ui-0.3.1.tgz#b00ee2c03eb3d820536af8b121c64d13b3777cf0"
   integrity sha512-My/TSALqp7Dst5Ez7nJA+94Q8zJhc26Z0qGo8kEWyoqHHJ5TU8xdhjLPBltTdQck3T32cSq5USIeSKU3JtxYUQ==
@@ -13528,7 +13523,7 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typeface-roboto@^0.0.75:
+typeface-roboto@0.0.75:
   version "0.0.75"
   resolved "https://registry.yarnpkg.com/typeface-roboto/-/typeface-roboto-0.0.75.tgz#98d5ba35ec234bbc7172374c8297277099cc712b"
   integrity sha512-VrR/IiH00Z1tFP4vDGfwZ1esNqTiDMchBEXYY9kilT6wRGgFoCAlgkEUMHb1E3mB0FsfZhv756IF0+R+SFPfdg==
