@@ -2,9 +2,14 @@ const pkg = require('./package.json');
 
 module.exports = {
   siteMetadata: {
-    title: 'Business Continuity for NSOs',
+    title: 'Response of statistical systems to COVID-19 emergency',
+    lemma: 'COVID-19 response',
     description: pkg.description,
-    keywords: ['National Statistical Offices'],
+    keywords: [
+      'COVID-19',
+      'Global Statistical System',
+      'National Statistical Systems',
+    ],
     siteTwitterUsername: 'UNStats',
     siteUrl: pkg.homepage,
   },
@@ -12,19 +17,28 @@ module.exports = {
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/category1',
-        contentPath: 'content/category1',
+        basePath: '/data-collection',
+        contentPath: 'content/data-collection',
         // assetPath: 'content/assets',
-        collection: 'category1',
+        collection: 'data-collection',
       },
     },
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/category2',
-        contentPath: 'content/category2',
+        basePath: '/work-arrangements',
+        contentPath: 'content/work-arrangements',
         // assetPath: 'content/assets'
-        collection: 'category2',
+        collection: 'work-arrangements',
+      },
+    },
+    {
+      resolve: '@undataforum/gatsby-theme-blog',
+      options: {
+        basePath: '/data-portals',
+        contentPath: 'content/data-portals',
+        // assetPath: 'content/assets'
+        collection: 'data-portals',
       },
     },
     '@undataforum/gatsby-theme-profiles',

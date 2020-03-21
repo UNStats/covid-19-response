@@ -7,7 +7,7 @@ const ShadowedHeader = props => {
     query HeaderQuery {
       site {
         siteMetadata {
-          title
+          lemma
         }
       }
     }
@@ -15,10 +15,11 @@ const ShadowedHeader = props => {
   return (
     <Header
       {...props}
-      title={data.site.siteMetadata.title}
+      title={data.site.siteMetadata.lemma}
       links={[
-        { text: 'Category 1', href: '/category1/' },
-        { text: 'Category 2', href: '/category2/' },
+        { text: 'Data collection', href: '/data-collection/' },
+        { text: 'Work arrangements', href: '/work-arrangements/' },
+        { text: 'Data portals', href: '/data-portals/' },
       ]}
       variant="primary"
     />
