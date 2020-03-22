@@ -2,7 +2,7 @@ import React from 'react';
 import { Header } from '@undataforum/components';
 import { useStaticQuery, graphql } from 'gatsby';
 
-const ShadowedHeader = props => {
+const ShadowedHeader = (props) => {
   const data = useStaticQuery(graphql`
     query HeaderQuery {
       site {

@@ -6,7 +6,7 @@ import { PostPreview } from '@undataforum/components';
 
 const PostList = ({ posts, ...props }) => (
   <Grid {...props} gap={4} columns={1}>
-    {posts.map(post => {
+    {posts.map((post) => {
       const { id, title, date, description, path } = post;
       return (
         <PostPreview
