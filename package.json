@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "covid-19-response",
-  "description": "Website providing guidance for operational continuity and immediate response of Global and National Statistical Systems to the COVID-19 health crisis.",
+  "description": "This website provides guidance for operational continuity and immediate response of Global and National Statistical Systems to the COVID-19 health crisis.",
   "version": "0.0.0",
   "author": "Thilo Maier <maier@un.org>",
   "homepage": "https://undataforum.org",
