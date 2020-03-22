@@ -1,12 +1,23 @@
 const en = {
-  'data-collection.title': 'Data collection',
+  // data-collection
+  'data-collection.title': 'Agile statistical programmes',
   'data-collection.description':
-    'Articles about how to handle data collection.',
-  'work-arrangements.title': 'Work arrangements',
+    'Rapid adaptation of data collection methods to ensure continuity of census and Survey programmes.',
+
+  // work-arrangements
+  'work-arrangements.title': 'Emergency work arrangements',
   'work-arrangements.description':
-    'Articles about how to handle work arrangements.',
-  'data-portals.title': 'Data portals',
-  'data-portals.description': 'Articles about how to handle data portals.',
+    'Guidance and best practices to address managerial and IT challenges for operational continuity during the emergency situation.',
+
+  // data-innovation
+  'data-innovation.title': 'Innovative data production',
+  'data-innovation.description':
+    'Use of big data and new technologies in the production of timely data to monitor the social, economic and environmental impacts of COVID-19.',
+
+  // open-data
+  'open-data.title': 'Open data for action',
+  'open-data.description':
+    'Communication and use of trusted data to support COVID-19 response: making data portals, dashboards, and map visualizations available to policy makers and front-line respondents.',
 };
 
 export default en;

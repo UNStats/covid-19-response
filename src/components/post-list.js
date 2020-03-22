@@ -9,24 +9,25 @@ const PostList = ({ posts, ...props }) => (
     {posts.map((post) => {
       const { id, title, date, description, path } = post;
       return (
-        <PostPreview
-          key={id}
-          post={{
-            title: (
-              <Heading as="h3" sx={{ textAlign: 'start', mb: 3 }}>
-                {title.text}
-              </Heading>
-            ),
-            date,
-            description: description && (
-              // Wrap in Box to trigger last-child rule for <p> which sets mb={0}.
-              <Box>
-                <MDXRenderer>{description.childMdx.body}</MDXRenderer>
-              </Box>
-            ),
-            href: path,
-          }}
-        />
+        <Box key={id} sx={{ bg: 'muted', p: 2 }}>
+          <PostPreview
+            post={{
+              title: (
+                <Heading as="h3" sx={{ textAlign: 'start', mb: 3 }}>
+                  {title.text}
+                </Heading>
+              ),
+              date,
+              description: description && (
+                // Wrap in Box to trigger last-child rule for <p> which sets mb={0}.
+                <Box>
+                  <MDXRenderer>{description.childMdx.body}</MDXRenderer>
+                </Box>
+              ),
+              href: path,
+            }}
+          />
+        </Box>
       );
     })}
   </Grid>
