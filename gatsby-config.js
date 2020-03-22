@@ -3,7 +3,7 @@ const pkg = require('./package.json');
 module.exports = {
   siteMetadata: {
     title: 'Response of statistical systems to COVID-19 emergency',
-    lemma: 'COVID-19 response',
+    lemma: 'Statistics emergency response',
     description: pkg.description,
     keywords: [
       'COVID-19',
@@ -35,10 +35,19 @@ module.exports = {
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/data-portals',
-        contentPath: 'content/data-portals',
+        basePath: '/data-innovation',
+        contentPath: 'content/data-innovation',
         // assetPath: 'content/assets'
-        collection: 'data-portals',
+        collection: 'data-innovation',
+      },
+    },
+    {
+      resolve: '@undataforum/gatsby-theme-blog',
+      options: {
+        basePath: '/open-data',
+        contentPath: 'content/open-data',
+        // assetPath: 'content/assets'
+        collection: 'open-data',
       },
     },
     '@undataforum/gatsby-theme-profiles',

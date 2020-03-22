@@ -17,9 +17,10 @@ const ShadowedHeader = (props) => {
       {...props}
       title={data.site.siteMetadata.lemma}
       links={[
-        { text: 'Data collection', href: '/data-collection/' },
+        { text: 'Statistical programmes', href: '/data-collection/' },
         { text: 'Work arrangements', href: '/work-arrangements/' },
-        { text: 'Data portals', href: '/data-portals/' },
+        { text: 'Data innovation', href: '/data-innovation/' },
+        { text: 'Open data', href: '/open-data/' },
       ]}
       variant="primary"
     />
