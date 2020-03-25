@@ -2,7 +2,7 @@ const pkg = require('./package.json');
 
 module.exports = {
   siteMetadata: {
-    title: 'Response of statistical systems to COVID-19 emergency',
+    title: 'COVID-19 response',
     description: pkg.description,
     keywords: [
       'COVID-19',
