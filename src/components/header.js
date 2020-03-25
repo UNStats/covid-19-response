@@ -5,6 +5,7 @@ import { SmartLink } from '@undataforum/components';
 
 import Logo from './logo';
 
+// •●
 const Header = ({ entity, topic, title, links, location, ...props }) => (
   <Container
     {...props}
@@ -32,12 +33,9 @@ const Header = ({ entity, topic, title, links, location, ...props }) => (
         }}
       >
         <Heading sx={{ fontSize: [4, 5] }}>{entity}</Heading>
-        <Text sx={{ fontSize: [3, 4], lineHeight: 'heading' }}>{topic}</Text>
-        {title && (
-          <Text sx={{ fontSize: [2, 3], lineHeight: 'heading', mt: 2 }}>
-            {title}
-          </Text>
-        )}
+        <Text sx={{ fontSize: [3, 4], lineHeight: 'heading' }}>
+          {`${topic}${title ? ' • ' : null}${title}`}
+        </Text>
       </Flex>
     </Flex>
     <Flex
