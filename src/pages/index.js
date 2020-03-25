@@ -24,12 +24,12 @@ const Homepage = ({ data, location }) => (
           title="Homepage"
           description={data.site.siteMetadata.description}
         />
-        <Styled.h1>{data.site.siteMetadata.title}</Styled.h1>
-        <Box sx={{ bg: 'muted', p: 3, mb: 4 }}>
+        <Styled.h1>About this website</Styled.h1>
+        <Box mb={4}>
           <Blurb />
         </Box>
 
-        <Styled.h2>Background</Styled.h2>
+        <Styled.h1>Background</Styled.h1>
         <Box mb={4}>
           <Background />
         </Box>
