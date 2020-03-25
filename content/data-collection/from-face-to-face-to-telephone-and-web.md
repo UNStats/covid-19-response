@@ -1,0 +1,86 @@
+---
+title:
+  From face-to-face interviews to telephone interviews and web-based
+  self-reporting
+date: 2020-03-24
+---
+
+In an effort to contain the spread of the COVID-19 epidemic, many governments
+are imposing severe restrictions on the mobility of their populations,
+disrupting field statistical data collection operations and threatening the
+ability of National Statistical Offices to deliver high-quality, timely and
+cost-effective statistical outputs.
+
+It is imperative to leverage innovative technologies and approaches to ensure
+the continuity of censuses, household surveys, and other major statistical
+programmes. This includes making use, to the fullest extent possible, of mobile
+connectivity, cloud computing, smart mobile devises, and other technological
+innovations that offer alternative means to ensure that activities around the
+capturing, validation, processing and dissemination of census and survey data
+can go on in the new environment of limited mobility of staff and of the
+population at large.
+
+Priority objectives in the adaptation of data collection processes are:
+
+- Maintaining adequate coverage of the target populations
+- Ensuring high questionnaire- and item-response
+- Guaranteeing overall quality of the data collected
+- Maintaining timely data collection, processing and dissemination
+- Minimizing response burden
+- Using resources efficiently / minimizing cost of statistical operations
+
+There is an urgent need to replace many of the current field data collection
+operations that rely on face-to-face interviews with alternative remote data
+collection methodologies, such as telephone personal interviewing or paper or
+web-based self-reporting methods, or with methods that leverage alternative
+sources of data, such as administrative records or so-called “big data” sources
+\(e.g., remote sensing and earth observation, mobile phone records, scanner
+data, credit card records, etc.\). To respond to this challenge, many countries
+need to build quickly the necessary capacity to accelerate the implementation of
+fully digital data collection technologies instead of traditional paper-based
+methods.
+
+Time is a key factor in selecting alternative data collection approaches to
+ensure the continuity of statistical operations, including the estimated time
+necessary to procure/develop, test and deploy technical solutions, and to train
+staff in new skills and the use of new technologies.
+
+It is also crucial to design and launch as quickly as possible a contact and
+communication strategy towards respondents in the target population, aimed to
+maximize high response rates in a new web-based or telephone-based data
+collection setting. This include communications soliciting households to
+complete online questionnaires or to be interviewed by telephone, sending
+reminders and follow-ups in case of non-response.
+
+Even National Statistical Offices that have started using electronic data
+collection approaches, such as computer-assessed personal interviews \(CAPI\),
+still rely heavily on personal interviews, some of the challenges in moving away
+from face-to-face interviews to remote interviews and self-reporting
+methodologies include:
+
+- Implement new mechanisms to identify, contact, authenticate and communicate
+  with respondents
+- Establish mechanisms to geo-locate responses obtained via remote interviewing
+  and self-reporting.
+- Procure/develop and test IT systems to support computer-assisted telephone
+  interviews and online self-reporting portals
+- Implement mechanisms to support respondents in completing online
+  questionnaires
+- Implement mechanisms to support and oversee telephone-based interview
+  workflows
+- Ensure secure remote access to IT systems and secure data exchange.
+
+National Statistical Offices that have already in place data collection
+programmes based on computer-assisted personal interviews \(CAPI\) may consider
+re-purposing this existing software and hardware infrastructure to support
+computer-assisted telephone interviews \(CATI\) instead. This would allow to
+leverage the existing devices \(tablets, personal digital assistants, smart
+phones or portable computers\) as well as their specialized software, including
+their ability to instantly transmit data over mobile data networks. However,
+this re-purposing is not trivial. For instance, it requires to integrate CATI
+operations with existing digital mapping and operational management applications
+built under the assumption that enumerators/interviewers would be entering the
+data on the same location as the respondent. As interviewers will now be
+entering the information from a remote location, this creates new challenges for
+the automatic geo-coding of questionnaire responses and for the supervision of
+the interview process.
