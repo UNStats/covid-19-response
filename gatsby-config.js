@@ -27,7 +27,7 @@ module.exports = {
       options: {
         basePath: '/work-arrangements',
         contentPath: 'content/work-arrangements',
-        // assetPath: 'content/assets'
+        // assetPath: 'content/assets',
         collection: 'work-arrangements',
       },
     },
@@ -36,7 +36,7 @@ module.exports = {
       options: {
         basePath: '/data-innovation',
         contentPath: 'content/data-innovation',
-        // assetPath: 'content/assets'
+        // assetPath: 'content/assets',
         collection: 'data-innovation',
       },
     },
@@ -45,8 +45,17 @@ module.exports = {
       options: {
         basePath: '/open-data',
         contentPath: 'content/open-data',
-        // assetPath: 'content/assets'
+        // assetPath: 'content/assets',
         collection: 'open-data',
+      },
+    },
+    {
+      resolve: '@undataforum/gatsby-theme-events',
+      options: {
+        basePath: '/sharing',
+        contentPath: 'content/sharing',
+        // assetPath: 'content/assets',
+        collection: 'sharing',
       },
     },
     '@undataforum/gatsby-theme-profiles',
