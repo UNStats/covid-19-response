@@ -7,8 +7,8 @@ import { IntlProvider, FormattedMessage } from 'react-intl';
 import messages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
 
 import PostList from '../components/post-list';
-import Blurb from '../../content/blurb.mdx';
-import Background from '../../content/background.mdx';
+import Blurb from '../../content/blurbs/about.mdx';
+import Background from '../../content/blurbs/background.mdx';
 
 const Homepage = ({ data, location }) => (
   <IntlProvider locale="en" messages={messages.en}>
