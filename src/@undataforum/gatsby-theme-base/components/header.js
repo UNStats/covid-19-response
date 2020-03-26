@@ -1,9 +1,13 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import { IntlProvider, FormattedMessage } from 'react-intl';
-import messages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
+import merge from 'deepmerge';
+import postsMessages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
+import eventsMessages from '@undataforum/gatsby-theme-events/src/i18n/messages';
 
 import Header from '../../../components/header';
+
+const messages = merge(postsMessages, eventsMessages);
 
 const ShadowedHeader = (props) => {
   const data = useStaticQuery(graphql`
@@ -42,6 +46,10 @@ const ShadowedHeader = (props) => {
           {
             children: <FormattedMessage id="open-data.title" />,
             href: '/open-data/',
+          },
+          {
+            children: <FormattedMessage id="sharing.title" />,
+            href: '/sharing/',
           },
         ]}
       />
