@@ -29,9 +29,9 @@
   },
   "dependencies": {
     "@undataforum/components": "0.73.0",
-    "@undataforum/gatsby-theme-base": "0.13.1",
-    "@undataforum/gatsby-theme-blog": "0.11.3",
-    "@undataforum/gatsby-theme-events": "^0.8.2",
+    "@undataforum/gatsby-theme-base": "0.13.2",
+    "@undataforum/gatsby-theme-blog": "0.11.4",
+    "@undataforum/gatsby-theme-events": "^0.8.3",
     "@undataforum/gatsby-theme-profiles": "0.8.2",
     "cross-env": "7.0.2",
     "deepmerge": "4.2.2",
@@ -39,7 +39,7 @@
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-intl": "4.2.2",
+    "react-intl": "4.3.0",
     "theme-ui": "0.3.1",
     "typeface-roboto": "0.0.75"
   },
