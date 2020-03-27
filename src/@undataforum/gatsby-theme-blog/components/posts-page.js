@@ -5,14 +5,12 @@ import { Box } from 'theme-ui';
 
 import DataCollectionBlurb from '../../../../content/blurbs/data-collection.mdx';
 import DataInnovationBlurb from '../../../../content/blurbs/data-innovation.mdx';
-import DataPortalsBlurb from '../../../../content/blurbs/data-portals.mdx';
 import OpenDataBlurb from '../../../../content/blurbs/open-data.mdx';
 import WorkArrangementsBlurb from '../../../../content/blurbs/work-arrangements.mdx';
 
 const blurbs = {
   'data-collection': <DataCollectionBlurb />,
   'data-innovation': <DataInnovationBlurb />,
-  'data-portals': <DataPortalsBlurb />,
   'open-data': <OpenDataBlurb />,
   'work-arrangements': <WorkArrangementsBlurb />,
 };
