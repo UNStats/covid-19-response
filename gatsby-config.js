@@ -16,10 +16,10 @@ module.exports = {
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/data-collection',
-        contentPath: 'content/data-collection',
+        basePath: '/statistical-programmes',
+        contentPath: 'content/statistical-programmes',
         assetPath: 'content/assets/posts',
-        collection: 'data-collection',
+        collection: 'statistical-programmes',
       },
     },
     {
@@ -34,10 +34,10 @@ module.exports = {
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/data-innovation',
-        contentPath: 'content/data-innovation',
-        assetPath: 'content/assets/posts',
-        collection: 'data-innovation',
+        basePath: '/data-solutions',
+        contentPath: 'content/data-solutions',
+        // assetPath: 'content/assets',
+        collection: 'data-solutions',
       },
     },
     {
