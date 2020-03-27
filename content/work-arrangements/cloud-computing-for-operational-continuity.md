@@ -11,7 +11,7 @@ COVID-19 crisis.
 Cloud computing has become increasingly common among statistical organizations
 that do not have the hardware or personnel necessary to fully deploy software
 applications onsite, or that need to test new software tools in the context of
-pilot data-innovation projects. It is an approach focused on the delivery, over
+pilot data-solutions projects. It is an approach focused on the delivery, over
 the internet, of software, infrastructure and platform services hosted by a
 third party.
 

@@ -32,16 +32,16 @@ const ShadowedHeader = (props) => {
             href: '/',
           },
           {
-            children: <FormattedMessage id="data-collection.title" />,
-            href: '/data-collection/',
+            children: <FormattedMessage id="statistical-programmes.title" />,
+            href: '/statistical-programmes/',
           },
           {
             children: <FormattedMessage id="work-arrangements.title" />,
             href: '/work-arrangements/',
           },
           {
-            children: <FormattedMessage id="data-innovation.title" />,
-            href: '/data-innovation/',
+            children: <FormattedMessage id="data-solutions.title" />,
+            href: '/data-solutions/',
           },
           {
             children: <FormattedMessage id="open-data.title" />,

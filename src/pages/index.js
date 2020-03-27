@@ -43,12 +43,12 @@ const Homepage = ({ data, location }) => (
             },
           }}
         >
-          <FormattedMessage id="data-collection.title" />
+          <FormattedMessage id="statistical-programmes.title" />
         </Styled.h2>
         <Styled.p sx={{ fontStyle: 'italic', mb: 3 }}>
-          <FormattedMessage id="data-collection.description" />
+          <FormattedMessage id="statistical-programmes.description" />
         </Styled.p>
-        <PostList posts={data.dataCollection.nodes} mb={4} />
+        <PostList posts={data.statisticalProgrammes.nodes} mb={4} />
 
         <Styled.h2
           css={{
@@ -75,12 +75,12 @@ const Homepage = ({ data, location }) => (
             },
           }}
         >
-          <FormattedMessage id="data-innovation.title" />
+          <FormattedMessage id="data-solutions.title" />
         </Styled.h2>
         <Styled.p sx={{ fontStyle: 'italic', mb: 3 }}>
-          <FormattedMessage id="data-innovation.description" />
+          <FormattedMessage id="data-solutions.description" />
         </Styled.p>
-        <PostList posts={data.dataInnovation.nodes} mb={4} />
+        <PostList posts={data.dataSolutions.nodes} mb={4} />
 
         <Styled.h2
           css={{
@@ -128,10 +128,10 @@ export const query = graphql`
         description
       }
     }
-    dataCollection: allPost(
+    statisticalProgrammes: allPost(
       limit: 4
       sort: { fields: date, order: DESC }
-      filter: { collection: { eq: "data-collection" } }
+      filter: { collection: { eq: "statistical-programmes" } }
     ) {
       nodes {
         id
@@ -166,10 +166,10 @@ export const query = graphql`
         path
       }
     }
-    dataInnovation: allPost(
+    dataSolutions: allPost(
       limit: 4
       sort: { fields: date, order: DESC }
-      filter: { collection: { eq: "data-innovation" } }
+      filter: { collection: { eq: "data-solutions" } }
     ) {
       nodes {
         id

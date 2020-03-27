@@ -3,14 +3,14 @@ import { arrayOf, shape, string } from 'prop-types';
 import PostsPage from '@undataforum/gatsby-theme-blog/src/components/posts-page';
 import { Box } from 'theme-ui';
 
-import DataCollectionBlurb from '../../../../content/blurbs/data-collection.mdx';
-import DataInnovationBlurb from '../../../../content/blurbs/data-innovation.mdx';
+import StatisticalProgrammesBlurb from '../../../../content/blurbs/statistical-programmes.mdx';
+import DataInnovationBlurb from '../../../../content/blurbs/data-solutions.mdx';
 import OpenDataBlurb from '../../../../content/blurbs/open-data.mdx';
 import WorkArrangementsBlurb from '../../../../content/blurbs/work-arrangements.mdx';
 
 const blurbs = {
-  'data-collection': <DataCollectionBlurb />,
-  'data-innovation': <DataInnovationBlurb />,
+  'statistical-programmes': <StatisticalProgrammesBlurb />,
+  'data-solutions': <DataInnovationBlurb />,
   'open-data': <OpenDataBlurb />,
   'work-arrangements': <WorkArrangementsBlurb />,
 };
