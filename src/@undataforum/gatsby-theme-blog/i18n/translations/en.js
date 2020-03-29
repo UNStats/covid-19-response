@@ -17,7 +17,7 @@ const en = {
   // open-data
   'open-data.title': 'Open data',
   'open-data.description':
-    'Trusted data to support COVID-19 response: data portals, dashboards, and map visualizations for policy makers and front-line respondents.',
+    'Resources to support and encourage national statistical offices and other data producers to leverage and use open data in the global response to the COVID-19 outbreak.',
 };
 
 export default en;

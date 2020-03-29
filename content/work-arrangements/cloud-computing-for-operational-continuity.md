@@ -6,7 +6,10 @@ date: 2020-03-24
 Today, cloud computing stands out as a key element of an operatinal continuity
 and disaster recovery plan for statistical organizations, particularly in the
 face of the disruption national and global statistical systems caused by the
-COVID-19 crisis.
+COVID-19 crisis. Due to its reliance on hardware-independent virtualization
+technology, cloud computing enables organizations to quickly back up data,
+applications, and even operating systems to a remote data center, and to deploy
+them to multiple users distributed in many different locations.
 
 Cloud computing has become increasingly common among statistical organizations
 that do not have the hardware or personnel necessary to fully deploy software
@@ -14,11 +17,6 @@ applications onsite, or that need to test new software tools in the context of
 pilot data-solutions projects. It is an approach focused on the delivery, over
 the internet, of software, infrastructure and platform services hosted by a
 third party.
-
-Due to its reliance on hardware-independent virtualization technology, cloud
-computing enables organizations to quickly back up data, applications, and even
-operating systems to a remote data center, and to deploy them to multiple users
-distributed in many different locations.
 
 Cloud computing includes the implementation of a “software as a service” (SaaS)
 model, in which commonly used software applications are hosted on the cloud by a

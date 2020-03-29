@@ -1,5 +1,5 @@
 ---
-title: Adipisicing magna non quis culpa veniam exercitation enim culpa
+title: COVID-19 Stats Twitter Chat (session 1)
 start: 2020-03-31T09:00
 end: 2020-03-31T10:30
 zone: America/New_York
