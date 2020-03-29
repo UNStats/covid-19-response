@@ -3,9 +3,8 @@ import { arrayOf, node, shape, string } from 'prop-types';
 import { Box, Container, Flex, Heading, Text } from 'theme-ui';
 import { SmartLink } from '@undataforum/components';
 
-import Logo from './logo';
+import UnitedNationsLogo from './united-nations-logo';
 
-// •●
 const Header = ({ entity, topic, title, links, location, ...props }) => (
   <Container
     {...props}
@@ -23,7 +22,7 @@ const Header = ({ entity, topic, title, links, location, ...props }) => (
         py: [3, 4],
       }}
     >
-      <Logo height={[null, 80]} width={[256, 'unset']} />
+      <UnitedNationsLogo height={[null, 80]} width={[256, 'unset']} />
       <Flex
         sx={{
           flexDirection: 'column',
