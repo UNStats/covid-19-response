@@ -25,10 +25,10 @@ module.exports = {
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/work-arrangements',
-        contentPath: 'content/work-arrangements',
+        basePath: '/work-remotely',
+        contentPath: 'content/work-remotely',
         assetPath: 'content/assets/posts',
-        collection: 'work-arrangements',
+        collection: 'work-remotely',
       },
     },
     {

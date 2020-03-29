@@ -59,10 +59,10 @@ const Homepage = ({ data, location }) => (
             },
           }}
         >
-          <FormattedMessage id="work-arrangements.title" />
+          <FormattedMessage id="work-remotely.title" />
         </Styled.h2>
         <Styled.p sx={{ fontStyle: 'italic', mb: 3 }}>
-          <FormattedMessage id="work-arrangements.description" />
+          <FormattedMessage id="work-remotely.description" />
         </Styled.p>
         <PostList posts={data.workArrangements.nodes} mb={4} />
 
@@ -150,7 +150,7 @@ export const query = graphql`
     workArrangements: allPost(
       limit: 4
       sort: { fields: date, order: DESC }
-      filter: { collection: { eq: "work-arrangements" } }
+      filter: { collection: { eq: "work-remotely" } }
     ) {
       nodes {
         id
