@@ -14,6 +14,11 @@ const en = {
   'data-solutions.description':
     'Guidance and possible approaches for the production of timely data to monitor the evolution and impacts of COVID-19.',
 
+  // un-system
+  'un-system.title': 'UN System support',
+  'un-system.description':
+    'Initiatives and resources provided by agencies of the UN system and beyond, including the regional economic and social commissions.',
+
   // open-data
   'open-data.title': 'Open data',
   'open-data.description':
