@@ -6,13 +6,13 @@ import { Box } from 'theme-ui';
 import StatisticalProgrammesBlurb from '../../../../content/blurbs/statistical-programmes.mdx';
 import DataInnovationBlurb from '../../../../content/blurbs/data-solutions.mdx';
 import OpenDataBlurb from '../../../../content/blurbs/open-data.mdx';
-import WorkArrangementsBlurb from '../../../../content/blurbs/work-arrangements.mdx';
+import WorkRemotelyBlurb from '../../../../content/blurbs/work-remotely.mdx';
 
 const blurbs = {
   'statistical-programmes': <StatisticalProgrammesBlurb />,
   'data-solutions': <DataInnovationBlurb />,
   'open-data': <OpenDataBlurb />,
-  'work-arrangements': <WorkArrangementsBlurb />,
+  'work-remotely': <WorkRemotelyBlurb />,
 };
 
 const ShadowedPostsPage = ({ data, pageContext, location }) => (

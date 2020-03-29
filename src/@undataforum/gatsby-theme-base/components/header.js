@@ -36,8 +36,8 @@ const ShadowedHeader = (props) => {
             href: '/statistical-programmes/',
           },
           {
-            children: <FormattedMessage id="work-arrangements.title" />,
-            href: '/work-arrangements/',
+            children: <FormattedMessage id="work-remotely.title" />,
+            href: '/work-remotely/',
           },
           {
             children: <FormattedMessage id="data-solutions.title" />,

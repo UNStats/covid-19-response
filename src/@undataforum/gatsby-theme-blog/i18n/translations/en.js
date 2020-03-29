@@ -4,9 +4,9 @@ const en = {
   'statistical-programmes.description':
     'Rapid adaptation of data collection, processing and dissemination methods to ensure continuity of key statistical programmes.',
 
-  // work-arrangements
-  'work-arrangements.title': 'Working remotely',
-  'work-arrangements.description':
+  // work-remotely
+  'work-remotely.title': 'Working remotely',
+  'work-remotely.description':
     'Guidance and possible approaches to address managerial and IT challenges for operational continuity during the emergency situation.',
 
   // data-solutions
