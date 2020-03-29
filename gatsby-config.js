@@ -50,6 +50,15 @@ module.exports = {
       },
     },
     {
+      resolve: '@undataforum/gatsby-theme-blog',
+      options: {
+        basePath: '/un-system',
+        contentPath: 'content/un-system',
+        assetPath: 'content/assets/posts',
+        collection: 'un-system',
+      },
+    },
+    {
       resolve: '@undataforum/gatsby-theme-events',
       options: {
         basePath: '/sharing',
