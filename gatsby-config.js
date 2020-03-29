@@ -36,7 +36,7 @@ module.exports = {
       options: {
         basePath: '/data-solutions',
         contentPath: 'content/data-solutions',
-        // assetPath: 'content/assets',
+        assetPath: 'content/assets/posts',
         collection: 'data-solutions',
       },
     },
