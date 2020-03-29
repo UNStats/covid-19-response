@@ -2,7 +2,7 @@ import React from 'react';
 import { arrayOf, number, oneOf, oneOfType } from 'prop-types';
 import { Box } from 'theme-ui';
 
-const Emblem = ({ color = 'primary', height, ...props }) => (
+const UnEmblem = ({ color = 'primary', height, ...props }) => (
   <Box {...props} sx={{ color, height }}>
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -16,9 +16,9 @@ const Emblem = ({ color = 'primary', height, ...props }) => (
   </Box>
 );
 
-Emblem.propTypes = {
+UnEmblem.propTypes = {
   color: oneOf(['primary', 'inherit']),
   height: oneOfType([number, arrayOf(number)]),
 };
 
-export default Emblem;
+export default UnEmblem;
