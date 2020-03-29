@@ -1908,7 +1908,7 @@
     remark "^11.0.1"
     strip-markdown "^3.1.2"
 
-"@undataforum/gatsby-theme-events@^0.8.3":
+"@undataforum/gatsby-theme-events@0.8.3":
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/@undataforum/gatsby-theme-events/-/gatsby-theme-events-0.8.3.tgz#a30d871a195a064bf1afe85fc6459bae5861a4ca"
   integrity sha512-UaV18RqSOTKT7YU9CTUco0ry+OQ+D8ODmv/eJ7/MfS+WYCmrB3dk65Um6zeZ8CaN4gTVdkec0PKREyukIHKPJQ==
