@@ -14,10 +14,10 @@ const en = {
   'statistical-programmes.description':
     'Rapid adaptation of data collection, processing and dissemination methods to ensure continuity of key statistical programmes.',
 
-  // un-system
-  'un-system.title': 'UN System support',
-  'un-system.description':
-    'Initiatives and resources provided by agencies of the UN system and beyond, including the regional economic and social commissions.',
+  // other-links
+  'other-links.title': 'Other links',
+  'other-links.description':
+    'Initiatives and resources provided by agencies of the UN system and beyond, including the regional economic and social commissions and stakeholders from private sector, academia, and civil society.',
 
   // work-remotely
   'work-remotely.title': 'Working remotely',

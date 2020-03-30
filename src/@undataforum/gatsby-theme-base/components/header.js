@@ -48,8 +48,8 @@ const ShadowedHeader = (props) => {
             href: '/open-data/',
           },
           {
-            children: <FormattedMessage id="un-system.title" />,
-            href: '/un-system/',
+            children: <FormattedMessage id="other-links.title" />,
+            href: '/other-links/',
           },
           {
             children: <FormattedMessage id="sharing.title" />,
