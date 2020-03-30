@@ -43,10 +43,10 @@ module.exports = {
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/other-links',
-        contentPath: 'content/other-links',
+        basePath: '/useful-links',
+        contentPath: 'content/useful-links',
         assetPath: 'content/assets/posts',
-        collection: 'other-links',
+        collection: 'useful-links',
       },
     },
     {

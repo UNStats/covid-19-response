@@ -19,6 +19,7 @@ COVID-19.
 
 The aim is to include projects that show a commitment to privacy protection,
 data responsibility, and overall user well-being. It will be updated regularly
-as we receive projects and proposals or otherwise become aware of them.
-Individuals are encouraged to edit the below and/or suggest additions to the
-repository.
+as
+[GovLab](https://docs.google.com/document/d/1JWeD1AaIGKMPry_EN8GjIqwX4J4KLQIAqP09exZ-ENI/edit)
+receives projects and proposals or otherwise becomes aware of them. Individuals
+are encouraged to edit the below and/or suggest additions to the repository.

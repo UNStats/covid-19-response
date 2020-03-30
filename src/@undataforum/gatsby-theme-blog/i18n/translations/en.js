@@ -7,16 +7,16 @@ const en = {
   // open-data
   'open-data.title': 'Open data',
   'open-data.description':
-    'Resources to support and encourage national statistical offices and other data producers to leverage and use open data in the global response to the COVID-19 outbreak.',
+    'Resources to support and encourage national statistical offices and other data producers to leverage and use open data .',
 
   // statistical-programmes
   'statistical-programmes.title': 'Ensuring continuity',
   'statistical-programmes.description':
     'Rapid adaptation of data collection, processing and dissemination methods to ensure continuity of key statistical programmes.',
 
-  // other-links
-  'other-links.title': 'Other links',
-  'other-links.description':
+  // useful-links
+  'useful-links.title': 'Useful links',
+  'useful-links.description':
     'Initiatives and resources provided by agencies of the UN system and beyond, including the regional economic and social commissions and stakeholders from private sector, academia, and civil society.',
 
   // work-remotely
