@@ -91,12 +91,12 @@ const Homepage = ({ data, location }) => (
             },
           }}
         >
-          <FormattedMessage id="un-system.title" />
+          <FormattedMessage id="other-links.title" />
         </Styled.h2>
         <Styled.p sx={{ fontStyle: 'italic', mb: 3 }}>
-          <FormattedMessage id="un-system.description" />
+          <FormattedMessage id="other-links.description" />
         </Styled.p>
-        <PostList posts={data.UNSystem.nodes} mb={4} />
+        <PostList posts={data.OtherLinks.nodes} mb={4} />
 
         <Styled.h2
           css={{
@@ -201,10 +201,10 @@ export const query = graphql`
         path
       }
     }
-    UNSystem: allPost(
+    OtherLinks: allPost(
       limit: 4
       sort: { fields: date, order: DESC }
-      filter: { collection: { eq: "un-system" } }
+      filter: { collection: { eq: "other-links" } }
     ) {
       nodes {
         id
