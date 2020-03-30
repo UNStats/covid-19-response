@@ -12,6 +12,7 @@
     "start": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
     "build": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby build",
     "clean": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
+    "serve": "rm -rf ./public && yarn run build && serve -l 8000 public",
     "inspect": "gatsby clean && node --inspect node_modules/.bin/gatsby develop",
     "lint": "yarn run lint:code && yarn run lint:other",
     "lint:code": "eslint . --cache --ext .js,.jsx --ignore-path .gitignore",
@@ -45,10 +46,12 @@
     "typeface-roboto": "0.0.75"
   },
   "devDependencies": {
+    "add": "^2.0.6",
     "eslint": "6.8.0",
     "eslint-plugin-shopify": "35.1.0",
     "husky": "4.2.3",
     "lint-staged": "10.0.10",
-    "prettier": "2.0.2"
+    "prettier": "2.0.2",
+    "serve": "^11.3.0"
   }
 }
