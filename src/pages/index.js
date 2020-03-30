@@ -2,12 +2,11 @@
 import { object, shape, string } from 'prop-types';
 import { graphql } from 'gatsby';
 import { Layout, Seo } from '@undataforum/gatsby-theme-base';
-import { jsx, Box, Container, Styled } from 'theme-ui';
+import { jsx, Box, Container, Styled, Text } from 'theme-ui';
 import { IntlProvider, FormattedMessage } from 'react-intl';
 import messages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
 
 import PostList from '../components/post-list';
-import Blurb from '../../content/blurbs/about.mdx';
 import Background from '../../content/blurbs/background.mdx';
 
 const Homepage = ({ data, location }) => (
@@ -25,9 +24,7 @@ const Homepage = ({ data, location }) => (
           description={data.site.siteMetadata.description}
         />
         <Styled.h1>About this website</Styled.h1>
-        <Box mb={4}>
-          <Blurb />
-        </Box>
+        <Text sx={{ mb: 4 }}>{data.site.siteMetadata.description}</Text>
 
         <Styled.h1>Background</Styled.h1>
         <Box mb={4}>
