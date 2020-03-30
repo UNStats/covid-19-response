@@ -7,7 +7,7 @@ const en = {
   // open-data
   'open-data.title': 'Open data',
   'open-data.description':
-    'Resources to support and encourage national statistical offices and other data producers to leverage and use open data .',
+    'Resources to support and encourage national statistical offices and other data producers to leverage and use open data.',
 
   // statistical-programmes
   'statistical-programmes.title': 'Ensuring continuity',

@@ -1,6 +1,6 @@
 ---
 title: Publish existing data following open data guidelines
-date: 2020-03-27
+date: 2020-03-28
 ---
 
 Identifying existing datasets for priority dissemination is the first step to
@@ -40,7 +40,7 @@ COVID-19, and initiatives underway that use data to stop the pandemic.
 
 - The **World Health Organization (WHO)** publishes in their
   [daily situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
-  the global and national tally of COVID-19 cases and deaths..
+  the global and national tally of COVID-19 cases and deaths.
 - The **Center for Systems Science and Engineering (CSSE) at Johns Hopkins
   University** has a
   [dashboard and data for download site](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
