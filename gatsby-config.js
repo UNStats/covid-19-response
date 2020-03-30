@@ -16,28 +16,19 @@ module.exports = {
     {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
-        basePath: '/statistical-programmes',
-        contentPath: 'content/statistical-programmes',
-        assetPath: 'content/assets/posts',
-        collection: 'statistical-programmes',
-      },
-    },
-    {
-      resolve: '@undataforum/gatsby-theme-blog',
-      options: {
-        basePath: '/work-remotely',
-        contentPath: 'content/work-remotely',
-        assetPath: 'content/assets/posts',
-        collection: 'work-remotely',
-      },
-    },
-    {
-      resolve: '@undataforum/gatsby-theme-blog',
-      options: {
         basePath: '/data-solutions',
         contentPath: 'content/data-solutions',
         assetPath: 'content/assets/posts',
         collection: 'data-solutions',
+      },
+    },
+    {
+      resolve: '@undataforum/gatsby-theme-blog',
+      options: {
+        basePath: '/statistical-programmes',
+        contentPath: 'content/statistical-programmes',
+        assetPath: 'content/assets/posts',
+        collection: 'statistical-programmes',
       },
     },
     {
@@ -56,6 +47,15 @@ module.exports = {
         contentPath: 'content/un-system',
         assetPath: 'content/assets/posts',
         collection: 'un-system',
+      },
+    },
+    {
+      resolve: '@undataforum/gatsby-theme-blog',
+      options: {
+        basePath: '/work-remotely',
+        contentPath: 'content/work-remotely',
+        assetPath: 'content/assets/posts',
+        collection: 'work-remotely',
       },
     },
     {
