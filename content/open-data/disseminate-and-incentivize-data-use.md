@@ -45,7 +45,7 @@ disseminating and incentivizing the use of data.
 - WHO has created an
   [interactive dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
   with the latest global numbers and numbers by country of COVID-19 cases on a
-  daily basis
+  daily basis.
 - Johns Hopkins created a
   [global dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
   to track the spread of the virus.
