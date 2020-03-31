@@ -22,6 +22,12 @@ const Homepage = ({ data, location }) => (
         <Seo
           title="Homepage"
           description={data.site.siteMetadata.description}
+          meta={[
+            {
+              name: 'google-site-verification',
+              content: 'MXgFccKz7I-wow4292HGQYya2pcY3R_w5JPAXUu6R8Q',
+            },
+          ]}
         />
         <Styled.h1>About this website</Styled.h1>
         <Text sx={{ mb: 4 }}>{data.site.siteMetadata.description}</Text>
