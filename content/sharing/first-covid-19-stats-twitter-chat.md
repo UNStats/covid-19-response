@@ -2,7 +2,7 @@
 title: First COVID-19 Stats Twitter chat
 start: 2020-04-01T09:00
 end: 2020-04-01T10:00
-zone: America/New_York
+timezone: America/New_York
 ---
 
 On 1 April at 9AM ET/1PM UTC, the
