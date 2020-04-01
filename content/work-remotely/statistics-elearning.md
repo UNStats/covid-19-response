@@ -9,10 +9,9 @@ acquiring new skills. Many international agencies, regional training institutes
 and national statistical offices are providing e-learning courses and other
 learning materials. This can be difficult to navigate, however, not knowing who
 provides what. An online gateway was therefore recently launched which is meant
-to help in navigating available courses:
-[www.unsdglearn.org/statistics](www.unsdglearn.org/statistics). Different
-agencies are there providing key information of their courses and a link to
-their own pages where one can register for the course in question.
+to help in navigating available courses: https://www.unsdglearn.org/statistics/.
+Different agencies are there providing key information of their courses and a
+link to their own pages where one can register for the course in question.
 
 The page offers various navigation opportunities; by SDGs, by statistical
 domains and type of learning. Micro learning-courses are currently available on
