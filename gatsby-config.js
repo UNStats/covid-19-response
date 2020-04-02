@@ -14,6 +14,14 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-48267274-9',
+        anonymize: true,
+        respectDNT: true,
+      },
+    },
+    {
       resolve: '@undataforum/gatsby-theme-blog',
       options: {
         basePath: '/data-solutions',
