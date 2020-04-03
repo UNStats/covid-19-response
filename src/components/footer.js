@@ -17,14 +17,12 @@ const Footer = ({ links }) => (
     }}
   >
     <Container sx={{ maxWidth: 'width.default', px: [2, 3, 4], py: 4 }}>
-      <Flex
-        sx={{ flexDirection: 'column', alignItems: ['center', 'flex-start'] }}
-      >
+      <Flex sx={{ flexDirection: 'column', alignItems: 'start' }}>
         <SmartLink href="https://unstats.un.org" variant="inherit">
           <Flex
             sx={{
               flexDirection: ['column', 'row'],
-              alignItems: 'center',
+              alignItems: ['start', 'center'],
               mb: 4,
             }}
           >
@@ -32,7 +30,7 @@ const Footer = ({ links }) => (
             <Flex
               sx={{
                 flexDirection: 'column',
-                alignItems: ['center', 'flex-start'],
+                alignItems: 'start',
                 borderTop: [
                   (theme) => `solid 2px ${theme.colors.background}`,
                   'none',
@@ -47,14 +45,14 @@ const Footer = ({ links }) => (
                 pl: [0, 3],
               }}
             >
-              <Heading sx={{ fontSize: [4, 5], textAlign: ['center', 'left'] }}>
+              <Heading sx={{ fontSize: [4, 5], textAlign: 'left' }}>
                 Department of Economic and Social Affairs
               </Heading>
               <Text
                 sx={{
                   fontSize: [3, 4],
                   lineHeight: 'heading',
-                  textAlign: ['center', 'left'],
+                  textAlign: 'start',
                 }}
               >
                 Statistics
@@ -67,7 +65,7 @@ const Footer = ({ links }) => (
           sx={{
             flexDirection: ['column', 'row'],
             flexWrap: ['none', 'wrap'],
-            alignItems: 'center',
+            alignItems: 'start',
             mb: 4,
           }}
         >
