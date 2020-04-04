@@ -36,7 +36,7 @@
     "deepmerge": "4.2.2",
     "gatsby": "2.20.10",
     "gatsby-image": "2.3.1",
-    "gatsby-plugin-google-analytics": "^2.2.2",
+    "gatsby-plugin-google-analytics": "2.2.2",
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
@@ -50,6 +50,6 @@
     "husky": "4.2.3",
     "lint-staged": "10.1.1",
     "prettier": "2.0.2",
-    "serve": "^11.3.0"
+    "serve": "11.3.0"
   }
 }
