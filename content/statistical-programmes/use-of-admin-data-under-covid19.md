@@ -39,21 +39,21 @@ interruption. This may be challenging, particularly in the current situation
 where the staff responsible for running and overseeing such data flows may be
 working from home without adequate access to the necessary IT infrastructure.
 
-It is thus very important for NSO staff to stay team up with the owners of key
-administrative systems to ensure the continued sharing of data, and to explore
-potential alternative approaches in order to overcome access restrictions and
-other disruptions in existing data flows. For instance, during the COVID-19
-crisis, the owners of administrative data systems may also experience
-disruptions in the inflow of information, particularly if the source data is not
-provided to them online or by other automated means. In these cases, it is
-crucial that NSO officials collaborate with the administrative data owner to
-establish new approaches for data collection, at least on a temporary basis.
-NSOs may even contact the disaster risk management agency and humanitarian
-actors, who can help on the ground in order to keep data flows going. This is
-particularly relevant in the context of COVID-19, given that most health and
-vital statistics originate from administrative records. So do other statistics
-that are important to monitor and assess the impact of the pandemic, such as
-statistics on social services and education statistics.
+It is thus very important for NSO staff to team up with the owners of key
+administrative systems to ensure the continued sharing of data. They should also
+work together to explore how best to overcome access restrictions and other
+disruptions in existing data flows. For instance, during the COVID-19 crisis,
+the owners of administrative data systems may also experience disruptions in the
+inflow of information, particularly if the source data is not provided to them
+online or by other automated means. In these cases, it is crucial that NSO
+officials collaborate with the administrative data owner to establish new
+approaches for data collection, at least on a temporary basis. NSOs may even
+contact the disaster risk management agency and humanitarian actors, who can
+help on the ground in order to keep data flows going. This is particularly
+relevant in the context of COVID-19, given that most health and vital statistics
+originate from administrative records. So do other statistics that are important
+to monitor and assess the impact of the pandemic, such as statistics on social
+services and education statistics.
 
 There could be disruptions in the collection of administrative data even if most
 information is provided online. This may particularly be the case for businesses
