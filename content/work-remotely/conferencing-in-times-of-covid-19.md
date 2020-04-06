@@ -1,0 +1,108 @@
+---
+title: Conferencing in the times of COVID-19
+date: 2020-04-06
+---
+
+Many organizations around the world are finding themselves in a position of
+having to decide how to move forward on planned conferences and meetings in the
+face of the current COVID-19 pandemic. This is the position that colleagues from
+the [United Nations University Institute in Macau](https://cs.unu.edu/) found
+themselves in with the
+[11th International Development Informatics Association conference (IDIA2020)](https://www.idia2020.com/)
+planned for 25–27 March 2020. The organizing committee considered various
+options, including cancellation, postponement, or relocation (which was an
+option at the time), and ultimately decided on the virtual conference format.
+
+While this was the right and responsible decision to make, it was nonetheless
+not an easy one, for several reasons:
+
+1. Virtual conferences are not very common within the ICT4D academic community,
+   and it was **difficult to anticipate the response** of the community.
+1. There was a potential **loss of one of the key features** of academic
+   conferencing - the networking and interaction between participants.
+1. There were **inevitable technical challenges** (e.g., associated with
+   Internet connectivity) that would affect some participants.
+1. The team had **no experience** in organizing and hosting a virtual
+   conference.
+1. It meant **forfeiting the effort** that had already gone into the local
+   organization of the conference.
+
+Looking back at the recently concluded conference, not only was it the right and
+responsible decision to go virtual, it was also the best decision as aptly and
+eloquently articulated by one of the participants:
+
+> [\#IDIA2020](https://twitter.com/hashtag/IDIA2020?src=hashtag_click) is
+> showing us all that a new, sustainable way of
+> [#conferencing](https://twitter.com/hashtag/IDIA2020?src=hashtag_click) is
+> possible - one that is virtual, interactive and accessible to researchers from
+> all countries, without prohibitive fees and travel costs. Thanks to the
+> organisers for making it possible!
+
+The following is what went in to making IDIA2020 a successful virtual conference
+and what can be applied in other contexts.
+
+## Plan
+
+Extensive research went in to **deciding the right tools** to use for the
+conference from among the many alternatives. This boiled down to the choice of
+the conferencing platform as well as the audience engagement platform, which, in
+our case, ended up being Zoom and Mentimeter, respectively.
+
+It is essential to have **mitigation plans for known risks**. We set up four
+levels of contingencies for the main risk of presenters having Internet
+connection problems: (1) talk and slide-sharing by presenters, (2) talk by
+presenters and slide-sharing by the Host, (3) telephone dial-in by presenters
+and slide-share by the Host, and (4) pre-recording of the presentations. We also
+considered and planned for some of the recently popularized risks associated
+with the chosen tools.
+
+**Roles and responsibilities** around the virtual conference need to be clearly
+defined and rehearsed. For IDIA2020, the Host was responsible for managing
+participants; a Co-host managed presentations, slide-sharing, as well as the
+audience engagement platform, and session moderators (and stand-by moderators)
+facilitated the discussions.
+
+## Communicate
+
+**Clear and timely communication**, before and during the virtual conference, is
+essential because participants might not know what to expect and what is
+expected of them. Share detailed information on house rules (e.g.,
+muting/unmuting, Q&A arrangements) and also share the program (available in
+multiple timezones).
+
+## Improvise
+
+It is essential to recognize and accept that **the unexpected will happen** and
+that solutions will need to be improvised on the spot. Having well-defined roles
+and responsibilities and clear team communication is essential. We set up a
+“control center” for IDIA2020, which helped the hosting team to work together to
+resolve issues as they occurred.
+
+## Let go
+
+There is a **temptation to hang-on to the usual and the traditional** aspects of
+a physical conference and to try and force those into the virtual conference
+format. While some elements can and must persist in the virtual (see the next
+point), some things work well only in face-to-face engagements. For IDIA2020, we
+had to let go of some of the planned interactive workshops. Unfortunately, a few
+of our participants were also not keen to continue with the virtual format.
+
+## Hang on
+
+A common practice in conferences is the participant group photo, typically at
+the end of the conference. For IDIA2020, while the virtual format gave a new
+twist to the group photo, it gave the participants something familiar and
+expected. This and other **such practices are necessary to hang on to**, and if
+necessary, to **adapt accordingly**.
+
+In conclusion, to borrow from Shakespeare, "There is a tide in the affairs of
+men, which taken at the flood, leads on to fortune … On such a full sea are we
+now afloat." The COVID-19 pandemic, like many other global challenges, is
+providing us with an opportunity to reimagine our world and to improvise,
+innovate, and adapt the way we live and do business. Sharing experiences and
+expertise is a big part of leveraging such opportunities.
+
+---
+
+_This article was contributed by Mamello THINYANE, Principal Research Fellow,
+United Nations University._
