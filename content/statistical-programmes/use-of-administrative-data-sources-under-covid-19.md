@@ -31,7 +31,7 @@ cycle, among other factors.
 ## Ensuring and expanding the use of administrative records that are already being shared with the National Statistical Office
 
 During the time of crisis, national statistical offices (NSOs) should
-[prioritize the use of data sources that are already available](https://covid-19-response.unstatshub.org/open-data/publish-existing-data-as-open-data/)
+[prioritize the use of data sources that are already available](/open-data/publish-existing-data-as-open-data/)
 to them, before focusing on collecting new data. As a first step, it is crucial
 to ensure that data reporting flows that were already in place form entities
 owning administrative data systems to the NSO continue operating without

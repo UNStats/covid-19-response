@@ -3,7 +3,14 @@
   "scope": "unstats",
   "routes": [
     {
-      "src": "/useful-links/covid19-data-collaboratives",
+      "src": "/statistical-programmes/use-of-admin-data-under-covid19/",
+      "status": 308,
+      "headers": {
+        "Location": "/statistical-programmes/use-of-administrative-data-sources-under-covid-19/"
+      }
+    },
+    {
+      "src": "/useful-links/covid19-data-collaboratives/",
       "status": 308,
       "headers": { "Location": "/useful-links/covid-19-data-collaboratives/" }
     },
