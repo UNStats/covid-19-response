@@ -11,21 +11,19 @@ As the ongoing global crisis related to the COVID-19 pandemic continues to
 unfold, there is an increasing risk of less production and dissemination of
 disaggregated, high quality foundational data in National Statistical Systems
 (NSS) in developing and least-developed countries, already facing a capacity
-squeeze.
+squeeze. While those NSSs adjust their operations in the face of lockdowns and
+other mitigation policies, policymakers and citizens need to take quick,
+informed actions to tackle the crisis--ideally based on quality data accessible
+to everyone. Consequently, the combination of rising demands and constrained
+supply of official statistics reduces NSS capacity to contribute to response and
+recovery activities.
 
-While those NSSs adjust their operations in the face of lockdowns and other
-mitigation policies, policymakers and citizens need to take quick, informed
-actions to tackle the crisis--ideally based on quality data accessible to
-everyone. Consequently, the combination of rising demands and constrained supply
-of official statistics reduces NSS capacity to contribute to response and
-recovery activities. In this context, private data producers, civil society
-organisations and academia might step in and provide a complementary supply of
-data to policymakers.
-
-In a crisis more than in any other time, NSSs thus need to reach beyond their
-traditional mandate as a data producer, and engage in data stewardship. Capacity
-development efforts should refocus on developing coordination, governance and
-quality management capabilities.
+In this context, private data producers, civil society organisations and
+academia might step in and provide a complementary supply of data to
+policymakers. In a crisis more than in any other time, NSSs thus need to reach
+beyond their traditional mandate as a data producer, and engage in data
+stewardship. Capacity development efforts should refocus on developing
+coordination, governance and quality management capabilities.
 
 <Box mb={3}>
   <Img
