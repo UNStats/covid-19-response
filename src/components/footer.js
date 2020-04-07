@@ -3,9 +3,9 @@ import { arrayOf, shape, string } from 'prop-types';
 import { Box, Container, Flex, Heading, Text } from 'theme-ui';
 import { SmartLink, SocialIcons } from '@undataforum/components';
 
-import UnitedNationsLogo from './united-nations-logo';
-import GlobalPartnershipLogo from './global-partnership-logo';
-import OpenDataWatchLogo from './open-data-watch-logo';
+import UnitedNationsLogo from '../logos/united-nations-logo';
+import GlobalPartnershipLogo from '../logos/global-partnership-logo';
+import OpenDataWatchLogo from '../logos/open-data-watch-logo';
 
 const Footer = ({ links }) => (
   <Box
@@ -106,7 +106,7 @@ const Footer = ({ links }) => (
           variant="inherit"
           mb={[3, 4]}
         />
-        <Flex sx={{ flexWrap: 'wrap', justifyContent: 'center' }}>
+        <Flex sx={{ flexWrap: 'wrap', justifyContent: 'start' }}>
           {links.map((link) => (
             <SmartLink
               href={link.href}
@@ -115,7 +115,7 @@ const Footer = ({ links }) => (
               pb={[1, 2]}
               variant="inherit"
             >
-              <Text sx={{ fontFamily: 'body', textAlign: 'center' }}>
+              <Text sx={{ fontFamily: 'body', textAlign: 'start' }}>
                 {link.text}
               </Text>
             </SmartLink>

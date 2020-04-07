@@ -3,7 +3,7 @@ import { arrayOf, node, shape, string } from 'prop-types';
 import { Box, Container, Flex, Heading, Text } from 'theme-ui';
 import { SmartLink } from '@undataforum/components';
 
-import UnitedNationsLogo from './united-nations-logo';
+import UnitedNationsLogo from '../logos/united-nations-logo';
 
 const Header = ({ entity, topic, title, links, location, ...props }) => (
   <Container

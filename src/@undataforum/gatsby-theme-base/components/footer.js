@@ -9,6 +9,7 @@ const ShadowedFooter = () => (
       { text: 'Copyright', href: '/copyright/' },
       { text: 'Privacy Notice', href: '/privacy/' },
       { text: 'Terms of Use', href: '/terms/' },
+      { text: 'Credits', href: '/credits/' },
     ]}
   />
 );
