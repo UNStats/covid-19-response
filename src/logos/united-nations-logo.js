@@ -2,7 +2,7 @@
 import { arrayOf, bool, number, oneOfType } from 'prop-types';
 import { jsx } from 'theme-ui';
 
-const UnLogo = ({ height, width, monochrome = false }) => (
+const UnitedNationsLogo = ({ height, width, monochrome = false }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     sx={{ fill: monochrome ? 'currentColor' : 'text', height, width }}
@@ -28,10 +28,10 @@ const UnLogo = ({ height, width, monochrome = false }) => (
   </svg>
 );
 
-UnLogo.propTypes = {
+UnitedNationsLogo.propTypes = {
   height: oneOfType([number, arrayOf(number)]),
   width: oneOfType([number, arrayOf(number)]),
   monochrome: bool,
 };
 
-export default UnLogo;
+export default UnitedNationsLogo;

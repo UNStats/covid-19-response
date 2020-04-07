@@ -2,7 +2,7 @@ import React from 'react';
 import { arrayOf, number, oneOf, oneOfType } from 'prop-types';
 import { Box } from 'theme-ui';
 
-const UnEmblem = ({ color = 'primary', height, ...props }) => (
+const UnitedNationsIcon = ({ color = 'primary', height, ...props }) => (
   <Box {...props} sx={{ color, height }}>
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -16,9 +16,9 @@ const UnEmblem = ({ color = 'primary', height, ...props }) => (
   </Box>
 );
 
-UnEmblem.propTypes = {
+UnitedNationsIcon.propTypes = {
   color: oneOf(['primary', 'inherit']),
   height: oneOfType([number, arrayOf(number)]),
 };
 
-export default UnEmblem;
+export default UnitedNationsIcon;
