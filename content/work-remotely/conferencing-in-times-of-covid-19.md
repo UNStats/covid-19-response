@@ -1,7 +1,11 @@
 ---
 title: Conferencing in the times of COVID-19
 date: 2020-04-06
+images:
+  - ../assets/posts/IDIA2020.jpg
 ---
+
+import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
 Many organizations around the world are finding themselves in a position of
 having to decide how to move forward on planned conferences and meetings in the
@@ -26,6 +30,14 @@ not an easy one, for several reasons:
    conference.
 1. It meant **forfeiting the effort** that had already gone into the local
    organization of the conference.
+
+<Box mb={3}>
+  <Img
+    fluid={props.images[0]}
+    title="The virtual solution enabled the 11th International Development Informatics Association to succeed"
+    alt="The virtual solution enabled the 11th International Development Informatics Association to succeed"
+  />
+</Box>
 
 Looking back at the recently concluded conference, not only was it the right and
 responsible decision to go virtual, it was also the best decision as aptly and
