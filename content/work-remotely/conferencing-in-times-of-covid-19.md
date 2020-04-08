@@ -34,8 +34,8 @@ not an easy one, for several reasons:
 <Box mb={3}>
   <Img
     fluid={props.images[0]}
-    title="The virtual solution enabled the 11th International Development Informatics Association to succeed"
-    alt="The virtual solution enabled the 11th International Development Informatics Association to succeed"
+    title="The virtual solution enabled the 11th International Development Informatics Association conference to succeed"
+    alt="The virtual solution enabled the 11th International Development Informatics Association conference to succeed"
   />
 </Box>
 
