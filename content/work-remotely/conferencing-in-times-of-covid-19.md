@@ -31,12 +31,7 @@ Looking back at the recently concluded conference, not only was it the right and
 responsible decision to go virtual, it was also the best decision as aptly and
 eloquently articulated by one of the participants:
 
-> [\#IDIA2020](https://twitter.com/hashtag/IDIA2020?src=hashtag_click) is
-> showing us all that a new, sustainable way of
-> [#conferencing](https://twitter.com/hashtag/IDIA2020?src=hashtag_click) is
-> possible - one that is virtual, interactive and accessible to researchers from
-> all countries, without prohibitive fees and travel costs. Thanks to the
-> organisers for making it possible!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/IDIA2020?src=hash&amp;ref_src=twsrc%5Etfw">#IDIA2020</a> is showing us all that a new, sustainable way of <a href="https://twitter.com/hashtag/conferencing?src=hash&amp;ref_src=twsrc%5Etfw">#conferencing</a> is possible - one that is virtual, interactive and accessible to researchers from all countries, without prohibitive fees and travel costs. Thanks to the organisers for making it possible! <a href="https://twitter.com/hashtag/ICT4D?src=hash&amp;ref_src=twsrc%5Etfw">#ICT4D</a> <a href="https://twitter.com/idia2020?ref_src=twsrc%5Etfw">@idia2020</a> <a href="https://t.co/VHor26nI7h">pic.twitter.com/VHor26nI7h</a></p>&mdash; Silvia Masiero (@SilviaHedley) <a href="https://twitter.com/SilviaHedley/status/1243200513027510277?ref_src=twsrc%5Etfw">March 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The following is what went in to making IDIA2020 a successful virtual conference
 and what can be applied in other contexts.
