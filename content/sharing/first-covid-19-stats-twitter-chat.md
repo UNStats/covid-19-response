@@ -100,8 +100,9 @@ response to COVID-19:
 
 ## Stay tuned!
 
-Thank you to all who joined the first webinar. We look forward to continuing the
-discussions in the next one. Please
+Thank you to all who joined the first
+**[#CovidDataChat](https://twitter.com/hashtag/CovidDataChat?src=hash)** on
+Twitter. We look forward to continuing the discussions in the next one. Please
 [visit our website](https://covid-19-response.unstatshub.org/sharing/) or follow
 [@UNStats](https://twitter.com/unstats) on Twitter for more information on the
 next [#CovidDataChat](https://twitter.com/hashtag/CovidDataChat?src=hash)’s
