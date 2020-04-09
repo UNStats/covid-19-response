@@ -75,8 +75,13 @@ It is updated continuously as more resources become available.
 
 ### World Health Organization (WHO)
 
-- [Novel Coronavirus (COVID-19) Situation dashboard ](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [Novel Coronavirus (COVID-19) Situation dashboard ](https://who.sprinklr.com/)
   - Interactive dashboard with latest data on COVID-19 cases.
+- [COVID-19 News Map](https://portal.who.int/eios-coronavirus-newsmap/)
+  - Coronavirus news as reported through publicly available web sites.
+- [COVID-19 Website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+  - Country and technical guidance, situation reports, public and travel advice,
+    and additional information resources on the coronavirus disease (COVID-19).
 
 ### The World Bank
 
