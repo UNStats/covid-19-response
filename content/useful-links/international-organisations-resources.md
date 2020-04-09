@@ -14,10 +14,10 @@ It is updated continuously as more resources become available.
     resources.
 - [COVID-19 and its impact on statistical operations in Latin America and the Caribbean](https://rtc-cea.cepal.org/sites/default/files/rtc_connected/files/COVID_Debriefing_english2%20CEPAL.pdf)
   - Summary of results of questionnaire on measures taken by the National
-    Statistical Offices , Central Banks and other institutions in Latin America
-    and the Caribbean
+    Statistical Offices, Central Banks and other institutions in Latin America
+    and the Caribbean in response to the COVID-19 situation.
 
-### United Nations Economic and Social Commissin for Asia and the Pacific (UN ESCAP)
+### United Nations Economic and Social Commission for Asia and the Pacific (UN ESCAP)
 
 - [Stats Brief, February 2020 (Issue no. 23): Surveys Under Lockdown; a pandemic lesson](https://www.unescap.org/resources/stats-brief-february-2020-issue-no-23-surveys-under-lockdown-pandemic-lesson)
   - overview of COVID-19 impact on data collection operations and possible
@@ -83,11 +83,9 @@ It is updated continuously as more resources become available.
 - [Understanding the Coronavirus (COVID-19) pandemic through data](http://datatopics.worldbank.org/universal-health-coverage/covid19/)
   - Real-time data, statistical indicators, and other types of data that are
     relevant to the coronavirus pandemic, drawn from the World Bank’s data
-    catalog and other authoritative sources. This page will be updated
-    frequently as more data and research becomes available, particularly on the
-    economic and social impacts of the pandemic and the World Bank’s efforts to
-    address them.
+    catalog and other authoritative sources. This page is updated frequently as
+    more data and research becomes available, particularly on the economic and
+    social impacts of the pandemic and the World Bank’s efforts to address them.
 - [LSMS launches high-frequency phone surveys on COVID-19](http://surveys.worldbank.org/blogs/lsms-launches-high-frequency-phone-surveys-covid-19)
-  - As part of the LSMS Program, the World Bank, together with our NSO partners
-    supporting a global effort to set up phone surveys to monitor socio-economic
-    impacts of COVID-19
+  - Support provided by the World Bank, together with NSO partners, to set up
+    phone surveys to monitor socio-economic impacts of COVID-19.
