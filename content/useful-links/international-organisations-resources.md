@@ -73,7 +73,7 @@ It is updated continuously as more resources become available.
 - [COVID-19: Emerging gender data and why it matters](https://data.unwomen.org/resources/covid-19-emerging-gender-data-and-why-it-matters)
   - UN Women’s new data resource on gender and COVID-19.
 
-### World Health Organisation (WHO)
+### World Health Organization (WHO)
 
 - [Novel Coronavirus (COVID-19) Situation dashboard ](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
   - Interactive dashboard with latest data on COVID-19 cases.
