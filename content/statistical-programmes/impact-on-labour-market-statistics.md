@@ -1,5 +1,5 @@
 ---
-title: 'Note by ILO: COVID-19 impact on labour market statistics'
+title: 'COVID-19 impact on labour market statistics'
 date: 2020-04-04
 ---
 
