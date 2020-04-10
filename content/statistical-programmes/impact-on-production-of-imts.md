@@ -38,7 +38,7 @@ data.
   original intent was to focus on New Zealand’s relationship with China, but as
   the impact is now worldwide, the coverage will be broadened with each release.
 
-- **[HS Classification Reference for COVID-19 Medical Supplies](http://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/activities-and-programmes/natural-disaster/covid_19/hs-classification-reference_en.pdf?la=en)**.
+- **[HS Classification Reference for COVID-19 Medical Supplies](http://www.wcoomd.org/-/media/wco/public/global/pdf/topics/nomenclature/covid_19/hs-classification-reference_en.pdf?la=en)**.
   The World Customs Organization (WCO) has issued a non-exhaustive list
   according to HS codes for medical supplies that should be particularly
   facilitated during the COVID-19 crisis. It consists of the following group of
