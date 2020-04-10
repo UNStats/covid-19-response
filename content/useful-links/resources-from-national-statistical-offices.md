@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from National Statistical Offices
-date: 2020-04-09
+date: 2020-04-10
 ---
 
 Responding to urgent demands for trustworthy, timely and disaggregated data to
@@ -126,3 +126,21 @@ or update the list of links presented for their country.
 - [Coronavirus (COVID-19) portal](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)
   - Latest data and analysis on coronavirus (COVID-19) in the UK and its effect
     on the economy and society.
+- [Top tips for quality assuring urgent pieces of ad-hoc statistical analysis](https://gss.civilservice.gov.uk/policy-store/top-tips-for-quality-assuring-urgent-pieces-of-ad-hoc-statistical-analysis/)
+  - This note provides advice on how to conduct quality assurance of ad-hoc
+    analyses of official statistical data, with a quick turn-around, to answer a
+    specific question in situations when time and resources are limited.
+- [Counting deaths involving the coronavirus (COVID-19)](https://blog.ons.gov.uk/2020/03/31/counting-deaths-involving-the-coronavirus-covid-19/)
+  - Introduction to the provisional figures published on 31 March, explaining
+    why the different ways of counting used across the government give different
+    answers.
+- [Mobility-report data extractor](https://github.com/datasciencecampus/mobility-report-data-extractor)
+  - Code developed by the Data Science Campus at ONS to scrape the data from
+    Google's Community Mobility profiles that are released in .pdf format.
+- [Coronavirus (COVID-19) roundup](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26)
+  - Latest data and analysis related to the coronavirus (COVID-19) pandemic and
+    its impact on the UK's economy and society.
+- [Coronavirus and the social impacts on Great Britain Statistical bulletins](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/previousReleases)
+  - New indicators from the ONS Opinions and Lifestyle Survey to understand the
+    impacts of the coronavirus (COVID-19) pandemic on people, households and
+    communities in Great Britain.
