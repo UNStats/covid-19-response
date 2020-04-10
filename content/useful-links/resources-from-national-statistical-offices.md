@@ -89,6 +89,18 @@ or update the list of links presented for their country.
     values with those from previous years to show the potential impacts of
     COVID-19 since its outbreak in late 2019.
 
+## State of Palestine
+
+- [COVID-19 Response plan and measures](https://github.com/UNStats/covid-19-response/blob/master/static/palestine-covid-19-response-plan-and-measures.pdf)
+  - Report on the response plan being implemented by PCBS during this global
+    health crises
+- [Press Release of Corona Crises losses](https://github.com/UNStats/covid-19-response/blob/master/static/palestine-economic-forecasts-for-2020.pdf)
+  - Economic forecasts for 2020 in light of the current outbreak of the
+    Coronavirus
+- [Summary of consultation on effects of the COVID-19 on women in Palestine](https://github.com/UNStats/covid-19-response/blob/master/static/palestine-indicators-on-women-during-covid-19-crisis.pdf)
+  - A Summary of Statistical Indicators on Women in Palestine during the Covid19
+    Crises
+
 ## Sweden
 
 - [Coronavirus (COVID-19) portal](https://www.scb.se/hitta-statistik/corona/)
@@ -104,12 +116,12 @@ or update the list of links presented for their country.
     e-mail, phone or web interviews or with data collection from administrative
     records.
 
-### United States
+## United States
 
 - [2020 Census Operational Adjustments Due to COVID-19](https://2020census.gov/en/news-events/operational-adjustments-covid-19.html)
   - US Census Bureau dedicated web portal on COVID-19
 
-### United Kingdom
+## United Kingdom
 
 - [Coronavirus (COVID-19) portal](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)
   - Latest data and analysis on coronavirus (COVID-19) in the UK and its effect
