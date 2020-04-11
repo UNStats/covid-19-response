@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from National Statistical Offices
-date: 2020-04-09
+date: 2020-04-10
 ---
 
 Responding to urgent demands for trustworthy, timely and disaggregated data to
@@ -71,6 +71,13 @@ or update the list of links presented for their country.
   How Ghana Statistical Services (GSS), Vodafone Ghana, and the Flowminder
   Foundation are using innovative data science techniques to support the
   government’s response against COVID-19.
+
+## Ireland
+
+- [Ireland Coronavirus (COVID-19) Dashboard, Datasets and other sources of information](https://data.gov.ie/blog/coronavirus-covid-19)
+  - Portal providing open access to up-to-date data on COVID-19 in Ireland,
+    including datasets in linked-open-data format and visualizations, as well as
+    other relevant information resources.
 
 ## Lithuania
 
