@@ -128,8 +128,8 @@ or update the list of links presented for their country.
     on the economy and society.
 - [Top tips for quality assuring urgent pieces of ad-hoc statistical analysis](https://gss.civilservice.gov.uk/policy-store/top-tips-for-quality-assuring-urgent-pieces-of-ad-hoc-statistical-analysis/)
   - This note provides advice on how to conduct quality assurance of ad-hoc
-    analyses of official statistical data, with a quick turn-around, to answer a
-    specific question in situations when time and resources are limited.
+    analyses of official statistical data, with a quick turn-around, to answer
+    specific questions in situations when time and resources are limited.
 - [Counting deaths involving the coronavirus (COVID-19)](https://blog.ons.gov.uk/2020/03/31/counting-deaths-involving-the-coronavirus-covid-19/)
   - Introduction to the provisional figures published on 31 March, explaining
     why the different ways of counting used across the government give different
