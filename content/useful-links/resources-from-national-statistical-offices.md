@@ -42,7 +42,7 @@ or update the list of links presented for their country.
     one year (about one every two months). The CPSS aims at understanding social
     issues more rapidly, while reducing the cost of collecting data.
 - An overview of Statistics Canada's response to COVID-19 is available
-  [here](/statistical-programmes/statistics-canada-response/)
+  [here](/statistical-programmes/statistics-canada-response/).
 
 ## Finland
 
