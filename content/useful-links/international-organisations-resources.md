@@ -35,6 +35,16 @@ It is updated continuously as more resources become available.
     panel survey design to enable continuing data collection under lockdown and
     after pandemic situation.
 
+### Caribbean Community (CARICOM)
+
+- [Special topic statistical bulletin on COVID-19 in CARICOM Countries, Issue 1](http://statistics.caricom.org/Files/Newsletter/Special%20Topic%20Statistical%20Bulletin_260320.pdf)
+  - Synopsis of the trajectory of the disease from the confirmation of the first
+    case in the CARICOM Region on 10 March 2020 to the period ending 26
+    March 2020.
+- [Special topic statistical bulletin on COVID-19 in CARICOM Countries, Issue 2](http://statistics.caricom.org/Files/Newsletter/SpecialBulletin_030420.pdf)
+  - Update of the trajectory of COVID 19 in the CARICOM Region up to 3
+    April 2020.
+
 ### Internatinal Labour Organisation (ILO)
 
 - [ILOStat COVID-19 website](https://ilostat.ilo.org/topics/covid-19/)
