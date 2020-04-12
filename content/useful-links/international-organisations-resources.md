@@ -12,9 +12,10 @@ It is updated continuously as more resources become available.
 - [Compilation of CPI in times of COVID-19](https://statswiki.unece.org/display/CCD2/Compilation+of+CPI+in+times+of+COVID-19)
   - Overview of general challenges and recommendations on how to ensure the
     production of the Consumer Price Index (CPI), as well as guidance notes by
-    Eurostat and IMF that provide more detailed recommendations for continuing
-    compilation of the CPI. The website also hosts a discussion forum for
-    experts to share questions, experiences and good practices.
+    Eurostat and the International Monetary Fund (IMF) that provide more
+    detailed recommendations for continuing compilation of the CPI. The website
+    also hosts a discussion forum for experts to share questions, experiences
+    and good practices.
 
 ### United Nations Economic Commission for Latin America and the Caribbean (UN ECLAC)
 
@@ -28,8 +29,8 @@ It is updated continuously as more resources become available.
 
 ### United Nations Economic and Social Commission for Asia and the Pacific (UN ESCAP)
 
-- [Stats Brief, February 2020 (Issue no. 23): Surveys Under Lockdown; a pandemic lesson](https://www.unescap.org/resources/stats-brief-february-2020-issue-no-23-surveys-under-lockdown-pandemic-lesson)
-  - overview of COVID-19 impact on data collection operations and possible
+- [Stats Brief, February 2020 (Issue no. 23): Surveys under lockdown; a pandemic lesson](https://www.unescap.org/resources/stats-brief-february-2020-issue-no-23-surveys-under-lockdown-pandemic-lesson)
+  - Overview of COVID-19 impact on data collection operations and possible
     responses by National Statistical Offices, as well as a proposed mixed-mode
     panel survey design to enable continuing data collection under lockdown and
     after pandemic situation.
@@ -38,9 +39,9 @@ It is updated continuously as more resources become available.
 
 - [ILOStat COVID-19 website](https://ilostat.ilo.org/topics/covid-19/)
   - Resources for monitoring the COVID-19 impact on labour markets and the
-    collection of labour statistics
+    continuity of collection of labour statistics.
 - [COVID-19 and the world of work](https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm)
-  - Dedicated website to address the global crisis in the world of work
+  - Dedicated website to address the global crisis in the world of work.
 - [Monitoring labour markets amid lockdowns to contain the COVID-19 virus: Essential labour force survey content and treatment of special groups](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_741145.pdf)
   - Guidance to data producers to maintain labour force survey (LFS) operations.
     It highlights the range of topics to prioritize in national LFS and
@@ -52,10 +53,10 @@ It is updated continuously as more resources become available.
 
 - [AI-powered COVID-19 watch](https://www.oecd.ai/covid)
   - AI-powered tool to follow latest COVID-19 developments by country in real
-    time
+    time.
 - [COVID-19 portal](http://oecd.org/coronavirus/)
   - Resources and solutions for monitoring and mitigating the impacts and
-    consequences of the coronavirus pandemic
+    consequences of the coronavirus pandemic.
 
 ### The Partnership in Statistics for Development in the 21st Century (PARIS21)
 
@@ -76,7 +77,7 @@ It is updated continuously as more resources become available.
 ### United Nations Educational, Scientific and Cultural Organization (UNESCO)
 
 - [UNESCO’s support: Educational response to COVID-19](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/support)
-  - COVID-19 response initiatives with focus on education
+  - COVID-19 response initiatives with focus on education.
 - [COVID-19 Educational Disruption and Response](https://en.unesco.org/covid19/educationresponse)
   - Global monitoring of country-wide and localized school closures and how
     learners are not being able to attend schools due to the pandemic.
@@ -84,10 +85,10 @@ It is updated continuously as more resources become available.
 ### United Nations Children's Fund (UNICEF)
 
 - [Website of UNICEF's Data and Analytics Section](https://data.unicef.org/)
-  - Provides access to COVID-19 related background data
+  - Website providing access to COVID-19 related background data.
 - [COVID-19 pandemic and implementaiton of Multiple Indicator Cluster Surveys (MICS)](<https://mics.unicef.org/news_entries/157/COVID-19-PANDEMIC-AND-IMPLEMENTATION-OF-MULTIPLE-INDICATOR-CLUSTER-SURVEYS-(MICS)>)
   - Guidance note on the implementation of Multiple Indicator Cluster Surveys
-    (MICS) during the period with restrictions due to the COVID-19 pandemic
+    (MICS) during the period with restrictions due to the COVID-19 pandemic.
 - [COVID-19 data from Belize MICS Plus pilot](https://mics.unicef.org/news_entries/159/COVID-19-DATA-FROM-BELIZE-MICS-PLUS-PILOT)
   - First results of the MICS Plus pilot in Belize (mobile-phone based data
     collection from a sub-sample of MICS respondents on a monthly basis). This
@@ -106,9 +107,9 @@ It is updated continuously as more resources become available.
 
 - [Data Responsibility Guidelines](https://centre.humdata.org/wp-content/uploads/2019/03/OCHA-DR-Guidelines-working-draft-032019.pdf)
   - Principles, processes and tools that support the safe, ethical and effective
-    management of data in humanitarian response
+    management of data in humanitarian response.
 - [The Humanitarian Data Exchange: COVID-19 Pandemic Data](https://data.humdata.org/event/covid-19)
-  - Open platform for sharing COVID-19 data
+  - Open platform for sharing COVID-19 data.
 
 ### UN Women
 
