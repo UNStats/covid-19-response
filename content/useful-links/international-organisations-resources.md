@@ -93,6 +93,15 @@ It is updated continuously as more resources become available.
     collection from a sub-sample of MICS respondents on a monthly basis). This
     will be progressively populated every two weeks, with new data from Belize.
 
+### United Nations Population Fund (UNFPA)
+
+- [Technical brief on the implications of COVID-19 on census](https://rtc-cea.cepal.org/sites/default/files/rtc_connected/files/UNFPA_Census_COVID19_digital_0.pdf)
+  - Contains a sample of countries already altering census plans in light of
+    COVID-19, as well as key recommendations and resources for countries. The
+    brief also discusses the importance of advocacy and sustaining census
+    capacity-strengthening virtually, particularly in view of potential
+    long-term financial constraints resulting from the COVID-19 crisis.
+
 ### United Nations Office for the Coordination of Humanitarian Affairs (OCHA)
 
 - [Data Responsibility Guidelines](https://centre.humdata.org/wp-content/uploads/2019/03/OCHA-DR-Guidelines-working-draft-032019.pdf)
