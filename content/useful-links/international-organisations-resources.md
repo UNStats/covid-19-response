@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from international organisations
-date: 2020-04-10
+date: 2020-04-12
 ---
 
 This page contains links to data and information resources provided by
@@ -67,6 +67,11 @@ It is updated continuously as more resources become available.
 - [COVID-19 portal](http://oecd.org/coronavirus/)
   - Resources and solutions for monitoring and mitigating the impacts and
     consequences of the coronavirus pandemic.
+- [OECD / GovLab call for evidence on the use of open government data to address COVID-19 crisis](https://docs.google.com/document/d/1BdSnXzCZ1Z7ovOrPue3O0osRUpiqTKlu8pwG9U4DwWw/edit)
+  - Crow-sourced repository of country practices in using open government data
+    to manage the different facets of the COVID-19 crisis. It complements the
+    [Living repository for data collaboratives seeking to address the spread of COVID-19 and its secondary effects](/useful-links/covid-19-data-collaboratives/),
+    maintained by the GovLab.
 
 ### The Partnership in Statistics for Development in the 21st Century (PARIS21)
 
