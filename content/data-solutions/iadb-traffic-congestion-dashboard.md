@@ -1,0 +1,39 @@
+---
+title: "IABD's Coronavirus traffic congestion impact dashboard"
+date: 2020-04-13
+images:
+  - ../assets/posts/iadb-traffic-congestion-dashboard.jpg
+---
+
+import Img from 'gatsby-image'; import { Box } from 'theme-ui';
+
+As part of its
+[response to the COVID-19 crisis](https://www.iadb.org/en/coronavirus), the
+Inter-American Development Bank (IADB) has launched a
+[Coronavirus Impact Dashboard](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard)
+to track the real-time impact of the coronavirus on countries in the region. The
+dashboard tracks a range of variables in order to provide Latin American and
+Caribbean policymakers, epidemiologists, and the general public with measures of
+the impact of the coronavirus outbreak on people’s behavior and economic
+activity.
+
+The first release of the dashboard includes daily data on infection cases and
+deaths as well as proxies for social distancing such as changes in the intensity
+of traffic congestion and the use of public transportation. As the crisis
+evolves, IADB will be continuously updating the data and adding variables to
+help understand and combat the impact of the coronavirus in the region.
+
+IADB has made available the
+[source data and code](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impact-Dashboard)
+of this dashboard on a publit Git repository, including a
+[detailed methodological note](http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-1350314980-529).
+A more complete description of the dashboard is available
+[here](https://blogs.iadb.org/efectividad-desarrollo/en/the-coronavirus-impact-dashboard-measuring-the-effects-of-social-distancing-on-mobility-in-latin-america-and-the-caribbean/).
+
+<Box mb={3}>
+  <Img
+    fluid={props.images[0]}
+    title="IADB's coronavirus impact dashboard."
+    alt="IADB's coronavirus impact dashboard."
+  />
+</Box>
