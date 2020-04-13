@@ -111,6 +111,9 @@ It is updated continuously as more resources become available.
 
 ### United Nations Population Fund (UNFPA)
 
+- [Census status dashboard](https://unf.pa/covidimpactcensus)
+  - Interactive application providing an overview of latest postponements and
+    disruptions to the 2020 Census Round.
 - [Technical brief on the implications of COVID-19 on census](https://rtc-cea.cepal.org/sites/default/files/rtc_connected/files/UNFPA_Census_COVID19_digital_0.pdf)
   - Contains a sample of countries already altering census plans in light of
     COVID-19, as well as key recommendations and resources for countries. The
