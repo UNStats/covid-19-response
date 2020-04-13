@@ -139,6 +139,9 @@ or update the list of links presented for their country.
   - This note provides advice on how to conduct quality assurance of ad-hoc
     analyses of official statistical data, with a quick turn-around, to answer
     specific questions in situations when time and resources are limited.
+- [How the Office for National Statistics is responding to the challenge of the COVID-19 pandemic](https://blog.ons.gov.uk/2020/04/09/how-the-office-for-national-statistics-is-responding-to-the-challenge-of-the-covid-19-pandemic/)
+  - Blog post outlining the work of ONS to understand the impacts of COVID-19 on
+    society and economy and what the initial results show.
 - [Counting deaths involving the coronavirus (COVID-19)](https://blog.ons.gov.uk/2020/03/31/counting-deaths-involving-the-coronavirus-covid-19/)
   - Introduction to the provisional figures published on 31 March, explaining
     why the different ways of counting used across the government give different
