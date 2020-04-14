@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from National Statistical Offices
-date: 2020-04-10
+date: 2020-04-14
 ---
 
 Responding to urgent demands for trustworthy, timely and disaggregated data to
@@ -135,6 +135,10 @@ or update the list of links presented for their country.
 - [Coronavirus (COVID-19) portal](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)
   - Latest data and analysis on coronavirus (COVID-19) in the UK and its effect
     on the economy and society.
+- [Ensuring the best possible information during COVID-19 through safe data collection](https://www.ons.gov.uk/news/statementsandletters/ensuringthebestpossibleinformationduringcovid19throughsafedatacollection)
+  - Note discussing ONS response to the COVID-19 crisis and its approach to
+    ensure the government has the information it needs to manage the UK’s
+    response to the pandemic.
 - [Top tips for quality assuring urgent pieces of ad-hoc statistical analysis](https://gss.civilservice.gov.uk/policy-store/top-tips-for-quality-assuring-urgent-pieces-of-ad-hoc-statistical-analysis/)
   - This note provides advice on how to conduct quality assurance of ad-hoc
     analyses of official statistical data, with a quick turn-around, to answer
