@@ -2,7 +2,7 @@
 title:
   Carrying out a telephone survey under the impact of COVID-19 &mdash; What to
   consider
-date: 2020-04-09
+date: 2020-04-14
 ---
 
 Under the current COVID-19 crisis, what can we learn from our past experience in
