@@ -111,6 +111,11 @@ It is updated continuously as more resources become available.
     collection from a sub-sample of MICS respondents on a monthly basis). This
     will be progressively populated every two weeks, with new data from Belize.
 
+### United Nations Industrial Development Organization (UNIDO)
+
+- [Coronavirus: the economic impact](https://www.unido.org/stories/coronavirus-economic-impact)
+  - UNIDO's early assessment of the economic impact of the coronavirus pandemic.
+
 ### United Nations Population Fund (UNFPA)
 
 - [Census status dashboard](https://unf.pa/covidimpactcensus)
