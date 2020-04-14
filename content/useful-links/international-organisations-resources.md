@@ -99,8 +99,10 @@ It is updated continuously as more resources become available.
 
 ### United Nations Children's Fund (UNICEF)
 
-- [Website of UNICEF's Data and Analytics Section](https://data.unicef.org/)
-  - Website providing access to COVID-19 related background data.
+- [Data to inform the COVID-19 response](https://data.unicef.org/)
+  - Latest data from UNICEF’s global databases that are relevant to the COVID-19
+    response for children, featuring a dashboard for country-level data by
+    gender, residence and wealth quintile.
 - [COVID-19 pandemic and implementaiton of Multiple Indicator Cluster Surveys (MICS)](<https://mics.unicef.org/news_entries/157/COVID-19-PANDEMIC-AND-IMPLEMENTATION-OF-MULTIPLE-INDICATOR-CLUSTER-SURVEYS-(MICS)>)
   - Guidance note on the implementation of Multiple Indicator Cluster Surveys
     (MICS) during the period with restrictions due to the COVID-19 pandemic.
