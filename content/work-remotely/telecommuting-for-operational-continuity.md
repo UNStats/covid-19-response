@@ -3,14 +3,16 @@ title: Telecommuting arrangements for operational continuity
 date: 2020-03-24
 ---
 
-To limit the COVID-19 epidemic, governments in many countries are requiring all
-or most of their workforce to stay home. For national and international
-statistical organizations, this raises the prospect of a protracted period of
-time during which the vast majority of their operations will have to rely on
-telecommuting arrangements with their staff. This in turn creates huge
-challenges in order to manage "a very large and sudden spike" in the number of
-staff needing to work remotely, even for organizations that already have
-experience supporting a limited number of telecommuters.
+_This article is also vailable in
+[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/telecommuting-for-operational-continuity-RU.pdf)_.<br/><br/>To
+limit the COVID-19 epidemic, governments in many countries are requiring all or
+most of their workforce to stay home. For national and international statistical
+organizations, this raises the prospect of a protracted period of time during
+which the vast majority of their operations will have to rely on telecommuting
+arrangements with their staff. This in turn creates huge challenges in order to
+manage "a very large and sudden spike" in the number of staff needing to work
+remotely, even for organizations that already have experience supporting a
+limited number of telecommuters.
 
 A key focus area of the operational continuity plan of national statistical
 offices in the wake of the COVID-19 pandemia should therefore be to migrate

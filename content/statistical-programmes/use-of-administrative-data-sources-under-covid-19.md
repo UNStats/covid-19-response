@@ -3,7 +3,9 @@ title: Use of administrative data sources under COVID-19
 date: 2020-04-04
 ---
 
-In a time when it is difficult to collect data from the field, the use of
+_This article is also vailable in
+[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/use-of-administrative-data-sources-under-covid-19-RU.pdf)_.<br/><br/>In
+a time when it is difficult to collect data from the field, the use of
 administrative registers for statistical purposes can be an important
 alternative source of information to continue making data and statistics
 available to the public. While many countries already have systems in place for
