@@ -3,7 +3,7 @@ title: Challenges of introducing new technologies
 date: 2020-03-24
 ---
 
-_This article is also vailable in
+_This article is also available in
 [Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/challenges-of-introducing-new-technologies-RU.pdf)_.<br/><br/>National
 Statistical Offices are being challenged to introduce telephone-based
 interviewing and web-based self-reporting techniques at once for many critical

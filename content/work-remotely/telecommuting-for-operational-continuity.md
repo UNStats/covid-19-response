@@ -3,7 +3,7 @@ title: Telecommuting arrangements for operational continuity
 date: 2020-03-24
 ---
 
-_This article is also vailable in
+_This article is also available in
 [Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/telecommuting-for-operational-continuity-RU.pdf)_.<br/><br/>To
 limit the COVID-19 epidemic, governments in many countries are requiring all or
 most of their workforce to stay home. For national and international statistical

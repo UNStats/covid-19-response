@@ -5,7 +5,7 @@ title:
 date: 2020-03-24
 ---
 
-_This article is also vailable in
+_This article is also available in
 [Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/from-face-to-face-to-telephone-and-web-RU.pdf)_.<br/><br/>In
 an effort to contain the spread of the COVID-19 epidemic, many governments are
 imposing severe restrictions on the mobility of their populations, disrupting

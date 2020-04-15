@@ -3,7 +3,7 @@ title: Statistics e-learning
 date: 2020-03-27
 ---
 
-_This article is also vailable in
+_This article is also available in
 [Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/statistics-elearning-RU.pdf)_.<br/><br/>With
 a substantial number of statisticians not being able to travel and working from
 home, e-learning is probably the best tool for continued learning and acquiring

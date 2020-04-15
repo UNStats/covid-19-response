@@ -7,7 +7,7 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-_This article is also vailable in
+_This article is also available in
 [Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/conferencing-in-times-of-covid-19-RU.pdf)_<br/><br/>Many
 organizations around the world are finding themselves in a position of having to
 decide how to move forward on planned conferences and meetings in the face of

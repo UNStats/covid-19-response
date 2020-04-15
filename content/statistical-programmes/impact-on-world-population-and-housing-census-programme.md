@@ -3,7 +3,7 @@ title: Impact of COVID-19 on World Population and Housing Census Programme
 date: 2020-03-24
 ---
 
-_This article is also vailable in
+_This article is also available in
 [Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/impact-on-world-population-and-housing-census-programme-RU.pdf)_.<br/><br/>As
 part of the response to the COVID-19 pandemic, the United Nations Statistics
 Division, in its role as Secretariat of the 2020 World Population and Housing
