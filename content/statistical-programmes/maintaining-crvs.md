@@ -1,0 +1,40 @@
+---
+title:
+  'Maintaining Civil Registration and Vital Statistics during the COVID-19
+  pandemic'
+date: 2020-04-14
+---
+
+The COVID-19 pandemic is putting civil registration authorities under an
+unprecedented level of stress, where the failure to register all vital events
+may lead to serious difficulties in generating accurate and timely vital
+statistics. In the framework of the UN Legal Identity Agenda (LIA)--a holistic
+approach to civil registration, vital statistics and identity management
+launched in May 2019 and officially endorsed in March 2020--, the UN Legal
+Identity Task Force is working to assess the impact of COVID-19 on registration
+of vital events and generating vital statistics, and helping countries address
+these challenges.
+
+The Task Force launched a
+[short survey](https://unstats.un.org/legal-identity-agenda/COVID-19/) in order
+to assess the impact of the COVID-19 pandemic on the functioning of civil
+registration worldwide, provide information regarding national solutions and a
+forum for exchange of experiences.
+
+Building on the results of this survey, and with the support of UNECA, UNESCAP
+and SPC, the UN Legal Identity Task force has also issued a set of
+[recommendations](https://unstats.un.org/legal-identity-agenda/documents/COVID-19-Guidelines.pdf)
+for supporting the continuous and complete civil registration of vital events in
+times of the pandemic. This document will be updated as needed, and the Task
+Force welcomes suggestions sent via e-mail to
+[un.lia@undp.org](mailto:un.lia@undp.org).
+
+The
+[UN Legal Identity Agenda Task Force](https://unstats.un.org/legal-identity-agenda/)
+was established in 2019 to promote and implement the United Nations Legal
+Identity Agenda. It is co-chaired by the Statistics Division of the UN
+Department of Economic and Social Affairs, the United Nations Development
+Programme (UNDP) and the United United Nations Children’s Fund (UNICEF). The UN
+Economic Commission for Africa (UN ECA) and the UN Economic and Social
+Commission for Asia and the Pacific (UNESCAP) spearhead the implementation of UN
+LIA in their respective regions.
