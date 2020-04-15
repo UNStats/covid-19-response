@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from international organisations
-date: 2020-04-12
+date: 2020-04-15
 ---
 
 This page contains links to data and information resources provided by
@@ -45,7 +45,7 @@ It is updated continuously as more resources become available.
   - Update of the trajectory of COVID 19 in the CARICOM Region up to 3
     April 2020.
 
-### European Statistical Office (Eurostat)
+### Eurostat
 
 - [Guidelines and methodological notes](https://ec.europa.eu/eurostat/data/metadata/covid-19-support-for-statisticians)
   - New guidelines and methodological notes published by Eurostat on how to
