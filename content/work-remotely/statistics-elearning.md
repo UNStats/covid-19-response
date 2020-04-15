@@ -4,7 +4,7 @@ date: 2020-03-27
 ---
 
 _This article is also vailable in
-[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/statistics-elearning-RU.pdf)_.<br/><br/>With
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/statistics-elearning-RU.pdf)_.<br/><br/>With
 a substantial number of statisticians not being able to travel and working from
 home, e-learning is probably the best tool for continued learning and acquiring
 new skills. Many international agencies, regional training institutes and

@@ -8,7 +8,7 @@ images:
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
 _This article is also vailable in
-[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/refocusing-statistical-capacity-development-RU.pdf)_.<br/><br/>As
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/refocusing-statistical-capacity-development-RU.pdf)_.<br/><br/>As
 the ongoing global crisis related to the COVID-19 pandemic continues to unfold,
 there is an increasing risk of less production and dissemination of
 disaggregated, high quality foundational data in National Statistical Systems

@@ -4,7 +4,7 @@ date: 2020-03-24
 ---
 
 _This article is also vailable in
-[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/impact-on-world-population-and-housing-census-programme-RU)_.<br/><br/>As
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/impact-on-world-population-and-housing-census-programme-RU)_.<br/><br/>As
 part of the response to the COVID-19 pandemic, the United Nations Statistics
 Division, in its role as Secretariat of the 2020 World Population and Housing
 Census Programme, is compiling a country-by-country

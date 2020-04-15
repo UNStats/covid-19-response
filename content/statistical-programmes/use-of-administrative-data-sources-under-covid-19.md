@@ -4,7 +4,7 @@ date: 2020-04-04
 ---
 
 _This article is also vailable in
-[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/use-of-administrative-data-sources-under-covid-19-RU.pdf)_.<br/><br/>In
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/use-of-administrative-data-sources-under-covid-19-RU.pdf)_.<br/><br/>In
 a time when it is difficult to collect data from the field, the use of
 administrative registers for statistical purposes can be an important
 alternative source of information to continue making data and statistics
