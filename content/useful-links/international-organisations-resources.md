@@ -45,6 +45,13 @@ It is updated continuously as more resources become available.
   - Update of the trajectory of COVID 19 in the CARICOM Region up to 3
     April 2020.
 
+### European Statistical Office (Eurostat)
+
+- [Guidelines and methodological notes](https://ec.europa.eu/eurostat/data/metadata/covid-19-support-for-statisticians)
+  - New guidelines and methodological notes published by Eurostat on how to
+    address the methodological issues triggered by changes in statistical
+    production as a result of the COVID-19 pandemic.
+
 ### Internatinal Labour Organisation (ILO)
 
 - [ILOStat COVID-19 website](https://ilostat.ilo.org/topics/covid-19/)
