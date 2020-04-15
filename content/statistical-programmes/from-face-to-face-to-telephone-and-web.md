@@ -5,11 +5,13 @@ title:
 date: 2020-03-24
 ---
 
-In an effort to contain the spread of the COVID-19 epidemic, many governments
-are imposing severe restrictions on the mobility of their populations,
-disrupting field statistical data collection operations and threatening the
-ability of National Statistical Offices to deliver high-quality, timely and
-cost-effective statistical outputs.
+_This article is also vailable in
+[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/from-face-to-face-to-telephone-and-web-RU.pdf)_.<br/><br/>In
+an effort to contain the spread of the COVID-19 epidemic, many governments are
+imposing severe restrictions on the mobility of their populations, disrupting
+field statistical data collection operations and threatening the ability of
+National Statistical Offices to deliver high-quality, timely and cost-effective
+statistical outputs.
 
 It is imperative to leverage innovative technologies and approaches to ensure
 the continuity of censuses, household surveys, and other major statistical

@@ -3,13 +3,15 @@ title: Statistics e-learning
 date: 2020-03-27
 ---
 
-With a substantial number of statisticians not being able to travel and working
-from home, e-learning is probably the best tool for continued learning and
-acquiring new skills. Many international agencies, regional training institutes
-and national statistical offices are providing e-learning courses and other
-learning materials. This can be difficult to navigate, however, not knowing who
-provides what. An online gateway was therefore recently launched which is meant
-to help in navigating available courses: https://www.unsdglearn.org/statistics/.
+_This article is also vailable in
+[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/statistics-elearning-RU.pdf)_.<br/><br/>With
+a substantial number of statisticians not being able to travel and working from
+home, e-learning is probably the best tool for continued learning and acquiring
+new skills. Many international agencies, regional training institutes and
+national statistical offices are providing e-learning courses and other learning
+materials. This can be difficult to navigate, however, not knowing who provides
+what. An online gateway was therefore recently launched which is meant to help
+in navigating available courses: https://www.unsdglearn.org/statistics/.
 Different agencies are there providing key information of their courses and a
 link to their own pages where one can register for the course in question.
 

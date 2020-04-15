@@ -7,10 +7,12 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-Many organizations around the world are finding themselves in a position of
-having to decide how to move forward on planned conferences and meetings in the
-face of the current COVID-19 pandemic. This is the position that colleagues from
-the [United Nations University Institute in Macau](https://cs.unu.edu/) found
+_This article is also vailable in
+[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/conferencing-in-times-of-covid-19-RU.pdf)_<br/><br/>Many
+organizations around the world are finding themselves in a position of having to
+decide how to move forward on planned conferences and meetings in the face of
+the current COVID-19 pandemic. This is the position that colleagues from the
+[United Nations University Institute in Macau](https://cs.unu.edu/) found
 themselves in with the
 [11th International Development Informatics Association conference (IDIA2020)](https://www.idia2020.com/)
 planned for 25–27 March 2020. The organizing committee considered various
