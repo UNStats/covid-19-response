@@ -7,8 +7,8 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-This article is also vailable in
-[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/launch-of-un-covid-19-data-hub-RU.pdf)<br/><br/>
+_This article is also vailable in
+[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/launch-of-un-covid-19-data-hub-RU.pdf)_<br/><br/>
 National governments across the globe and the global development community are
 responding to the COVID-19 pandemic with unprecedented measures. Though
 capacities in fighting the outbreak across nations vary significantly, all
