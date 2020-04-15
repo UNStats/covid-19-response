@@ -7,6 +7,8 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
+This article is also vailable in
+[Rusian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/launch-of-un-covid-19-data-hub-RU.pdf)<br/><br/>
 National governments across the globe and the global development community are
 responding to the COVID-19 pandemic with unprecedented measures. Though
 capacities in fighting the outbreak across nations vary significantly, all
@@ -15,13 +17,12 @@ disaggregated data in key thematic areas and for various groups of the
 population. As an immediate first step in addressing these data needs, the
 Statistics Division of the United Nations Department of Economic and Social
 Affairs has identified four thematic areas, namely: (1) virus tracking, (2)
-population, (3) health infrastructure and (4) economy.
-
-These data sets will help in mapping the spread of the disease, understanding
-trends, identifying vulnerable population groups, as well as measuring the
-economic impact of the pandemic. Ultimately, the aim is to provide access to
-trustworthy information and to help communicate clear messages so decision
-makers can address the outbreak effectively and efficiently.
+population, (3) health infrastructure and (4) economy. These data sets will help
+in mapping the spread of the disease, understanding trends, identifying
+vulnerable population groups, as well as measuring the economic impact of the
+pandemic. Ultimately, the aim is to provide access to trustworthy information
+and to help communicate clear messages so decision makers can address the
+outbreak effectively and efficiently.
 
 <Box mb={3}>
   <Img
