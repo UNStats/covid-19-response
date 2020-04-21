@@ -7,7 +7,9 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-The OECD created a protected
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/oecd-digital-workspace-RU.pdf)_<br/><br/>The
+OECD created a protected
 [digital workspace](https://community.oecd.org/community/official-stats-workspace-covid19)
 to provide experts with the possibility to discuss problems and solutions or
 seek advice in a simple and pragmatic way. The workspace is a collaborative

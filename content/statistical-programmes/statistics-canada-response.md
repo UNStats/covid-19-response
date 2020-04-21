@@ -3,7 +3,9 @@ title: 'Statistics Canada’s COVID-19 response'
 date: 2020-04-08
 ---
 
-In response to the evolving COVID-19 situation, Statistics Canada has adopted a
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/statistics-canada-response-RU.pdf)_<br/><br/>In
+response to the evolving COVID-19 situation, Statistics Canada has adopted a
 strategy that seeks to ensure the continuity of Statistics Canada’s mission
 critical programs and essential services. This note provides an overview of
 Statistics Canada's response on such programmes and services, as well as other

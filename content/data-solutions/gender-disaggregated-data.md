@@ -5,7 +5,9 @@ title:
 date: 2020-03-27
 ---
 
-In order to measure and monitor differences in COVID-19 incidence and fatality
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/gender-disaggregated-data-RU.pdf)_<br/><br/>In
+order to measure and monitor differences in COVID-19 incidence and fatality
 rates between women and men, data disaggregated, as a minimum, by sex, age
 groups and geographical areas are urgently needed. It is also highly recommended
 to ollect and disseminate additional data on employment, occupation (to capture

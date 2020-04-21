@@ -3,14 +3,16 @@ title: Encourage use of data and increase impact
 date: 2020-03-25
 ---
 
-During the COVID-19 outbreak, the demand for information from policymakers and
-citizens will be higher than ever, but connecting people to the data,
-encouraging use, and creating impact requires guidance and action by national
-statistical offices. Data providers and communicators bear the responsibility of
-connecting users to the information they need. National statistical offices must
-facilitate this connection. The resources in this section provide insight on how
-to encourage the use of data, monitor its uptake and impact, and further
-increase impact.
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/encourage-use-of-data-and-increase-impact-RU.pdf)_<br/><br/>During
+the COVID-19 outbreak, the demand for information from policymakers and citizens
+will be higher than ever, but connecting people to the data, encouraging use,
+and creating impact requires guidance and action by national statistical
+offices. Data providers and communicators bear the responsibility of connecting
+users to the information they need. National statistical offices must facilitate
+this connection. The resources in this section provide insight on how to
+encourage the use of data, monitor its uptake and impact, and further increase
+impact.
 
 ## Resources to support increasing data use and impact
 

@@ -5,7 +5,9 @@ title:
 date: 2020-04-10
 ---
 
-The United Nations Statistics Division (UNSD) inquired through an informal email
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/impact-on-production-of-imts-RU.pdf)_<br/><br/>The
+United Nations Statistics Division (UNSD) inquired through an informal email
 consultation with our regional partners whether the COVID-19 pandemic had
 impacted the data production of International Merchandise Trade Statistics
 (IMTS). Most regions reported that--so far--there is no interruption in data

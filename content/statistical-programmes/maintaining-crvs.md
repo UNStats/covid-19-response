@@ -5,7 +5,9 @@ title:
 date: 2020-04-14
 ---
 
-The COVID-19 pandemic is putting civil registration authorities under an
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/maintaining-crvs-RU.pdf)_<br/><br/>The
+COVID-19 pandemic is putting civil registration authorities under an
 unprecedented level of stress, where the failure to register all vital events
 may lead to serious difficulties in generating accurate and timely vital
 statistics. In the framework of the UN Legal Identity Agenda (LIA)--a holistic

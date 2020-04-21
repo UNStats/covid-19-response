@@ -3,13 +3,15 @@ title: Cloud computing for operational continuity and disaster recovery
 date: 2020-03-24
 ---
 
-Today, cloud computing stands out as a key element of an operatinal continuity
-and disaster recovery plan for statistical organizations, particularly in the
-face of the disruption national and global statistical systems caused by the
-COVID-19 crisis. Due to its reliance on hardware-independent virtualization
-technology, cloud computing enables organizations to quickly back up data,
-applications, and even operating systems to a remote data center, and to deploy
-them to multiple users distributed in many different locations.
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/cloud-computing-for-operational-continuity-RU.pdf)_<br/><br/>oday,
+cloud computing stands out as a key element of an operatinal continuity and
+disaster recovery plan for statistical organizations, particularly in the face
+of the disruption national and global statistical systems caused by the COVID-19
+crisis. Due to its reliance on hardware-independent virtualization technology,
+cloud computing enables organizations to quickly back up data, applications, and
+even operating systems to a remote data center, and to deploy them to multiple
+users distributed in many different locations.
 
 Cloud computing has become increasingly common among statistical organizations
 that do not have the hardware or personnel necessary to fully deploy software

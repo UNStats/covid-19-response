@@ -7,7 +7,9 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-As part of its
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/iadb-traffic-congestion-dashboard-RU.pdf)_<br/><br/>As
+part of its
 [response to the COVID-19 crisis](https://www.iadb.org/en/coronavirus), the
 Inter-American Development Bank (IADB) has launched a
 [Coronavirus Impact Dashboard](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard)

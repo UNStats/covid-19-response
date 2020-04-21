@@ -5,7 +5,9 @@ title:
 date: 2020-04-14
 ---
 
-Under the current COVID-19 crisis, what can we learn from our past experience in
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/telephone-surveys-what-to-consider-RU.pdf)_<br/><br/>Under
+the current COVID-19 crisis, what can we learn from our past experience in
 collecting information through telephone interviews, when person-to-person
 interview is not possible? This note provides a few points for statistical
 organizations to consider when deciding whether to adopt such an approach.

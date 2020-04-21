@@ -3,7 +3,9 @@ title: 'COVID-19 impact on labour market statistics'
 date: 2020-04-04
 ---
 
-The **International Labour Organization (ILO)** has reached out to National
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/impact-on-labour-market-statistics-RU.pdf)_<br/><br/>The
+**International Labour Organization (ILO)** has reached out to National
 Statistical Offices (NSOs) to understand the impacts of COVID-19 on their
 statistical operations, in particular in the domain of labour statistics and the
 operation of national Labour Force Surveys (LFS).
