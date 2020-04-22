@@ -242,7 +242,7 @@ const Homepage = ({ data, location }) => (
         <Styled.p sx={{ fontStyle: 'italic', mb: 3 }}>
           <FormattedMessage id="work-remotely.description" />
         </Styled.p>
-        <PostList posts={data.workArrangements.nodes} mb={4} />
+        <PostList posts={data.workRemotely.nodes} mb={4} />
 
         <Styled.h2
           css={{
@@ -274,7 +274,7 @@ const Homepage = ({ data, location }) => (
         <Styled.p sx={{ fontStyle: 'italic', mb: 3 }}>
           <FormattedMessage id="useful-links.description" />
         </Styled.p>
-        <PostList posts={data.UsefulLinks.nodes} mb={4} />
+        <PostList posts={data.usefulLinks.nodes} mb={4} />
 
         <Styled.h2
           css={{
@@ -301,13 +301,13 @@ Homepage.propTypes = {
     site: shape({
       siteMetadata: shape({
         title: string.isRequired,
-        lemma: string.isRequired,
         description: string.isRequired,
       }).isRequired,
     }).isRequired,
-    dataCollection: object.isRequired,
-    workArrangements: object.isRequired,
-    dataPortals: object.isRequired,
+    statisticalProgrammes: object.isRequired,
+    workRemotely: object.isRequired,
+    dataSolutions: object.isRequired,
+    openData: object.isRequired,
   }).isRequired,
   location: shape({ pathname: string.isRequired }).isRequired,
 };
@@ -341,7 +341,7 @@ export const query = graphql`
         path
       }
     }
-    workArrangements: allPost(
+    workRemotely: allPost(
       limit: 4
       sort: { fields: date, order: DESC }
       filter: { collection: { eq: "work-remotely" } }
@@ -379,10 +379,10 @@ export const query = graphql`
         path
       }
     }
-    UsefulLinks: allPost(
+    openData: allPost(
       limit: 4
       sort: { fields: date, order: DESC }
-      filter: { collection: { eq: "useful-links" } }
+      filter: { collection: { eq: "open-data" } }
     ) {
       nodes {
         id
@@ -398,10 +398,10 @@ export const query = graphql`
         path
       }
     }
-    openData: allPost(
+    usefulLinks: allPost(
       limit: 4
       sort: { fields: date, order: DESC }
-      filter: { collection: { eq: "open-data" } }
+      filter: { collection: { eq: "useful-links" } }
     ) {
       nodes {
         id

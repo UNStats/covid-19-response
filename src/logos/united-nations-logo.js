@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { arrayOf, bool, number, oneOfType } from 'prop-types';
+import { arrayOf, bool, number, oneOfType, string } from 'prop-types';
 import { jsx } from 'theme-ui';
 
 const UnitedNationsLogo = ({ height, width, monochrome = false }) => (
@@ -29,8 +29,16 @@ const UnitedNationsLogo = ({ height, width, monochrome = false }) => (
 );
 
 UnitedNationsLogo.propTypes = {
-  height: oneOfType([number, arrayOf(number)]),
-  width: oneOfType([number, arrayOf(number)]),
+  // Props height and width are normally numbers (pixels) but support strings as well.
+  // One use case for strings is using the `unset` value in responsive arrays.
+  height: oneOfType([
+    oneOfType([number, string]),
+    arrayOf(oneOfType([number, string])),
+  ]),
+  width: oneOfType([
+    oneOfType([number, string]),
+    arrayOf(oneOfType([number, string])),
+  ]),
   monochrome: bool,
 };
 
