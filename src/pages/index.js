@@ -14,7 +14,7 @@ import {
   Text,
 } from 'theme-ui';
 import { IntlProvider, FormattedMessage } from 'react-intl';
-import { SmartLink } from '@undataforum/components';
+import { Link } from '@undataforum/components';
 import merge from 'deepmerge';
 import postsMessages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
 import eventsMessages from '@undataforum/gatsby-theme-events/src/i18n/messages';
@@ -73,7 +73,7 @@ const Homepage = ({ data, location }) => (
               <FormattedMessage id="statistical-programmes.description" />
             </Text>
             <Button
-              as={SmartLink}
+              as={Link}
               sx={{ color: 'primary', bg: 'background' }}
               href="/statistical-programmes/"
             >
@@ -98,7 +98,7 @@ const Homepage = ({ data, location }) => (
               <FormattedMessage id="work-remotely.description" />
             </Text>
             <Button
-              as={SmartLink}
+              as={Link}
               sx={{ color: 'primary', bg: 'background' }}
               href="/work-remotely/"
             >
@@ -123,7 +123,7 @@ const Homepage = ({ data, location }) => (
               <FormattedMessage id="data-solutions.description" />
             </Text>
             <Button
-              as={SmartLink}
+              as={Link}
               sx={{ color: 'primary', bg: 'background' }}
               href="/data-solutions/"
             >
@@ -148,7 +148,7 @@ const Homepage = ({ data, location }) => (
               <FormattedMessage id="open-data.description" />
             </Text>
             <Button
-              as={SmartLink}
+              as={Link}
               sx={{ color: 'primary', bg: 'background' }}
               href="/open-data/"
             >
@@ -173,7 +173,7 @@ const Homepage = ({ data, location }) => (
               <FormattedMessage id="useful-links.description" />
             </Text>
             <Button
-              as={SmartLink}
+              as={Link}
               sx={{ color: 'primary', bg: 'background' }}
               href="/useful-links/"
             >
@@ -198,7 +198,7 @@ const Homepage = ({ data, location }) => (
               <FormattedMessage id="sharing.description" />
             </Text>
             <Button
-              as={SmartLink}
+              as={Link}
               sx={{ color: 'primary', bg: 'background' }}
               href="/sharing/"
             >
