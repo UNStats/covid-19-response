@@ -1,7 +1,7 @@
 import React from 'react';
 import { arrayOf, node, shape, string } from 'prop-types';
 import { Box, Container, Flex, Heading, Text } from 'theme-ui';
-import { SmartLink } from '@undataforum/components';
+import { Link } from '@undataforum/components';
 
 import UnitedNationsLogo from '../logos/united-nations-logo';
 
@@ -73,15 +73,15 @@ const Header = ({ entity, topic, title, links, location, ...props }) => (
               },
             }}
           >
-            <SmartLink
+            <Link
               href={href}
               sx={{
                 borderBottom: 'none',
+                color: 'inherit',
               }}
-              variant="inherit"
             >
               {link.children}
-            </SmartLink>
+            </Link>
           </Box>
         );
       })}

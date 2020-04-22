@@ -1,7 +1,7 @@
 import React from 'react';
 import { arrayOf, shape, string } from 'prop-types';
 import { Box, Container, Flex, Heading, Text } from 'theme-ui';
-import { SmartLink, SocialIcons } from '@undataforum/components';
+import { Link, SocialIcons } from '@undataforum/components';
 
 import UnitedNationsLogo from '../logos/united-nations-logo';
 import GlobalPartnershipLogo from '../logos/global-partnership-logo';
@@ -18,7 +18,7 @@ const Footer = ({ links }) => (
   >
     <Container sx={{ maxWidth: 'width.default', px: [2, 3, 4], py: 4 }}>
       <Flex sx={{ flexDirection: 'column', alignItems: 'start' }}>
-        <SmartLink href="https://unstats.un.org" variant="inherit">
+        <Link href="https://unstats.un.org" sx={{ color: 'inherit' }}>
           <Flex
             sx={{
               flexDirection: ['column', 'row'],
@@ -59,7 +59,7 @@ const Footer = ({ links }) => (
               </Text>
             </Flex>
           </Flex>
-        </SmartLink>
+        </Link>
         <Heading sx={{ mb: 3 }}>In partnership with</Heading>
         <Flex
           sx={{
@@ -69,20 +69,18 @@ const Footer = ({ links }) => (
             mb: 4,
           }}
         >
-          <SmartLink
-            sx={{ mr: 3, mb: 3 }}
+          <Link
             href="http://www.data4sdgs.org/"
-            variant="inherit"
+            sx={{ color: 'inherit', mr: 3, mb: 3 }}
           >
             <GlobalPartnershipLogo monochrome height={96} />
-          </SmartLink>
-          <SmartLink
-            sx={{ mb: 3 }}
+          </Link>
+          <Link
             href="https://opendatawatch.com/"
-            variant="inherit"
+            sx={{ color: 'inherit', mb: 3 }}
           >
             <OpenDataWatchLogo monochrome height={96} />
-          </SmartLink>
+          </Link>
         </Flex>
         <SocialIcons
           platforms={[
@@ -102,23 +100,21 @@ const Footer = ({ links }) => (
               title: 'Follow us on GitHub',
             },
           ]}
+          align="start"
           size={48}
-          variant="inherit"
           mb={[3, 4]}
         />
         <Flex sx={{ flexWrap: 'wrap', justifyContent: 'start' }}>
           {links.map((link) => (
-            <SmartLink
-              href={link.href}
+            <Link
               key={link.href}
-              pr={[2, 3]}
-              pb={[1, 2]}
-              variant="inherit"
+              href={link.href}
+              sx={{ color: 'inherit', pr: [2, 3], pb: [1, 2] }}
             >
               <Text sx={{ fontFamily: 'body', textAlign: 'start' }}>
                 {link.text}
               </Text>
-            </SmartLink>
+            </Link>
           ))}
         </Flex>
       </Flex>
