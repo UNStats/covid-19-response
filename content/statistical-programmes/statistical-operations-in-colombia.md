@@ -66,5 +66,5 @@ programs.
 
 ---
 
-_This article was contributed by the National Statistical Office of Colombia
-(DANE)](https://www.dane.gov.co/)_
+_This article was contributed by the
+[National Statistical Office of Colombia (DANE)](https://www.dane.gov.co/)_
