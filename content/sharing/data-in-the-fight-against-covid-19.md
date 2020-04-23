@@ -6,20 +6,21 @@ timezone: America/New_York
 registrationLink: https://docs.google.com/forms/d/e/1FAIpQLScr8avLnEzrL5wEf2eLWyuBZT7p_cYwy8lu7IJe8Dj_uHAY-w/viewform
 ---
 
-The current global COVID-19 crisis has created an unprecedented need for timely
-data, disaggregated by age, sex, location and other markers, in order to inform
-policies and planning aimed to minimize the risk for the population, especially
-the most vulnerable groups. This
-[UN World Data Forum](https://unstats.un.org/unsd/undataforum/index.html)
-webinar will explore the extent to which the statistical community is ready for
-such a huge challenge, and will provide an opportunity to learn from recent
-experiences of governments working together with partners at the national and
-global levels in adopting innovative approaches for the collection of critical
-data, such as daily COVID-19 case information disaggregated by various markers.
-The webinar will also discuss how data collected by National Statistics Offices
-are being used to forecast gaps in the required health service resources, such
-as hospital beds, and how this data is being translated into actionable,
-ready-to-use information and insights to respond effectively to the crisis.
+This [UN World Data Forum](https://unstats.un.org/unsd/undataforum/index.html)
+webinar will explore how the statistical community is responding to the
+challenge of providing timely data, disaggregated by age, sex, location and
+other markers, in order to inform policies and planning aimed to minimize the
+risks of the COVID-19 crisis for the population, especially the most vulnerable
+groups.
+
+Participants will learn from recent experiences of governments working together
+with partners at the national and global levels in adopting innovative
+approaches for the collection of critical data, such as daily COVID-19 case
+information disaggregated by various markers. The webinar will also discuss how
+data collected by National Statistics Offices are being used to forecast gaps in
+the required health service resources, such as hospital beds, and how this data
+is being translated into actionable insights to respond effectively to the
+crisis.
 
 This webinar will:
 
