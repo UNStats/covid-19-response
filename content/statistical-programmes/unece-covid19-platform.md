@@ -29,10 +29,10 @@ As such, it complements information by other international organizations.
   />
 </Box>
 
-The platform is maintained by the
-[UNECE Statistical Division](https://www.unece.org/stats/stats_h.html) aims to
-provide advice, sources and a discussion forum, and includes guidance in the
-following areas:
+Maintained by the
+[UNECE Statistical Division](https://www.unece.org/stats/stats_h.html), the
+platform aims to provide advice, sources and a discussion forum, and includes
+guidance in the following areas:
 
 - [Support for managing the crisis](https://statswiki.unece.org/display/COV/Support+for+managing+the+crisis)--a
   collection of case studies is underway on how statistical offices provide data
@@ -49,8 +49,7 @@ following areas:
 The platform is a living resource and will be continuously updated with new
 material. For example, various COVID-19 related issues will be discussed at the
 Conference of European Statisticians (CES) plenary session on 22-24 June 2020.
-
-The platform includes links to relevant guidance produced by other international
+It includes links to relevant guidance produced by other international
 organizations. Under the
 [Related initiatives](https://statswiki.unece.org/pages/viewpage.action?pageId=278039025)
 section, we provide a link to related platforms of our major partners, such as
@@ -58,4 +57,10 @@ Eurostat, OECD, UNSD, IMF, ILO, and selected regional commissions.
 
 UNECE welcomes comments to the discussion fora under each area, as well as
 submission of examples, innovative solutions or other material that could be
-shared with statistical offices.
+shared with statistical offices. Visit UNECE platform on COVID-19 and official
+statistics [here](https://statswiki.unece.org/display/COV/Home).
+
+---
+
+_This article was contributed by
+[UNECE Statistical Division](https://www.unece.org/stats/stats_h.html)_
