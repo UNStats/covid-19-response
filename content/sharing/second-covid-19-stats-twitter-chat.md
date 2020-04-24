@@ -1,7 +1,7 @@
 ---
 title: Second COVID-19 Stats Twitter Chat
-start: 2020-04-29T11:30
-end: 2020-04-29T12:00
+start: 2020-04-29T12:00
+end: 2020-04-29T12:30
 timezone: America/New_York
 ---
 
@@ -22,7 +22,7 @@ in informing the fight against #COVID-19.
 1. [Register](https://unstats.un.org/unsd/undataforum/webinar/index.html) and
    attend the UN World Data Forum’s webinar at 10:30AM ET, Data in the Fight
    Against COVID-19.
-2. Log on to Twitter after the conclusion of the webinar at 11:30AM ET / 3:30PM
+2. Log on to Twitter after the conclusion of the webinar at 12:00AM ET / 4:00PM
    UTC to participate in a half-hour moderated discussion.
 3. Follow [@UNStats](https://twitter.com/UNStats),
    [@data4SDGs](https://twitter.com/data4SDGs) and
