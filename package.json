@@ -12,7 +12,7 @@
     "serve": "serve -l 8000 public",
     "inspect": "gatsby clean && node --inspect node_modules/.bin/gatsby develop",
     "lint": "yarn run lint:code && yarn run lint:other",
-    "lint:code": "eslint . --cache --ext .js,.jsx --ignore-path .gitignore",
+    "lint:code": "eslint . --ignore-path .gitignore",
     "lint:other": "yarn run prettier --check",
     "prettier": "prettier \"**/*.{md,mdx,css,yaml,yml}\" --ignore-path .gitignore",
     "format": "yarn run format:code && yarn run format:other",
@@ -48,8 +48,8 @@
     "@shopify/eslint-plugin": "^36.0.2",
     "eslint": "6.8.0",
     "husky": "4.2.5",
-    "lint-staged": "10.1.6",
-    "prettier": "2.0.4",
+    "lint-staged": "10.1.7",
+    "prettier": "2.0.5",
     "serve": "11.3.0"
   }
 }
