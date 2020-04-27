@@ -1561,7 +1561,7 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@shopify/eslint-plugin@^36.0.2":
+"@shopify/eslint-plugin@36.0.2":
   version "36.0.2"
   resolved "https://registry.yarnpkg.com/@shopify/eslint-plugin/-/eslint-plugin-36.0.2.tgz#1717ffcb608759be557a8c78245d495c6b0728e1"
   integrity sha512-poDtXvk0yJliNlhDQnrNENYKAzxkLN+a4reX3gJ5OCh1g3GA4kN3cCC9Zl2TX2TYpfHKN2cBkIxw5n+AlhGagA==
