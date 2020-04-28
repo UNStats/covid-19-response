@@ -98,6 +98,12 @@ or update the list of links presented for their country.
     values with those from previous years to show the potential impacts of
     COVID-19 since its outbreak in late 2019.
 
+## Republic of Korea
+
+- [COVID-19 portal](http://kostat.go.kr/portal/eng/news/6/index.static)
+  - Response plan and measures being implemented by Statistics Korea related to
+    the COVID-19 crisis.
+
 ## State of Palestine
 
 - [COVID-19 Response plan and measures](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/palestine-covid-19-response-plan-and-measures.pdf)
