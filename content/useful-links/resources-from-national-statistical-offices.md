@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from National Statistical Offices
-date: 2020-04-14
+date: 2020-05-05
 ---
 
 Responding to urgent demands for trustworthy, timely and disaggregated data to
