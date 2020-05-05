@@ -44,6 +44,20 @@ or update the list of links presented for their country.
 - An overview of Statistics Canada's response to COVID-19 is available
   [here](/statistical-programmes/statistics-canada-response/).
 
+## Colombia
+
+- [Prices of basic necessities for Colombians in times of COVID-19](https://www.dane.gov.co/index.php/en/estadisticas-por-tema/precios-y-costos/precios-de-venta-al-publico-de-articulos-de-primera-necesidad-pvpapn)
+
+  - The National Administrative Department of Statistics(DANE) is monitoring
+    every five days the prices of a lists of basic necessity products and of the
+    inputs required for their production.
+
+- [Vulnerability index at the level of blocks in the Geovisor application](https://geoportal.dane.gov.co/visor-vulnerabilidad/)
+  - Geographically disaggregated views of a vulnerability index linking
+    information from the Institute for Health Technology Evaluation (IETS), the
+    National Statistical Office (DANE) and the National Planning Department
+    (DNP)
+
 ## Finland
 
 - [8 Apr 2020: Statistics Finland offers data and competence to situation room established by Helsinki GSE](https://www.stat.fi/uutinen/statistics-finland-offers-data-and-competence-to-situation-room-established-by-helsinki-gse)

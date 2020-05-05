@@ -43,8 +43,9 @@ has launched the following initiatives in the context of the health emergency:
 
 - Daily monitoring of prices and supply in wholesale markets, with daily special
   additional publications.
-- Daily monitoring and weekly publication of the prices of 26 products
-  identified as essential by the national government.
+- Daily monitoring and weekly publication of the
+  [prices of 26 products identified as essential](https://www.dane.gov.co/index.php/en/estadisticas-por-tema/precios-y-costos/precios-de-venta-al-publico-de-articulos-de-primera-necesidad-pvpapn)
+  by the national government.
 - Releasing geospatial views at the block level of:
 
   - Vulnerability Index.
