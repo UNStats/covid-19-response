@@ -1,5 +1,5 @@
 ---
-title: 'Samoa Bureau of Statistics CoVID-19 response'
+title: 'Samoa Bureau of Statistics COVID-19 response'
 date: 2020-05-04
 ---
 
