@@ -5,6 +5,9 @@
   "version": "0.0.0",
   "author": "Thilo Maier <maier@un.org>",
   "homepage": "https://covid-19-response.unstatshub.org/",
+  "engines": {
+    "node": "10.x"
+  },
   "scripts": {
     "start": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
     "build": "yarn run clean && cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby build",
