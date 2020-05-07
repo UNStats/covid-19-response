@@ -1,5 +1,5 @@
 ---
-title: 'The Brazil’s capacity-building strategies in pandemic times'
+title: 'Brazil’s capacity-building strategies in pandemic times'
 date: 2020-05-07
 ---
 
