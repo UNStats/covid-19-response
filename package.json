@@ -9,10 +9,10 @@
     "node": "10.x"
   },
   "scripts": {
-    "start": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "dev": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
     "build": "yarn run clean && cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby build",
+    "serve": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
     "clean": "rm -rf ./public && cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
-    "serve": "serve -l 8000 public",
     "inspect": "gatsby clean && node --inspect node_modules/.bin/gatsby develop",
     "lint": "yarn run lint:code && yarn run lint:other",
     "lint:code": "eslint . --ignore-path .gitignore",
@@ -52,7 +52,6 @@
     "eslint": "6.8.0",
     "husky": "4.2.5",
     "lint-staged": "10.2.2",
-    "prettier": "2.0.5",
-    "serve": "11.3.0"
+    "prettier": "2.0.5"
   }
 }
