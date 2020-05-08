@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from international organisations
-date: 2020-05-05
+date: 2020-05-08
 ---
 
 This page contains links to data and information resources provided by
@@ -33,6 +33,11 @@ It is updated continuously as more resources become available.
 
 ### United Nations Economic and Social Commission for Asia and the Pacific (UN ESCAP)
 
+- [Why we will never know how many people die from COVID-19](https://www.unescap.org/blog/why-we-will-never-know-how-many-people-die-covid-19)
+  - A blog post on importance of CRVS and cause of death coding.
+- [Broken down by age and sex: Why reliable and timely population statistics are more important than ever](https://www.unescap.org/sites/default/files/Stats_Brief_Issue24_Apr2020_Why_reliable_and_timely_population_statistics_are_more_important.pdf)
+  - A brief on integrating population and geospatial data in the current
+    COVID-19 situation.
 - [Stats Brief, February 2020 (Issue no. 23): Surveys under lockdown; a pandemic lesson](https://www.unescap.org/resources/stats-brief-february-2020-issue-no-23-surveys-under-lockdown-pandemic-lesson)
   - Overview of COVID-19 impact on data collection operations and possible
     responses by National Statistical Offices, as well as a proposed mixed-mode
