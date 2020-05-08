@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from National Statistical Offices
-date: 2020-05-05
+date: 2020-05-08
 ---
 
 Responding to urgent demands for trustworthy, timely and disaggregated data to
@@ -60,6 +60,9 @@ or update the list of links presented for their country.
 
 ## Finland
 
+- [Coronavirus topical statistical data](http://www.stat.fi/ajk/koronavirus/koronavirus-ajankohtaista-tilastotietoa_en.html)
+  - Statistics Finland dedicated page with news and statistical data related to
+    the coronavirus situation.
 - [8 Apr 2020: Statistics Finland offers data and competence to situation room established by Helsinki GSE](https://www.stat.fi/uutinen/statistics-finland-offers-data-and-competence-to-situation-room-established-by-helsinki-gse)
   - The Helsinki Graduate School of Economics GSE has established a situation
     room focused on analysing the economic situation together with VATT
