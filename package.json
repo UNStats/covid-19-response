@@ -21,8 +21,7 @@
     "format": "yarn run format:code && yarn run format:other",
     "format:code": "yarn run lint:code --fix",
     "format:other": "yarn run prettier --write",
-    "purge": "rm -rf ./node_modules",
-    "test": "yarn run lint"
+    "purge": "rm -rf ./node_modules"
   },
   "husky": {
     "hooks": {
