@@ -12,13 +12,13 @@ making available a series of
 including rapid estimates for the decreases in economic activity, employment,
 and exports.
 
-The first study, carried out during the first days of the pandemic outbreak in
+A first study, carried out during the first days of the pandemic outbreak in
 March, assessed the impact of COVID-19 on the economy using an ad-hoc survey by
 the regional statistics directorates. Over 800 respondents gave a first picture
 of the magnitude of the economic disaster that was expected to occur in March
 and likely to continue in April.
 
-The
+A
 [second ad-hoc study](https://insse.ro/cms/en/content/experimental-research-assessment-covid-19-impact-economic-environment-march-and-april-2020-0)
 aimed to evaluate the reduction of the economic activity as well as the negative
 impact on employment. Qualitative and quantitative data collected from a
