@@ -21,13 +21,13 @@ of the difference in COVID-19 mortality between ethnic groups, although the
 remaining difference has not yet been explained.
 
 The researchers used binary logistic regression models to estimate whether the
-risk of dying from COVID-19 is greater among ethnic groups than among the White
+risk of dying from COVID-19 is greater among ethnic groups than among the white
 ethnic population. The models controlled for geographic, demographic,
 socio-economic, living arrangements, and health as measured in the 2011 Census.
 The report explains the justification for each of the variable used as controls
 in the model. Detailed information on the
 [methodology](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/coronavirusrelateddeathsbyethnicgroupenglandandwalesmethodology)
-used in the analysis are also available online.
+used in the analysis is also available online.
 
 After adjusting for socio-economic and demographic factors, the main findings
 show that most minority groups tend to be more disadvantaged than their white
