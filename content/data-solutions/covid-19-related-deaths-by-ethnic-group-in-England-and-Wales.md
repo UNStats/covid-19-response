@@ -1,3 +1,8 @@
+---
+title: 'COVID-19 related deaths by ethnic group in England and Wales'
+date: 2020-05-14
+---
+
 The [Office of National Statistics (ONS)](https://www.ons.gov.uk/) of the United
 Kingdom has released a
 [provisional analysis of deaths related to COVID-19](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronavirusrelateddeathsbyethnicgroupenglandandwales/2march2020to10april2020),
