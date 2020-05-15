@@ -9,12 +9,15 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-Household surveys play an important role in meeting national data needs, for
-example, in measuring poverty, employment, skills and learning inclusive
-education, food security, access to health services and public services,
-discrimination and violence, inter alia. A mapping exercise recently conducted
-shows that around one-third of all SDG indicators (80 out of 232 indicators),
-covering 13 different goals, can be sourced from household surveys.[^1]
+Household surveys play an important role in meeting national data needs. A
+mapping exercise recently conducted shows that around one-third of all SDG
+indicators (80 out of 232 indicators), covering 13 different goals, can be
+sourced from household surveys.[^1] Is now the right moment for countries that
+have been relying on face-to-face interviews to make the switch to telephone
+interviews, given that the mobile phone penetration is already quite high in
+most of the countries? Professor Jim Lepkowski, a leading expert on survey
+methodology, shares his thoughts on designing and conducting telephone surveys,
+in conversation with UNSD.
 
 With the ongoing Covid-19 pandemic, household survey programmes in many
 countries have been impacted in different ways. While some countries have
