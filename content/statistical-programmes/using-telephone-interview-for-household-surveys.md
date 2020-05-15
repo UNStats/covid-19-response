@@ -15,9 +15,11 @@ indicators (80 out of 232 indicators), covering 13 different goals, can be
 sourced from household surveys.[^1] Is now the right moment for countries that
 have been relying on face-to-face interviews to make the switch to telephone
 interviews, given that the mobile phone penetration is already quite high in
-most of the countries? Professor Jim Lepkowski, a leading expert on survey
-methodology, shares his thoughts on designing and conducting telephone surveys,
-in conversation with UNSD.
+most of the countries?
+[Professor Jim Lepkowski](https://sph.umich.edu/faculty-profiles/lepkowski-james.html),
+University of Michigan, a leading expert on survey methodology, shares his
+thoughts on designing and conducting telephone surveys, in conversation with
+UNSD.
 
 With the ongoing Covid-19 pandemic, household survey programmes in many
 countries have been impacted in different ways. While some countries have
