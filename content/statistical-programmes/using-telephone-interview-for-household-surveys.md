@@ -14,7 +14,7 @@ example, in measuring poverty, employment, skills and learning inclusive
 education, food security, access to health services and public services,
 discrimination and violence, inter alia. A mapping exercise recently conducted
 shows that around one-third of all SDG indicators (80 out of 232 indicators),
-covering 13 different goals, can be sourced from household surveys.
+covering 13 different goals, can be sourced from household surveys.[^1]
 
 With the ongoing Covid-19 pandemic, household survey programmes in many
 countries have been impacted in different ways. While some countries have
@@ -70,13 +70,13 @@ the frame?
 counting game but can be challenging for survey organisations” **
 
 **UNSD:** Great. Can we talk more about the sampling issues? In the book Survey
-Methodology that you wrote together with your colleagues, there are details on
-telephone frames in many countries, and even that there is more than one frame
-in most cases. You also talk about sampling when there are two or more frames,
-each of which has something to offer that the others do not. For example, in
-some countries dual frames exist, like separate lists of landline and mobile
-phone numbers. And many households and persons can be reached from both at the
-same time. Could you say more about dual frame issues?
+Methodology[^2] that you wrote together with your colleagues, there are details
+on telephone frames in many countries, and even that there is more than one
+frame in most cases. You also talk about sampling when there are two or more
+frames, each of which has something to offer that the others do not. For
+example, in some countries dual frames exist, like separate lists of landline
+and mobile phone numbers. And many households and persons can be reached from
+both at the same time. Could you say more about dual frame issues?
 
 **Jim:** Dual or multiple frame sampling had been around a while before it was
 used in telephone surveys. At the time when the book was last edited (2009),
@@ -343,3 +343,12 @@ interviewer and respondent in the survey interview, and responsive survey
 design. He was director of the University’s Institute for Social Research
 graduate degree Program in Survey Methodology, the Summer Institute in Survey
 Research Techniques, and the Sampling Program for Survey Statisticians._
+
+[^1]:
+  “Out of a total of 232 SDG indicators, 80 indicators were identified as
+  obtainable from household surveys”, even if currently not all of them are
+  collected using this data source. Achieving the Full Potential of Household
+  Surveys in the SDG Era, Background document,Statistical Commission item 4c,
+  2019
+
+[^2]: Groves, et. al. (2004). Survey methodology.
