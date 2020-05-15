@@ -1,7 +1,7 @@
 ---
 title:
   'Using experimental statistics to monitor of the impact of COVID-19 in Denmark'
-date: 2020-05-14
+date: 2020-05-15
 images:
   - ../assets/posts/development-in-the-period-2015-2020.jpg
 ---
