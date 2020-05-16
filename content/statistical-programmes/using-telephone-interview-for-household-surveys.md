@@ -1,7 +1,7 @@
 ---
 title:
-  'Using telephone interview for household surveys – a conversation with
-  Professor Jim Lepkowski'
+  'Using telephone interview for household surveys: A conversation with Prof.
+  Jim Lepkowski'
 date: 2020-05-15
 images:
   - ../assets/posts/flowchart-telephone-survey.jpg
@@ -9,33 +9,26 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-Household surveys play an important role in meeting national data needs, for
-example, in measuring poverty, employment, skills and learning inclusive
-education, food security, access to health services and public services,
-discrimination and violence, inter alia. A mapping exercise recently conducted
-shows that around one-third of all SDG indicators (80 out of 232 indicators),
-covering 13 different goals, can be sourced from household surveys.[^1]
-
-With the ongoing Covid-19 pandemic, household survey programmes in many
+Household surveys play an important role in meeting national data needs.[^1] But
+with the ongoing COVID-19 pandemic, household survey programmes in many
 countries have been impacted in different ways. While some countries have
 started to use telephone and web surveys for its nationals surveys, many still
 rely on face-to-face interviews. It is these operations that have been affected
-the most by the pandemic.
+the most by the pandemic. Is now the right moment for countries that have been
+relying on face-to-face interviews to make the switch to telephone interviews,
+given that the mobile phone penetration is already quite high in most of the
+countries?
+[Professor Jim Lepkowski](https://sph.umich.edu/faculty-profiles/lepkowski-james.html)
+of the University of Michigan, a leading expert on survey methodology, shares
+his thoughts on designing and conducting telephone surveys in a conversation
+with the UN Statistics Division (UNSD).
 
-Is now the right moment for countries that have been relying on face-to-face
-interviews to make the switch to telephone interviews, given that the mobile
-phone penetration is already quite high in most of the countries?
+## “We should distinguish telephone interviewing from telephone surveys.”
 
-Professor Jim Lepkowski, a leading expert on survey methodology, shares his
-thoughts on designing and conducting telephone surveys, in conversation with
-UNSD.
-
-**“We should distinguish telephone interviewing from telephone surveys.”**
-
-**UNSD:** Could I start with a big question, that is, what is the future for
+**UNSD:** _Could I start with a big question, that is, what is the future for
 telephone interviewing? It has been used often in developed countries. How do
 you see it being adopted by developing countries? I have seen that establishing
-a sampling frame of telephone numbers can be challenging, among others.
+a sampling frame of telephone numbers can be challenging, among others._
 
 **Jim:** First, we need to keep in mind that telephone surveys replaced many
 face-to-face surveys because, at the time, they were much cheaper to do. And
@@ -66,17 +59,16 @@ person? Can a single telephone number connect you to multiple persons? And can
 an individual in the population be reached by more than one telephone number on
 the frame?
 
-**“Using dual landline and mobile phone frames for telephone surveys is a fun
-counting game but can be challenging for survey organisations” **
+## “Using dual landline and mobile phone frames for telephone surveys is a fun counting game but can be challenging for survey organisations”
 
-**UNSD:** Great. Can we talk more about the sampling issues? In the book Survey
+**UNSD:** _Great. Can we talk more about the sampling issues? In the book Survey
 Methodology[^2] that you wrote together with your colleagues, there are details
 on telephone frames in many countries, and even that there is more than one
 frame in most cases. You also talk about sampling when there are two or more
 frames, each of which has something to offer that the others do not. For
 example, in some countries dual frames exist, like separate lists of landline
 and mobile phone numbers. And many households and persons can be reached from
-both at the same time. Could you say more about dual frame issues?
+both at the same time. Could you say more about dual frame issues?_
 
 **Jim:** Dual or multiple frame sampling had been around a while before it was
 used in telephone surveys. At the time when the book was last edited (2009),
@@ -109,45 +101,46 @@ game, for those who are mathematically inclined. But the use of two frames, and
 the weighting, was more complicated, and more challenging for survey
 organizations to carry out.
 
-**High penetration of mobile phones means many are moving to mobile only samples
-**
+## High penetration of mobile phones means many are moving to mobile only samples
 
-**UNSD:** It has been more than 10 years since the book was published. Has
-anything changed since then regarding telephone interviews?
+**UNSD:** _It has been more than 10 years since the book was published. Has
+anything changed since then regarding telephone interviews?_
 
 **Jim:** Yes, one thing has changed a lot: the penetration of mobile phones as
 people made the transition from no phone or landline phones to mobile phones.
 That had three consequences for telephone surveys in many countries. First,
-there is in many countries virtually 100% coverage of the entire population by
-telephone, between landline and mobile phone access. Address-based samples don’t
-have the coverage advantage they once had. Second, people in some countries no
-longer use landline phones at all. For example, in the US about 60% of people
-have mobile phones only. In Finland it is 100%. Mobile phones have to be a part
-of telephone surveys. And lastly, in some countries the percentage of the
-population that use landline phones only (that is, they do not have a mobile
-phone) has shrunk, to less than 10% in the U.S., for example. That means some
-agencies and organizations are moving to mobile-only samples, anticipating that
-noncoverage bias would be small.
+there is in many countries virtually 100 percent coverage of the entire
+population by telephone, between landline and mobile phone access. Address-based
+samples don’t have the coverage advantage they once had. Second, people in some
+countries no longer use landline phones at all. For example, in the United
+States about 60 percent of people have mobile phones only. In Finland it is 100
+percent. Mobile phones have to be a part of telephone surveys. And lastly, in
+some countries the percentage of the population that use landline phones only
+(that is, they do not have a mobile phone) has shrunk, to less than 10 percent
+in the United States, for example. That means some agencies and organizations
+are moving to mobile-only samples, anticipating that noncoverage bias would be
+small.
 
 These consequences have led to an interesting reversal. It used to be in the
-1970’s in the U.S. that landline frames did not cover 5-6% of the population.
-For the sake of lower costs, many survey organizations just called landline
-households and didn’t worry about the 5-6% noncoverage problem. Now more than
-90% of a population can be reached by mobile phone. When sampling for a survey,
-many organizations are not bothering with sampling landlines. They accept a
-less-than-10% noncoverage rate to reduce the complexity of operating with two
-frames. Dual frame telephone sampling is disappearing – it’s still around, but
-it is less important today than it used to be.
+1970’s in the United States that landline frames did not cover 5-6 percent of
+the population. For the sake of lower costs, many survey organizations just
+called landline households and didn’t worry about the 5-6 percent noncoverage
+problem. Now more than 90 percent of a population can be reached by mobile
+phone. When sampling for a survey, many organizations are not bothering with
+sampling landlines. They accept a less-than-10 percent noncoverage rate to
+reduce the complexity of operating with two frames. Dual frame telephone
+sampling is disappearing--it’s still around, but it is less important today than
+it used to be.
 
 Through discussion with colleagues in Egypt, particularly with my former student
 Mahmoud Elkasabi (who is now working with Macro International), it was clear
-that there are similarities between Egypt and the U.S. Mobile phone penetration
-is better than landlines in almost all countries.
+that there are similarities between Egypt and the United States mobile phone
+penetration is better than landlines in almost all countries.
 
-**“Better understanding of the structure and coverage of the mobile phone frame
-is necessary” **
+## “Better understanding of the structure and coverage of the mobile phone frame is necessary”
 
-**UNSD:** How is the experience of the U.S. informing other countries?
+**UNSD:** _How is the experience of the United States informing other
+countries?_
 
 **Jim:** It’s important to remember that in telephone sampling the sampling
 method is going to be tailored, or fitted, to the frame available. The sampling
@@ -156,7 +149,7 @@ properties that other techniques couldn’t deal with. Cluster sampling, for
 instance, was developed in part as a response to situations where there were no
 good population lists to use as a list frame. One needs to understand the frame,
 and then think about what sampling techniques can be applied to it. That’s what
-happened in U.S. telephone sampling
+happened in United States telephone sampling
 
 Still, there are common things to keep in mind about telephone frames across
 countries.
@@ -198,15 +191,14 @@ What is important is to understand (a) the coverage of mobile phones before the
 survey is being carried out; and (b) what does the frame look like. These vary
 country by country and country-specific research needs to be done.
 
-**“Without a list of phone numbers from the phone operators, RDD is still
-needed” **
+## “Without a list of phone numbers from the phone operators, random digit dialing (RDD) is still needed”
 
-**UNSD:** In terms of frames, can we talk about a little more about RDD? It is
-not an easy task – taking the U.S. as an example. Random phone numbers are
-generated based a fixed phone number structure in the country and then many
+**UNSD:** _In terms of frames, can we talk about a little more about RDD? It is
+not an easy task – taking the United States as an example. Random phone numbers
+are generated based a fixed phone number structure in the country and then many
 steps are needed to identify the assigned numbers, which could be a very small
 portion of all generated numbers. Do we still need RDD if we have a list of
-mobile phone numbers from the mobile operators or companies?
+mobile phone numbers from the mobile operators or companies?_
 
 **Jim:** Let’s start with considering why random digit dialing even comes up as
 a sampling technique in telephone surveys.
@@ -233,38 +225,36 @@ of all possible phone numbers. But as we talked about before, there is typically
 a big problem dealing with phone numbers in an RDD sample that are not assigned
 to subscribers.
 
-**Response rates for telephone interviews lower than for face-to-face
-interviews**
+## Response rates for telephone interviews lower than for face-to-face interviews
 
-**UNSD:** Thank you Jim. The discussion on the telephone frame is quite helpful.
-Now let’s get back to other aspects related to telephone interview. Is the
-response rate to telephone interviews lower than face-to-face interviews?
+**UNSD:** _Thank you Jim. The discussion on the telephone frame is quite
+helpful. Now let’s get back to other aspects related to telephone interview. Is
+the response rate to telephone interviews lower than face-to-face interviews?_
 
 **Jim:** Telephone interviewing does generally have lower response rates
 compared with face-to-face interviewing. I don’t know this for sure in
 developing countries, but I do know that it is true in many. For example, I know
 that telephone survey response rates are lower in many countries in the Middle
 East. In Egypt frame problems and response rate issues were very similar to what
-we experienced in the U.S. at the time. In Qatar in the Persian Gulf, working
-with John Lee Holmes and Le Trung Kien, response rate and sampling frame issues,
-although not necessarily at the same frequency, were not a lot different from
-the U.S.
+we experienced in the United States at the time. In Qatar in the Persian Gulf,
+working with John Lee Holmes and Le Trung Kien, response rate and sampling frame
+issues, although not necessarily at the same frequency, were not a lot different
+from the United States.
 
-**Collecting data through telephone surveys – is your respondent the best
-informant for household characteristics?**
+## Collecting data through telephone surveys – is your respondent the best informant for household characteristics?
 
-**UNSD:** What type of information fits better with telephone surveys?
+**UNSD:** _What type of information fits better with telephone surveys?_
 
 **Jim:** It depends on whether you would need information from one person in the
 household, or multiple persons. Would you allow for proxy responses? It is a lot
 more complicated when the survey requires responses from multiple members in the
 household.
 
-**UNSD:** How do you get information on household structure from an individual
+**UNSD:** _How do you get information on household structure from an individual
 if we start our interview from an individual rather than a household? This is
 the case for telephone surveys (especially based on mobile phones). Household
 structure is important, for example, to understand the living arrangement
-situation within households under Covid-19.
+situation within households under COVID-19._
 
 **Jim:** Households have been useful in surveys because it is a convenient
 sampling point to get to people. In many social sciences and other fields,
@@ -282,11 +272,11 @@ composition and other characteristics than men. They may not be the best
 respondent about finance or some economic issues. The informant may need to be
 different for different kinds of data.
 
-With mobile telephone interviews in the U.S., you get more males answering the
-phone. If you ask them about household composition, we may get less reliable
-reports than if we had talked with a female in the household. There could be
-increased response error for household characteristics in mobile telephone
-surveys.
+With mobile telephone interviews in the United States, you get more males
+answering the phone. If you ask them about household composition, we may get
+less reliable reports than if we had talked with a female in the household.
+There could be increased response error for household characteristics in mobile
+telephone surveys.
 
 Ultimately you would have to see whether you would be willing to accept the fact
 that the individual answering the phone might not be the best informant for
@@ -295,20 +285,18 @@ probing, which we are doing anyway. At the end of a household questionnaire
 section, additional probing can be added to increase the chances that all
 household members are re being included.
 
-**Quality of data from telephone interviewing can be on a par with face-to-face
-**
+## Quality of data from telephone interviewing can be on a par with face-to-face
 
-**UNSD:** What about the quality of data collected from a telephone interview,
-compared with data collected through face-to-face interviewing?
+**UNSD:** _What about the quality of data collected from a telephone interview,
+compared with data collected through face-to-face interviewing?_
 
 **Jim:** We have a good deal of evidence that the reliability and validity of
 data obtained by telephone is similar to that from face-to-face interviews.
 
-**“Telephone interviewing can be flexible, using dispersed already trained and
-experienced staff to call from home”**
+## “Telephone interviewing can be flexible, using dispersed already trained and experienced staff to call from home”
 
-**UNSD:** What are other areas that we should be aware of when planning a
-telephone interview?
+**UNSD:** _What are other areas that we should be aware of when planning a
+telephone interview?_
 
 **Jim:** Telephone data collection may be centralized in call centers, changing
 the labor market for interviewers. In a country with multiple languages, and
@@ -345,9 +333,9 @@ graduate degree Program in Survey Methodology, the Summer Institute in Survey
 Research Techniques, and the Sampling Program for Survey Statisticians._
 
 [^1]:
-  “Out of a total of 232 SDG indicators, 80 indicators were identified as
-  obtainable from household surveys”, even if currently not all of them are
-  collected using this data source. Achieving the Full Potential of Household
+  A mapping exercise recently conducted shows that around one-third of all SDG
+  indicators (80 out of 232 indicators), covering 13 different goals, can be
+  sourced from household surveys. Achieving the Full Potential of Household
   Surveys in the SDG Era, Background document,Statistical Commission item 4c,
   2019
 
