@@ -12,7 +12,7 @@ import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 Household surveys play an important role in meeting national data needs.[^1] But
 with the ongoing COVID-19 pandemic, household survey programmes in many
 countries have been impacted in different ways. While some countries have
-started to use telephone and web surveys for its nationals surveys, many still
+started to use telephone and web surveys for their nationals surveys, many still
 rely on face-to-face interviews. It is these operations that have been affected
 the most by the pandemic. Is now the right moment for countries that have been
 relying on face-to-face interviews to make the switch to telephone interviews,
