@@ -3,6 +3,8 @@ title: Measuring the economic impact of the COVID-19 crisis in Romania
 date: 2020-05-07
 ---
 
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/measuring-economic-impact-of-covid19-in-romania-RU.pdf)_<br/><br/>
 Responding to the need for statistical benchmarks for substantiating the public
 and private decisions that will be taken in the coming months in response to the
 COVID-19 crisis, the
