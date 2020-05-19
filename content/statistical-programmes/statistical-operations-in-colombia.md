@@ -7,6 +7,8 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/statistical-operations-in-colombia-RU.pdf)_<br/><br/>
 Under the current COVID-19 situation and following the directives set by the
 government of Colombia, the
 [National Statistical Office (DANE)](https://www.dane.gov.co/) has sought to
