@@ -7,6 +7,8 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/report-ccsa-RU.pdf)_<br/><br/>
 The international statistics community has continued to work together, in
 partnership with national statistical offices and systems around the world, to
 ensure that the best quality data and statistics are available to support

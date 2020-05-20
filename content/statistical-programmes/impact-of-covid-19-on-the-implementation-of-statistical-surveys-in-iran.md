@@ -5,6 +5,8 @@ title:
 date: 2020-04-24
 ---
 
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/impact-of-covid-19-on-the-implementation-of-statistical-surveys-in-iran-RU.pdf)_<br/><br/>
 The unprecedented outbreak of the coronavirus and its resulting crisis have
 created a huge challenge to the routines of many governmental, non-governmental,
 civil society, organizations and businesses. The

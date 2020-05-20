@@ -9,7 +9,9 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-The COVID-19 situation presents a double challenge for statistical offices:
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/unece-covid19-platform-RU.pdf)_<br/><br/>The
+COVID-19 situation presents a double challenge for statistical offices:
 increased demand for statistics to manage pandemic and its impacts, combined
 with obstacles to collecting data and producing statistics. To help statistical
 offices deal with the crisis, the

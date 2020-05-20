@@ -3,6 +3,8 @@ title: 'Samoa Bureau of Statistics COVID-19 response'
 date: 2020-05-04
 ---
 
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/samoa-bureau-of-statistics-covid19-response-RU.pdf)_<br/><br/>
 Samoa is one of the few countries that have yet to confirm a positive case of
 COVID-19. However, the partial lockdown from 21 March to 2 May 2020, and the
 closure of borders since 25 March to date, have impacted on some of the on-going
