@@ -1,7 +1,7 @@
 ---
 title:
   'Using experimental statistics to monitor of the impact of COVID-19 in Denmark'
-date: 2020-05-15
+date: 2020-05-20
 images:
   - ../assets/posts/development-in-the-period-2015-2020.jpg
 ---
@@ -17,7 +17,9 @@ development and are not part of the official statistics production, can
 nevertheless be of great value when users demand fast, innovative and reliable
 measures of development. In the context of the COVID-19 situation, they provide
 valuable information to understand the pandemic’s impact on consumption,
-industry, employment, transportation, trade, etc.
+industry, employment, transportation, trade, etc. Experimental statistics also
+serves as supplement to mainstream statistical methods where, due to the
+COVID-19 situation, the data is uncertain or lacking.
 
 ## COVID-19 Experimental Statistics
 
