@@ -14,18 +14,19 @@
     "serve": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
     "clean": "rm -rf ./public && cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
     "inspect": "gatsby clean && node --inspect node_modules/.bin/gatsby develop",
-    "lint": "yarn run lint:code && yarn run lint:other",
-    "lint:code": "eslint . --ignore-path .gitignore",
-    "lint:other": "yarn run prettier --check",
-    "prettier": "prettier \"**/*.{md,mdx,css,yaml,yml}\" --ignore-path .gitignore",
-    "format": "yarn run format:code && yarn run format:other",
-    "format:code": "yarn run lint:code --fix",
-    "format:other": "yarn run prettier --write",
+    "lint": "run-s lint:*",
+    "lint:eslint": "eslint . --ignore-path .gitignore",
+    "lint:prettier": "yarn run prettier --check",
+    "prettier": "prettier . --ignore-path .gitignore",
+    "format": "run-s format:*",
+    "format:eslint": "yarn run lint:eslint --fix",
+    "format:prettier": "yarn run prettier --write",
     "purge": "rm -rf ./node_modules"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged",
+      "pre-push": "yarn run lint"
     }
   },
   "dependencies": {
@@ -47,10 +48,12 @@
     "typeface-roboto": "0.0.75"
   },
   "devDependencies": {
-    "@maiertech/eslint-config": "0.9.0",
+    "@maiertech/eslint-config": "0.10.0",
+    "@maiertech/prettier-config": "0.1.1",
     "eslint": "6.8.0",
     "husky": "4.2.5",
-    "lint-staged": "10.2.2",
+    "lint-staged": "10.2.4",
+    "npm-run-all": "^4.1.5",
     "prettier": "2.0.5"
   }
 }
