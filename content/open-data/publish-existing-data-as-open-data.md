@@ -3,10 +3,12 @@ title: Publish existing data following open data guidelines
 date: 2020-03-28
 ---
 
-Identifying existing datasets for priority dissemination is the first step to
-leveraging open data for action during the COVID-19 pandemic. Rather than focus
-on collecting new data, national statistical offices should locate existing
-useful data from traditional and non-traditional sources and publish them while
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/publish-existing-data-as-open-data-RU.pdf)_<br/><br/>Identifying
+existing datasets for priority dissemination is the first step to leveraging
+open data for action during the COVID-19 pandemic. Rather than focus on
+collecting new data, national statistical offices should locate existing useful
+data from traditional and non-traditional sources and publish them while
 adhering to open data standards to maximize access and usability. This section
 identifies resources to understand the state of open statistical data in a
 country, examples of data published by others that are critical to understanding

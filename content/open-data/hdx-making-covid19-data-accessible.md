@@ -8,9 +8,11 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-Access to open, interoperable and timely data about the COVID-19 pandemic is
-critical for understanding how the virus is spreading and the best strategies
-for responding in different contexts. To help, we have created a
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/hdx-making-covid19-data-accessible-RU.pdf)_<br/><br/>Access
+to open, interoperable and timely data about the COVID-19 pandemic is critical
+for understanding how the virus is spreading and the best strategies for
+responding in different contexts. To help, we have created a
 [dedicated page](https://data.humdata.org/event/covid-19) on the Humanitarian
 Data Exchange (HDX) platform so that our community can find COVID-19 related
 data from many sources and covering multiple countries.
