@@ -7,18 +7,20 @@ date: 2020-05-22
 Chief Statisticians from across the world are leading the response of National
 Statistical Systems to the data challenges of the COVID-19 pandemic, even in the
 context of major disruptions in day-to-day statistical operations. Sir Ian
-Diamond, UK's National Statistician, shares in an interview how the Office of
-National Statistics of the United Kingdom is innovating and working together
-with the family of National Statistic Institutes around the globe to provide
-timely and reliable data to monitor and contain to the spread of the disease and
-its socio-economic impacts, and to inform the design of effective recovery
-policies.
-
-The following is a slightly edited version of an interview.
+Diamond, UK's National Statistician, shares in an interview how the
+[Office of National Statistics of the United Kingdom](https://www.ons.gov.uk/)
+is innovating and working together with the family of National Statistic
+Institutes around the globe to provide timely and reliable data to monitor and
+contain the spread of the disease and its socio-economic impacts, and to inform
+the design of effective recovery policies. The following is a slightly edited
+version of an interview.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/scuLpWqVJpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### What is the role of ONS in coordinating national COVID-19 data collection efforts in the UK?
+<br/><br/>
+
+**What is the role of ONS in coordinating national COVID-19 data collection
+efforts in the UK?**
 
 The role of ONS is to lead the government’s statistical service. Right across
 government, ONS works very closely with different arms of government to make
@@ -42,7 +44,11 @@ social survey which enables us to understand how people are responding to some
 of the non-financial interventions that the government has put into place and
 how they’re feeling about the data.
 
-### We have a very new, very large survey that is collecting swabs from people to measure the prevalence of the virus in the population and collecting blood to measure the level antibodies in the population. By going back to people over time, this will allow us not only to estimate prevalence, but also the rates of transmission.
+**We have a very new, very large survey that is collecting swabs from people to
+measure the prevalence of the virus in the population and collecting blood to
+measure the level antibodies in the population. By going back to people over
+time, this will allow us not only to estimate prevalence, but also the rates of
+transmission.**
 
 We have really worked hard in our Data Science campus to use some very
 innovative ways of collecting data. For example, on footfall at major stations
@@ -67,7 +73,8 @@ measurement of GDP and inflation are available, ready and accurate as the
 government plans its way out of the economic challenges that the pandemic has
 brought.
 
-### How is ONS ensuring the continuity and quality of key statistical operations in the face of restrictions to conduct field operations?
+**How is ONS ensuring the continuity and quality of key statistical operations
+in the face of restrictions to conduct field operations?**
 
 We, along with many other statistical institutes, have had to stand down our
 face-to-face field work. That has meant that we have had to very quickly move to
@@ -82,7 +89,8 @@ scraping of prices rather than face-to-face data collection. So, we have been
 quickly and, I hope, effectively changing some of the ways in which we collect
 data to ensure that we are able to provide the data that our government needs.
 
-### How does the ONS strike the right balance between timeliness and quality of data in the current emergency situation?
+**How does the ONS strike the right balance between timeliness and quality of
+data in the current emergency situation?**
 
 I think this is a really good question. Government needs timely data; there is
 no question about that. But equally, government does not need wrong information
@@ -122,7 +130,8 @@ collected. There are regular announcements and publications of the results, and
 the data are available in real time in the secure research service for secondary
 analysis. This is just an example; there are many more.
 
-### What tools or platforms are being used to communicate information related to COVID-19 to users, including the general public?
+**What tools or platforms are being used to communicate information related to
+COVID-19 to users, including the general public?**
 
 The list is limitless. Clearly, we have our regular publications, and a number
 of ad hoc publications which bring data to the public very, very quickly. We are
@@ -133,7 +142,8 @@ doing interviews, in television, on radio and in other fora, to make sure that
 our results are communicated in a way that gives the maximum exposure to the
 population.
 
-### Is ONS following and/or adapting any practices indeed collection either here in the UK or globally for data comparability across countries?
+**Is ONS following and/or adapting any practices in data collection either here
+in the UK or globally for data comparability across countries?**
 
 This is a very important challenge and one of the questions that is always asked
 is, is there a [ranking] table showing the challenge faced by different
@@ -157,7 +167,10 @@ using all-cause mortality excess deaths. And again, I think there is real
 potential opportunities to do that, but there remain challenges in for the two
 reasons that I just described.
 
-### In your view, what are the most promising innovations in terms of the use of new data sources and new methods to address the need for detailed, timely and high-quality information on the pandemic? Can you tell us more about how ONS Data Science Campus, for example, is contributing in this regard?
+**In your view, what are the most promising innovations in terms of the use of
+new data sources and new methods to address the need for detailed, timely and
+high-quality information on the pandemic? Can you tell us more about how ONS
+Data Science Campus, for example, is contributing in this regard?**
 
 I think there are enormous opportunities at all times to innovate, and I don't
 think one should wait for a crisis like a pandemic to innovate. That's why we
@@ -185,7 +198,9 @@ of effort from across the office to innovate. To do it at such pace, and when
 we're all working from home as well, makes this a really exciting and innovative
 time.
 
-### What are your views on how new solutions developed in this phase, can become our new normal? Is there something we're learning from this crisis and the way national statistical offices are adapting to it?
+**What are your views on how new solutions developed in this phase, can become
+our new normal? Is there something we're learning from this crisis and the way
+national statistical offices are adapting to it?**
 
 I think there are so many new normals. Let me just start giving one: Alongside
 many other National Statistics Offices across the world we have moved very
@@ -210,7 +225,9 @@ we've demonstrated that we can do things at pace with quality and that are
 incredibly relevant to government decision-making. Those are the things that we
 can't possibly afford to lose.
 
-### What are ONS’ plans for the post COVID-19 period, including for addressing the new data needs to understand the impact on the economy and all other sectors of society?
+**What are ONS’ plans for the post COVID-19 period, including for addressing the
+new data needs to understand the impact on the economy and all other sectors of
+society?**
 
 I think the first thing to say is that it is a very brave person who says “post
 COVID-19”, because some of the coronaviruses that exist in the population have
@@ -242,7 +259,9 @@ of decisions that are needed to provide data, to inform government policy and to
 provide data on the changing economy, and to help government steer us on a
 course out of the hits that the economy is going to take.
 
-### How are you adapting statistical capacity development efforts to the new situation? For example, how can developed countries continue providing technical assistance and collaborating with statistical offices in developing countries?
+**How are you adapting statistical capacity development efforts to the new
+situation? For example, how can developed countries continue providing technical
+assistance and collaborating with statistical offices in developing countries?**
 
 I figure it's incredibly important that right across the globe we are supporting
 each other, sharing best practices and working to make sure that we are
@@ -253,16 +272,20 @@ discussion around what we were all doing to support our governments through this
 COVID-19 pandemic, how we might innovate and how we might support each other. As
 we go through the pandemic, we will continue to share best practices and support
 each other, getting back to helping people with the next round of censuses or
-other important statistical priorities.
+other important statistical priorities. _We are a global family of National
+Statistic Institutes. It is critical in my view that we work together for the
+global good._
 
-**We are a global family of National Statistic Institutes. It is critical in my
-view that we work together for the global good.**
+<br/><br/>
+
+---
 
 _Sir Ian is the UK's National Statistician, Head of the
 [Government Statistical Service](https://gss.civilservice.gov.uk/) (GSS) and
 Chief Executive of the
 [UK Statistics Authority](https://www.statisticsauthority.gov.uk/). He provides
-overall leadership for the Office for National Statistics (ONS) and the
+overall leadership for the
+[Office for National Statistics](https://www.ons.gov.uk/) (ONS) and the
 statistics profession across government. Sir Ian advises ministers, the Cabinet
 Secretary and senior officials on the production, dissemination and use of
 statistics across government._
