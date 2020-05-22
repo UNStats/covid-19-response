@@ -276,7 +276,7 @@ other important statistical priorities. _We are a global family of National
 Statistic Institutes. It is critical in my view that we work together for the
 global good._
 
-<br/>
+<br/><br/>
 
 ---
 
