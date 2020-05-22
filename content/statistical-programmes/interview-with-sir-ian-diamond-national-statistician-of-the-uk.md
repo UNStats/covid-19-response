@@ -257,3 +257,18 @@ other important statistical priorities.
 
 **We are a global family of National Statistic Institutes. It is critical in my
 view that we work together for the global good.**
+
+_Sir Ian is the UK's National Statistician, Head of the
+[Government Statistical Service](https://gss.civilservice.gov.uk/) (GSS) and
+Chief Executive of the
+[UK Statistics Authority](https://www.statisticsauthority.gov.uk/). He provides
+overall leadership for the Office for National Statistics (ONS) and the
+statistics profession across government. Sir Ian advises ministers, the Cabinet
+Secretary and senior officials on the production, dissemination and use of
+statistics across government._
+
+_Professor Sir Ian David Diamond, FBA, FRSE, FAcSS is the former Principal and
+Vice-Chancellor of the University of Aberdeen. His previous roles include Chief
+Executive of the Economic and Social Research Council, Chair of the Research
+Councils UK Executive Group, Deputy Vice-Chancellor at the University of
+Southampton and Chairman of the Social Security Advisory Committee._
