@@ -12,6 +12,16 @@ national statistical offices. NSOs are invited to contact
 [covid-19.stats@un.org](mailto:covid-19.stats@un.org) if they would like add to
 or update the list of links presented for their country.
 
+## Australia
+
+- [Australian Bureau of Statistics (ABS) responds to COVID-19](https://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABS%20responds%20to%20COVID-19)
+  - The ABS is committed to delivering timely and accurate information about the
+    impacts of COVID-19 on Australian society and the economy.
+- [Measuring the impacts of COVID-19](https://www.abs.gov.au/covid19)
+  - The ABS is releasing a range of existing and new statistical products to
+    help us all understand the impacts of COVID-19 and inform Australian
+    governments and communities in making important decisions.
+
 ## Canada
 
 - [COVID-19 portal](https://www.statcan.gc.ca/eng/covid19)
