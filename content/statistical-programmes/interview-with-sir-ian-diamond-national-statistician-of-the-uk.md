@@ -12,8 +12,8 @@ Diamond, UK's National Statistician, shares in an interview how the
 is innovating and working together with the family of National Statistic
 Institutes around the globe to provide timely and reliable data to monitor and
 contain the spread of the disease and its socio-economic impacts, and to inform
-the design of effective recovery policies. The following is a slightly edited
-version of an interview.
+the design of effective recovery policies. Here you can find the video recording
+and a slightly edited transcript of the interview.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/scuLpWqVJpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -32,10 +32,13 @@ We've worked very hard with the Treasury, and the Department of Business Energy
 and Industrial Strategy to ensure that the economic data are being brought
 together quickly and efficiently to the national effort. And I think as a
 National Statistical Institute we have to step up and provide a coordinating
-role, and that's something we've been very proud to do. What are the key
-national sources of data for monitoring the pandemic? We have worked very hard
-on this and I'm going to start with some new things that we've done, but I'll
-also mention the way that we have adapted some of our business as usual.
+role, and that's something we've been very proud to do.
+
+**What are the key national sources of data for monitoring the pandemic?**
+
+We have worked very hard on this and I'm going to start with some new things
+that we've done, but I'll also mention the way that we have adapted some of our
+business as usual.
 
 On the new front, we've stepped up a new business survey that went out very,
 very quickly to over 16,000 businesses and which aims to find out the way
@@ -44,11 +47,11 @@ social survey which enables us to understand how people are responding to some
 of the non-financial interventions that the government has put into place and
 how they’re feeling about the data.
 
-**We have a very new, very large survey that is collecting swabs from people to
+We have a very new, very large survey that is collecting swabs from people to
 measure the prevalence of the virus in the population and collecting blood to
 measure the level antibodies in the population. By going back to people over
 time, this will allow us not only to estimate prevalence, but also the rates of
-transmission.**
+transmission.
 
 We have really worked hard in our Data Science campus to use some very
 innovative ways of collecting data. For example, on footfall at major stations
@@ -276,7 +279,7 @@ other important statistical priorities. _We are a global family of National
 Statistic Institutes. It is critical in my view that we work together for the
 global good._
 
-<br/><br/>
+<br/>
 
 ---
 
