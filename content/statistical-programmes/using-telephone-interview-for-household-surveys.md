@@ -9,15 +9,16 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-Household surveys play an important role in meeting national data needs.[^1] But
-with the ongoing COVID-19 pandemic, household survey programmes in many
-countries have been impacted in different ways. While some countries have
-started to use telephone and web surveys for their national surveys, many still
-rely on face-to-face interviews. It is these operations that have been affected
-the most by the pandemic. Is now the right moment for countries that have been
-relying on face-to-face interviews to make the switch to telephone interviews,
-given that the mobile phone penetration is already quite high in most of the
-countries?
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/using-telephone-interview-for-household-surveys-RU.pdf)_<br/><br/>Household
+surveys play an important role in meeting national data needs.[^1] But with the
+ongoing COVID-19 pandemic, household survey programmes in many countries have
+been impacted in different ways. While some countries have started to use
+telephone and web surveys for their national surveys, many still rely on
+face-to-face interviews. It is these operations that have been affected the most
+by the pandemic. Is now the right moment for countries that have been relying on
+face-to-face interviews to make the switch to telephone interviews, given that
+the mobile phone penetration is already quite high in most of the countries?
 [Professor Jim Lepkowski](https://sph.umich.edu/faculty-profiles/lepkowski-james.html)
 of the University of Michigan, a leading expert on survey methodology, shares
 his thoughts on designing and conducting telephone surveys in a conversation
