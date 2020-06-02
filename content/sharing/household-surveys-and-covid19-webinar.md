@@ -23,3 +23,8 @@ video, a copy of the presentations, and a Q and A based on the questions raised
 during the webinar.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-U-e5hwj1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Presentation materials
+
+- [COVID-19 webinar for UNSD-DFID countries](https://unstats.un.org/capacity-development/meetings/UNSD-DFID-webinar-household-survey/documents/COVID-19-Household-surveys-webinar.pdf)
+- [Household surveys and COVID-19: Q and A](https://unstats.un.org/capacity-development/meetings/UNSD-DFID-webinar-household-survey/documents/Household-Surveys-webinar-QA.pdf)
