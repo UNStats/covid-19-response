@@ -65,6 +65,8 @@ interviews. 65 percent of NSO headquarters offices are partially or fully
 closed, 90 percent have instructed staff to work from home, and 96 percent have
 partially or fully stopped face-to-face data collection.
 
+### Proportion of National Statistical Offices that have partially or fully restricted access to their main office building, by region
+
 <Box mb={3}>
 <Img
 fluid={props.images[0]}
@@ -81,6 +83,8 @@ alt="[Office closure]"
 />
 </Box>
 
+### Proportion of National Statistical Offices that have introduced telework for at least some of their staff, by region
+
 <Box mb={3}>
 <Img
 fluid={props.images[2]}
@@ -89,8 +93,8 @@ alt="[Working remotely]"
 />
 </Box>
 
-Statistical operations have been hardest hit in low- and lower middle-income
-countries, while more resourced statistical systems in East Asia, Europe, and
+**Statistical operations have been hardest hit in low- and lower middle-income
+countries**, while more resourced statistical systems in East Asia, Europe, and
 North America have largely been able to protect their essential operations. Nine
 out of ten NSOs in low- and lower middle-income countries saw the pandemic blunt
 their ability to meet international reporting requirements, as opposed to one in
@@ -116,9 +120,9 @@ alt="[Is the current covid-19 pandemic affecting your aiblity to]"
 />
 </Box>
 
-Second, the global statistical community and donors must urgently provide
+Second, **the global statistical community and donors must urgently provide
 technical assistance and financial resources to the national statistical offices
-most in need of support. We find that nine in ten national statistical offices
+most in need of support**. We find that nine in ten national statistical offices
 in low- and lower middle-income countries are facing difficulties operating
 during the pandemic due to funding constraints, as more than half have seen
 funding cuts. 73 NSOs – 61 percent of those responding to this question in the
@@ -144,21 +148,21 @@ alt="[Top three support priorities by income group]"
 />
 </Box>
 
-Finally, the pandemic has highlighted the importance of the digital revolution,
-while reaffirming ‘traditional’ data collection as the backbone of national data
-systems. Despite the many disruptions caused by the pandemic, national
-statistical offices are taking up the mantle of responding to the new data needs
-and demands. We find that the majority of NSOs are implementing surveys on
-COVID-19 and its impacts, and are either planning or setting up national
-platforms to address the data needs of their government and citizens. To monitor
-and assess the impacts of COVID-19, in lieu of face-to-face surveys, statistical
-offices around the world have been relying on alternative data collection modes
-and data sources, most prominently phone surveys (58 percent) and administrative
-data (53 percent), in addition to online surveys (34 percent). However, as
-highlighted in the report, NSOs in low- and lower middle-income countries rely
-significantly less often on remote sensing and satellite imagery, revealing
-technology and infrastructure deficits that must be addressed by donors during
-this fraught time.
+Finally, **the pandemic has highlighted the importance of the digital
+revolution, while reaffirming ‘traditional’ data collection as the backbone of
+national data systems**. Despite the many disruptions caused by the pandemic,
+national statistical offices are taking up the mantle of responding to the new
+data needs and demands. We find that the majority of NSOs are implementing
+surveys on COVID-19 and its impacts, and are either planning or setting up
+national platforms to address the data needs of their government and citizens.
+To monitor and assess the impacts of COVID-19, in lieu of face-to-face surveys,
+statistical offices around the world have been relying on alternative data
+collection modes and data sources, most prominently phone surveys (58 percent)
+and administrative data (53 percent), in addition to online surveys (34
+percent). However, as highlighted in the report, NSOs in low- and lower
+middle-income countries rely significantly less often on remote sensing and
+satellite imagery, revealing technology and infrastructure deficits that must be
+addressed by donors during this fraught time.
 
 <Box mb={3}>
 <Img
@@ -176,3 +180,29 @@ the global statistical community continue to play its vital role in informing
 all sectors of society during this unprecedented crisis. We are committed to
 supporting countries to turn this crisis into an opportunity to invest smartly
 in more resilient and modernized integrated data/statistical systems.
+
+### Resources:
+
+To read the full survey report, please visit: [UNSD LINK] or [WBG DATA LINK]
+
+_**Haishan Fu** is the Director of the World Bank’s Development Data Group,
+overseeing its global development monitoring and open data initiative, surveys
+and other technical advisory services, and global statistical programs such as
+the International Comparison Program. In her capacity as the Ex-Officio member
+of the WBG Data Council and the Co-Chair of the Development Data Directors
+Group, Haishan leads and coordinates the development and implementation of the
+Bank’s development data agenda. She has been an active leader in the global
+statistical community, having served or currently serving as a member of the UN
+Secretary General’s Independent Expert Advisory Group on Data Revolution for
+Sustainable Development, Council Member of the International Statistical
+Institute, and Co-Chair of the Global Steering Committee of the Global Strategy
+to Improve Agricultural and Rural Statistics, among others._
+[Read More](https://www.worldbank.org/en/about/people/h/haishan-fu)
+
+_**Stefan Schweinfest** was appointed Director of the Statistics Division
+(UNSD/DESA) in July 2014. Under his leadership, the Division compiles and
+disseminates global statistical information, develops standards and norms for
+statistical activities including the integration of geospatial, statistical and
+other information, and supports countries' efforts to strengthen their national
+statistical and geospatial systems._
+[Read More](https://unstats.un.org/home/Stefan-Schweinfest.cshtml)
