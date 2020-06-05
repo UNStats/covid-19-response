@@ -43,13 +43,14 @@ the next few months. A second wave of the survey will be launched later this
 month.
 
 The survey results, covering the 122 countries that responded to the
-questionnaire, are summarized in a report available on the
-[UN Statistical Division](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf)
-and the World Bank Group websites, clearly underscore the tremendous challenges
-faced by national statistical offices as a result of the COVID-19 crisis. The
-results also include information on the measures being taken by statistical
-agencies to mitigate negative impacts and meet new data demands, as well as the
-areas that require priority support from partners.
+questionnaire, are summarized in a report available on the UN Statistical
+Division
+[website](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf),
+clearly underscore the tremendous challenges faced by national statistical
+offices as a result of the COVID-19 crisis. The results also include information
+on the measures being taken by statistical agencies to mitigate negative impacts
+and meet new data demands, as well as the areas that require priority support
+from partners.
 
 Here are three key messages that stand out from the data.
 
