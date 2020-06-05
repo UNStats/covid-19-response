@@ -31,7 +31,7 @@ system, given the steady demand for more and newer data as we try to adjust to
 this ‘new normal’.
 
 In the midst of this crunch, the
-[Statistical Division of the United Nations Department of Economic and Social Affairs](http://unstats.un.org/)
+[Statistics Division of the United Nations Department of Economic and Social Affairs](http://unstats.un.org/)
 and the [World Bank's Development Data Group](http://data.worldbank.org/), in
 coordination with the five UN regional commissions, launched a global online
 survey to monitor the nature, scale, and scope of the impact of the coronavirus
@@ -43,7 +43,7 @@ the next few months. A second wave of the survey will be launched later this
 month.
 
 The survey results, covering the 122 countries that responded to the
-questionnaire, are summarized in a report available on the UN Statistical
+questionnaire, are summarized in a report available on the UN Statistics
 Division
 [website](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf),
 clearly underscore the tremendous challenges faced by national statistical
@@ -165,10 +165,14 @@ all sectors of society during this unprecedented crisis. We are committed to
 supporting countries to turn this crisis into an opportunity to invest smartly
 in more resilient and modernized integrated data/statistical systems.
 
+This blog post and report were simultaneously published on the World Bank's Data
+Blog.
+
 ### Resources:
 
-To read the full survey report,
-[please visit this link](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf).
+To read the full survey report,please visit
+[please visit this link](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf)
+or [data.worldbank.org](data.worldbank.org).
 
 ---
 
