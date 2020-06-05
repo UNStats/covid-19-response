@@ -45,7 +45,7 @@ launched later this month.
 The survey results, covering the 122 countries that responded to the
 questionnaire, are summarized in a report available on the UN Statistical
 Division
-[https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/covid19-nso-survey-report.pdf](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/covid19-nso-survey-report.pdf)
+[COVID-19 NSO survey report](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/covid19-nso-survey-report.pdf)
 and the [World Bank Group websites](http://data.worldbank.org/), clearly
 underscore the tremendous challenges faced by national statistical organizations
 as a result of the COVID-19 crisis. The results also include information on the
