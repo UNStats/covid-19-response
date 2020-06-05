@@ -173,7 +173,7 @@ and report were simultaneously published on the World Bank website.
 
 To read the full survey report, please visit
 [please visit this link](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf)
-or [data.worldbank.org](data.worldbank.org).
+or [data.worldbank.org](http://data.worldbank.org/).
 
 ---
 
