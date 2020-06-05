@@ -165,12 +165,13 @@ all sectors of society during this unprecedented crisis. We are committed to
 supporting countries to turn this crisis into an opportunity to invest smartly
 in more resilient and modernized integrated data/statistical systems.
 
-This blog post and report were simultaneously published on the World Bank's Data
-Blog.
+This
+[blog post](https://blogs.worldbank.org/opendata/covid-19-widens-gulf-global-data-inequality-while-national-statistical-offices-step-up)
+and report were simultaneously published on the World Bank website.
 
 ### Resources:
 
-To read the full survey report,please visit
+To read the full survey report, please visit
 [please visit this link](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf)
 or [data.worldbank.org](data.worldbank.org).
 
