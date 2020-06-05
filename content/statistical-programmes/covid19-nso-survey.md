@@ -2,7 +2,7 @@
 title:
   'COVID-19 widens gulf of global data inequality, while national statistical
   offices step up to meet new data demands'
-date: 2020-06-04
+date: 2020-06-05
 images:
   - ../assets/posts/nso-survey-image1.jpg
   - ../assets/posts/nso-survey-image2.jpg
@@ -45,7 +45,7 @@ month.
 The survey results, covering the 122 countries that responded to the
 questionnaire, are summarized in a report available on the UN Statistical
 Division
-[COVID-19 NSO survey report](https://unstats.un.org/unstats/covid19-response/covid19-nso-survey-report.pdf)
+[COVID-19 NSO survey report](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf)
 and the [World Bank Group websites](http://data.worldbank.org/), clearly
 underscore the tremendous challenges faced by national statistical offices as a
 result of the COVID-19 crisis. The results also include information on the
