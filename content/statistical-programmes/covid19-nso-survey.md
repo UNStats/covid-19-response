@@ -43,15 +43,13 @@ the next few months. A second wave of the survey will be launched later this
 month.
 
 The survey results, covering the 122 countries that responded to the
-questionnaire, are summarized in a report available on the UN Statistical
-Division
-[COVID-19 NSO survey report](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf)
-and the [World Bank Group websites](http://data.worldbank.org/), clearly
-underscore the tremendous challenges faced by national statistical offices as a
-result of the COVID-19 crisis. The results also include information on the
-measures being taken by statistical agencies to mitigate negative impacts and
-meet new data demands, as well as the areas that require priority support from
-partners.
+questionnaire, are summarized in a report available on the
+[UN Statistical Division](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf)
+and the World Bank Group websites, clearly underscore the tremendous challenges
+faced by national statistical offices as a result of the COVID-19 crisis. The
+results also include information on the measures being taken by statistical
+agencies to mitigate negative impacts and meet new data demands, as well as the
+areas that require priority support from partners.
 
 Here are three key messages that stand out from the data.
 
@@ -65,7 +63,8 @@ interviews**. 65 percent of NSO headquarters offices are partially or fully
 closed, 90 percent have instructed staff to work from home, and 96 percent have
 partially or fully stopped face-to-face data collection.
 
-### Proportion of National Statistical Offices that have partially or fully restricted access to their main office building, by region
+**Proportion of National Statistical Offices that have partially or fully
+restricted access to their main office building, by region**
 
 <Box mb={3}>
 <Img
@@ -83,7 +82,8 @@ alt="[Office closure]"
 />
 </Box>
 
-### Proportion of National Statistical Offices that have introduced telework for at least some of their staff, by region
+**Proportion of National Statistical Offices that have introduced telework for
+at least some of their staff, by region**
 
 <Box mb={3}>
 <Img
@@ -166,7 +166,10 @@ in more resilient and modernized integrated data/statistical systems.
 
 ### Resources:
 
-To read the full survey report, please visit: [UNSD LINK] or [WBG DATA LINK]
+To read the full survey report,
+[please visit this link](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report.pdf).
+
+---
 
 _**Haishan Fu** is the Director of the World Bank’s Development Data Group,
 overseeing its global development monitoring and open data initiative, surveys
