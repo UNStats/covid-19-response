@@ -4,7 +4,9 @@ title:
 date: 2020-05-22
 ---
 
-Chief Statisticians from across the world are leading the response of National
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/interview-with-sir-ian-diamond-national-statistician-of-the-uk-RU.pdf)_<br/><br/>Chief
+Statisticians from across the world are leading the response of National
 Statistical Systems to the data challenges of the COVID-19 pandemic, even in the
 context of major disruptions in day-to-day statistical operations. Sir Ian
 Diamond, UK's National Statistician, shares in an interview how the

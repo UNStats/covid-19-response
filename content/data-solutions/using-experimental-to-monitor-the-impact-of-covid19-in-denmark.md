@@ -8,11 +8,13 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-The ongoing COVID-19 pandemic has created a huge demand for fast data to measure
-its impact on society. [Statistics Denmark](https://www.dst.dk/en), in
-collaboration with other members of the national statistical system, has been
-using new data sources and methods to provide faster indicators of development.
-These Experimental Statistics, whose methodologies are subject to continuous
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/using-experimental-to-monitor-the-impact-of-covid19-in-denmark-RU.pdf)_<br/><br/>The
+ongoing COVID-19 pandemic has created a huge demand for fast data to measure its
+impact on society. [Statistics Denmark](https://www.dst.dk/en), in collaboration
+with other members of the national statistical system, has been using new data
+sources and methods to provide faster indicators of development. These
+Experimental Statistics, whose methodologies are subject to continuous
 development and are not part of the official statistics production, can
 nevertheless be of great value when users demand fast, innovative and reliable
 measures of development. In the context of the COVID-19 situation, they provide
