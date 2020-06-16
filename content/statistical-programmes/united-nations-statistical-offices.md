@@ -1,7 +1,7 @@
 ---
 title:
-  'Six United Nations offices work together to support countries in managing the
-  COVID-19 pandemic'
+  'Six United Nations statistical offices work together to support countries in
+  managing the COVID-19 pandemic'
 date: 2020-06-16
 ---
 
