@@ -1,6 +1,6 @@
 ---
 title:
-  'Mapping responses to COVID-19: How National Statistical Offices are leading a
+  'Mapping responses to COVID-19: How National Statistical Offices can leading a
   data revolution'
 date: 2020-06-22
 ---
@@ -39,16 +39,6 @@ geographical data to track the pandemic in 188 countries.
 To help understanding the pandemic impact across space, various of NSOs have
 launched geo-statistical solutions. Some examples are described in the following
 table
-
-| Leading NSO       | Type of Analysis / Visualisation | Kind of Partnership | Source Data Layer      | Data reusability |
-| ----------------- | -------------------------------- | ------------------- | ---------------------- | ---------------- |
-| Eurostat          | Travel time to health services   | G2G                 | GDB of health services | Open             |
-| DANE Colombia     | Vulnerability Index              | G2G                 | 2018 + Census          | Proprietary      |
-| INE Spain         | Population Mobility              | G2B                 | Real time              | Proprietary      |
-| INE Portugal      | Hex Grid of Infected People      | G2G                 | 2018 + Census          | Open             |
-| INEGI Mexico      | Mapping of infected and Other    | G2G+                | N/A                    | Open             |
-| GSS Ghana         | Population Mobility              | G2B                 | Real time              | Proprietary      |
-| Statistiks Norway | Hex Grid of Infected People      | G2G                 | Registries             | Open             |
 
 _The type of partnership is based on classification established in Citizen to
 government data partnerships: What can we learn from and recommend to civil
