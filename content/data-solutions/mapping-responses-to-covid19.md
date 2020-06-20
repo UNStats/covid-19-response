@@ -94,16 +94,16 @@ other partners._
 The 2030 Agenda for Sustainable Development calls on a wide range of actors--not
 just governments and their national statistical systems--to work together to
 generate timely and usable data, while facilitating informed decision-making,
-including that during emergencies. And the purposeful and synergetic association
-of partners illustrated above is a step forward towards delivering on the
-promise of a “data revolution for sustainable development”.
+including that during emergencies. And the purposeful and synergetic
+associations of partners illustrated above are a step forward towards delivering
+on the promise of a “data revolution for sustainable development”.
 
 As the governments of most countries in the world take action to contain and
 mitigate the effects of the COVID-19 pandemic, National Statistical Offices are
 called to lead the response to increased demands from users for more timely,
 reliable and accessible data to monitor the pandemic and each of the 17 SDGs.
 However, as noted by the Partnership in Statistics for Development in the 21st
-Century (PARIS21), the COVID-19 crisis has causes a double disruption that
+Century (PARIS21), the COVID-19 crisis has caused a double disruption that
 "squeezes" national statistical offices between increased demand-side pressures
 from data users, on one hand, and supply-side pressures derived from operational
 and technical resource constraints, on the other. In many cases, this double
