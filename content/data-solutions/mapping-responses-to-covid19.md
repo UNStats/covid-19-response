@@ -21,8 +21,8 @@ leading innovative data partnerships.
 Antonio Gramsci said at the beginning of last century that "the old world is
 dying but the new one is delayed in emerging and, in that, chiaroscuro monsters
 emerge". If this thinker had lived in our days, he would have recognized one of
-those monsters in the impacts of the COVID-19 pandemic. And not only because the
-death that the virus leaves behind in its wake, but especially because the gaps
+those monsters in the impacts of the COVID-19 pandemic. And not only because of
+the death that the virus leaves behind in its wake, but also because of the gaps
 it reveals in the responses of governments.
 
 As a global phenomenon that has evolved over time and space with unprecedented
@@ -60,12 +60,14 @@ other partners._
   data on hospitals and other health care facilities through the web services of
   its ESTAT-GISCO project, which in combination with data on roads allows to
   analyze access to health services by the population in different areas.
-- The NSOs of Norway and Portugal produced open data sets mapping the
-  sub-national distribution of coronavirus infections.
-- The NSO of Spain initiated, in collaboration with the three major mobile
-  telephone operators in the country (Orange, Telefónica and Vodafone) a study
-  of the location of more than 80 percent of mobile phones to understand the
-  mobility of people during the COVID-19 crisis across the territory.
+- Statistics Norway and the National Institute of Statistics of Portugal
+  produced open data sets mapping the sub-national distribution of coronavirus
+  infections.
+- The National Statistical Institue of Spain initiated, in collaboration with
+  the three major mobile telephone operators in the country (Orange, Telefónica
+  and Vodafone) a study of the location of more than 80 percent of mobile phones
+  to understand the mobility of people during the COVID-19 crisis across the
+  territory.
 - Ireland, the Central Statistics Office (CSO) has partnered with the national
   mapping agency (Ordnance Survey Ireland), the Department of Housing, Planning
   and Local Government, and the All Islands Research Observatory at the
