@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from international organisations
-date: 2020-05-08
+date: 2020-06-22
 ---
 
 This page contains links to data and information resources provided by
@@ -72,21 +72,20 @@ It is updated continuously as more resources become available.
 
 ### Food and Agriculture Organization of the United Nations (FAO)
 
-- [FAO’s COVID-19 Portal](http://www.fao.org/2019-ncov/en/) - As part of its
-  response, FAO has launched a new website to help inform the measures taken to
-  overcome the threats to the agricultural and food sectors. Continuously
-  updated as more resources become available, it provides an overview of FAO’s
-  action in regard to the outbreak, key messages, policy tools, questions and
-  answers, and offers valuable resources for statisticians
+- [FAO’s COVID-19 Portal](http://www.fao.org/2019-ncov/en/)
+  - As part of its response, FAO has launched a new website to help inform the
+    measures taken to overcome the threats to the agricultural and food sectors.
+    Continuously updated as more resources become available, it provides an
+    overview of FAO’s action in regard to the outbreak, key messages, policy
+    tools, questions and answers, and offers valuable resources for
+    statisticians.
 - [FAO’s Data Lab on food chains under the COVID-19 pandemic](https://datalab.review.fao.org/)
   - Through its Data Lab and the use of Big Data, text scraping and artificial
     intelligence, FAO conducts a global assessment that identifies and tracks
     policy responses countries adopted during past crises.
 - [FAO policy platform](http://www.fao.org/2019-ncov/analysis/en/)
-
   - Collection of practices and policy responses in eight thematic areas,
     including Data and Statistics.
-
 - [COVID-19 Policy Briefs and other resources](http://www.fao.org/2019-ncov/resources/policy-briefs-test/en/)
   - Collection of policy briefs and resources with qualitative and quantitative
     assessment of the pandemic’s impacts. Briefs are released on a day-to-day
