@@ -8,7 +8,7 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-In an effot to support national statistical offices and partners around the
+In an effort to support national statistical offices and partners around the
 world during the outbreak of COVID-19, the
 [United Nations Statistics Division](https://unstats.un.org) has launched a
 conducting a series of interviews with representatives at the front lines of
