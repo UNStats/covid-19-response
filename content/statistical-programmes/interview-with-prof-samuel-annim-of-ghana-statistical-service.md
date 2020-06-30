@@ -1,29 +1,33 @@
 ---
-title: Interview with professor Samuel Annim of the Ghana Statistical Service
-date: 2020-06-18
+title: Interview with Prof. Samuel Annim, Government Statistician of Ghana
+date: 2020-06-30
+images:
+  - ../assets/posts/prof-annim.jpg
+  - ../assets/posts/ghana-covid-19-hub.jpg
 ---
 
-In an effort to support national statistical offices and partners around the
-world during the outbreak of covid19, the
+import Img from 'gatsby-image'; import { Box } from 'theme-ui';
+
+In an effot to support national statistical offices and partners around the
+world during the outbreak of COVID-19, the
 [United Nations Statistics Division](https://unstats.un.org) has launched a
-website to share guidance, action, tools and best practices to ensure the
-operational continuity of data programs by national statistical offices, and to
-address the issues of open and timely access to critical data needed by
-governments and all sectors of society to monitor the spread and impact of
-COVID-19.
+conducting a series of interviews with representatives at the front lines of
+national statistical systems responding to the pandemic. Professor Samuel Annim,
+in conversation with Deirdre Appel from
+[Open Data Watch](https://opendatawatch.com/), shares his thoughts and
+experiences on the response of
+[Ghana Statistical Service](https://statsghana.gov.gh/) to the challenges of the
+COVID-19 Pandemic.
 
-As part of that initiative, UNSD is conducting a series of interviews with
-representatives at the front lines of national statistical systems responding to
-the pandemic. Today, I am joined with professor Samuel Annim of the
-[Ghana Statistical Service](https://statsghana.gov.gh/). Professor, thank you
-for joining us today to share your thoughts and experiences on the topic.
-Welcome to the interview!
+<Box mb={3}>
+  <Img
+    fluid={props.images[0]}
+    title="Samuel Annim, Government Statistician of Ghana"
+    alt="Samuel Annim, Government Statistician of Ghana"
+  />
+</Box>
 
-Thank you Deirdre, it's a pleasure.
-
-Great! So, without further ado, we'll begin.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cN3bicXmCcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><br/>
 
 **What are the main challenges your organization is facing in responding to
 COVID-19?**
@@ -78,6 +82,10 @@ Statistical Service activities. As we speak, some of our major activities, about
 which I am happy to talk later, have been put on hold as we wait to get a good
 sense of how COVID-19 is going to abate moving forward.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cN3bicXmCcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>
+
 **It certainly seems like there's a tier of challenges that the Ghana
 Statistical Service is facing at the individual, the national and the global
 levels. Regarding continuing operations within the context of a global
@@ -87,76 +95,72 @@ operations?**
 
 We had to quickly develop a business continuity plan at the onset of COVID-19.
 We initially developed a work from home policy, followed by a plan document to
-guide the continuity of our activities.
+guide the continuity of our activities. I will restrict my response to three
+main data collection exercises, so that we get a sense of how Ghana Statistical
+Service has coped with its day-to-day activities following the COVID-19.
 
-I will restrict my response to three main data collection exercises, so that we
-get a sense of how Ghana Statistical Service has coped with its day-to-day
-activities following the COVID-19. So, to start with one of our regular data
-collection issues, let me talk about price data collection, specifically for the
-Consumer Price Index (CPI). COVID-19 first occurred in Ghana on the 12th of
-March, with two cases, and increased, like in all other countries, to a point
-that on the 27th of March the government decided to partially lock down the
-country for three weeks, starting on the 30th of March until to the 20th of
-April. We collect our prices in the first week of each month, so fortunately we
-were able to collect our prices for March even before the first COVID-19 case.
-And because we have dealt with these markets for a period of time, we have good
+First, to start with one of our regular data collection issues, let me talk
+about the Consumer Price Index (CPI). COVID-19 first occurred in Ghana on the
+12th of March, with two cases, and increased, like in all other countries, to a
+point that on the 27th of March the government decided to partially lock down
+the country for three weeks, from the 30th of March until to the 20th of April.
+We collect our prices in the first week of each month, so fortunately we were
+able to collect our prices for March even before the first COVID-19 case. And
+because we have dealt with these markets for a period of time, we have good
 relationships with them. This enabled us to deploy other methodologies, such as
 telephone calls, to collect the prices for the month of April. And for the month
-of May, the partial lockdown was lifted. So, from my point of view and to a
-large extent, as far as inflation or prices data collection is concerned, we
-have been lucky based on when the country was locked-down and the period within
-which we picked up our data. But having said this, we still had some challenges
-in the sense that this is the first time that we rely mainly on the outlets of
-the market sellers to provide some information to us, and we were not yet
-prepared with the adequate interventions to ensure quality data and processes to
-validate the data that we are getting from them. So, one of the things that we
-think we need to really do moving forward is to diversify our approaches as far
-as these data collection is concerned. That is critical, because it opens up an
-opportunity to harness non-traditional data sources such as administrative data.
-Again, this experience gave us the opportunity to rethink how we sort of impute
-data where we have gaps in our data. One of the policies that we've put in place
-to impute data is to conduct estimation using a couple of months back price data
-to fill in for the recent data gaps. As management, however, we clearly
-recognize that the use of previous months data as a representative for the
-current month is only appropriate in an “ideal”, very long-run, “normal”
-situation. But, in the type of event where that we are facing—a shock to an
-economy leading to a shock in prices—, using the prices of previous months as an
-indicator for the current month would not pick up the effect of COVID-19. Nobody
-would contest that estimation or the use of previous-month prices is not
-sufficient in an era of a shock such as COVID-19.
+of May, the partial lockdown was lifted. From my point of view, as far as
+inflation or prices data collection is concerned, we have been lucky based on
+when the country was locked-down and the period within which we picked up our
+data. But having said this, we still had some challenges in the sense that this
+is the first time that we rely mainly on the outlets of the market sellers to
+provide some information to us, and we were not yet prepared with the adequate
+interventions to ensure quality data and processes to validate the data that we
+are getting from them.
 
-Another area that I want to put emphasis on is our national accounts data
-collection. Again, we need to look at this from a broader perspective, in the
-sense that we had challenges not only with collecting the data, but we also kept
-asking ourselves whether the timing of the release of GDP—which is done on a
-quarterly basis—would help when everybody is expecting that COVID-19 should
-impact output. As most developing countries do, GDP in Ghana is published on an
-annual and on a quarterly basis. We released the last quarter of 2019 in the
-first quarter of the 2020 calendar year, and next week we'll be releasing the
-first quarter of 2020. As management, we keep asking ourselves whether this is
-what the policy maker needs. The answer is certainly no; although we are
-compelled to release GDP at a time that COVID-19 had not impacted fully on the
-economy. So now we begin to think how to increase the frequency of our data
-collection and begin to think about some monthly data collection, to enable us
-respond to such shocks. So, in a way, COVID-19 is not impacting the computation
-of GDP, but the regularity and the relevance of the data that we are giving out.
+So, moving forward, it is critical to diversify our data collection approaches
+and harness non-traditional data sources such as administrative data. This
+experience also gave us the opportunity to rethink how we impute data gaps. One
+of our policies is to conduct estimates to fill recent data gaps using price
+data from a couple of months back. As management, however, we clearly recognize
+that the use of previous months data as a representative for the current month
+is only appropriate in an “ideal”, very long-run, “normal” situation. But, in
+the type of event where that we are facing—a shock to an economy leading to a
+shock in prices—, this approach is not sufficient pick up the effect of
+COVID-19.
 
-The last data collection that I want to talk about is the national census, that
-we had earmarked for 2020, so we had scheduled 28 of June—which is a couple of
-weeks away from now—as our census reference. But in April, given that we are at
-the peak of COVID-19, we decided to reschedule the date. And packaging this
-information continues to be a struggle, because we are still not too sure about
-how COVID-19 is going to abate, so we have not been able to fix a new date for
-the census. This has led to a number of implications, including to some extent
-the politicization of the census activity. But the reason why as GSS we've been
-hesitant to put out a date is associated with the closure of our borders. As we
-all know, migration constitutes one of the three key factors in estimating or
-counting the number of people in a country; so, if we continue to have our
-borders closed without an indication of when they are going to reopen, we have
-to be careful in terms of whether we are going to estimate a value for migration
-or wait for the borders to open and do a proper counting of people in the
-country. The other challenge is that 2020 coincides with the elections that we
-have every four years. So, towards the end of the year we will be having our
+A second area that I want to emphaize is our national accounts data collection.
+From a broader perspective, we had challenges not only with collecting the data,
+but we also kept asking ourselves whether the timing of the release of
+GDP—-which is done on a quarterly basis—-would help when everybody is expecting
+that COVID-19 should impact output. As most developing countries do, GDP in
+Ghana is published on an annual and on a quarterly basis. We released the last
+quarter of 2019 in the first quarter of the 2020 calendar year, and soon we'll
+be releasing the first quarter of 2020. As management, we keep asking ourselves
+whether this is what the policy maker needs. The answer is certainly no;
+although we are compelled to release GDP at a time that COVID-19 had not
+impacted fully on the economy. So now we begin to think how to increase the
+frequency of our data collection and begin to think about some monthly data
+collection, to enable us respond to such shocks. So, in a way, COVID-19 is not
+impacting the computation of GDP, but the regularity and the relevance of the
+data that we are giving out.
+
+The third and last data collection that I want to talk about is the national
+census, that we had earmarked for 2020, so we had scheduled 28 of June—which is
+a couple of weeks away from now—as our census reference. But in April, given
+that we are at the peak of COVID-19, we decided to reschedule the date. And
+packaging this information continues to be a struggle, because we are still not
+too sure about how COVID-19 is going to abate, so we have not been able to fix a
+new date for the census. This has led to a number of implications, including to
+some extent the politicization of the census activity. But the reason why as GSS
+we've been hesitant to put out a date is associated with the closure of our
+borders. As we all know, migration constitutes one of the three key factors in
+estimating or counting the number of people in a country; so, if we continue to
+have our borders closed without an indication of when they are going to reopen,
+we have to be careful in terms of whether we are going to estimate a value for
+migration or wait for the borders to open and do a proper counting of people in
+the country. The other challenge is that 2020 coincides with the elections that
+we have every four years. So, towards the end of the year we will be having our
 national elections, and six months ahead of the elections is when electoral
 activities peak. Because of COVID-19, all the electoral activities, such as the
 voter registration exercise that had been scheduled for the first half of the
@@ -185,7 +189,8 @@ pandemic, then it gives us an opportunity to widen the scope. I must emphasize
 that the Ghana Statistical Service made the realization that we need to
 consciously create an opportunity for people to look beyond the infection,
 recovery and the death rates that are associated with COVID-19. So to expand the
-sources of data we published on our website the COVID-19 dashboard, and using
+sources of data we published on our website the
+[COVID-19 dashboard](https://ghcovid19-statsghana.hub.arcgis.com/), and using
 traditional data sources (specifically, the demographic health survey and the
 multiple indicator cluster survey) we created an opportunity for people to
 identify “hotspot” areas with high incidence of aging population, no compliance
@@ -422,6 +427,16 @@ So as statistical institutions in a time like this it's your ability to make
 certain definitive statements from a technical broader perspective that is going
 to make you more relevant.
 
+<Box mb={3}>
+  <Img
+    fluid={props.images[1]}
+    title="Ghana Covid 19 Hub"
+    alt="Ghana Covid 19 Hub"
+  />
+</Box>
+
+<br/><br/>
+
 **I'm also hearing that there is a need right now to trust the national
 statistical offices in terms of quality assurance and verifying the data, and to
 use a lot of sources to have a broader picture of the context and the
@@ -510,21 +525,20 @@ and social one, and many more impacts through other areas of our life. Do you
 have any closing remarks on the response of NSOs to COVID-19, or a point you'd
 like to highlight for our audience?**
 
-Thank you. I think the questions are quite exhaustive, but I'll just mention two
-things if you don't mind. The first has to do with the individual country
-responses to COVID-19, and commend the United Nations Statistics Division for
-putting up this initiative, which gives us an opportunity as NSOs in our
-respective countries to one appreciate how our context is different and to learn
-from what other countries are doing, depending on how, at a governmental level,
-NSOs in their respective countries are being engaged. This platform would always
-present an opportunity to share knowledge and I think it is very important that
-we continue to do that. But what I want to share with my other national
-statisticians is the importance of harnessing bilateral, three-way, four-way
-engagements in knowledge sharing. I think we have not had or we have not done
-that strongly enough; but moving forward and giving the different experiences
-and the challenging times that we find ourselves in, it is definitely important
-for us to do this in a much smaller and at a much smaller scale even if it's
-bilateral.
+I think the questions are quite exhaustive, but I'll just mention two things if
+you don't mind. The first has to do with the individual country responses to
+COVID-19, and commend the United Nations Statistics Division for putting up this
+initiative, which gives us an opportunity as NSOs in our respective countries to
+one appreciate how our context is different and to learn from what other
+countries are doing, depending on how, at a governmental level, NSOs in their
+respective countries are being engaged. This platform would always present an
+opportunity to share knowledge and I think it is very important that we continue
+to do that. But what I want to share with my other national statisticians is the
+importance of harnessing bilateral, three-way, four-way engagements in knowledge
+sharing. I think we have not had or we have not done that strongly enough; but
+moving forward and giving the different experiences and the challenging times
+that we find ourselves in, it is definitely important for us to do this in a
+much smaller and at a much smaller scale even if it's bilateral.
 
 The other thing that I want to mention is that clearly this is a platform for
 national statistical organizations to rethink their organization as we've talked
@@ -540,3 +554,30 @@ weeks, and we hope to provide more of that knowledge sharing.**
 **Thank you again for the rich insights you provided and the hopeful outlook on
 how NSOs are adapting, and with the right support, will continue not just to
 survive the COVID-19 pandemic but also to thrive.**
+
+<br/>
+
+---
+
+_Samuel Kobina Annim is the Government Statistician (Head) of the
+[Ghana Statistical Service](https://statsghana.gov.gh/) and a Professor of
+Economics with specific concentration on Micro Development Economics and Applied
+Microeconometrics. As Government Statistician for the past 18 months, Professor
+Annim has pursued a transformational agenda to promote professionalism in the
+production of statistics and to deepen the relevance of official statistics in a
+rapidly changing economic and social environment. In the wake of the COVID-19
+outbreak, Prof. Annim has contributed significantly to decisions on
+interventions by government to combat the disease and address associated
+socioeconomic challenges, stressing the use of relevant data to achieve desired
+results. He passionately supports national and global development agenda by
+providing professional service to the National Statistical System in Ghana and
+several international bodies, and is dedicated to promoting knowledge
+transformation across the continent and beyond._
+
+_Deirdre Appel is Program Manager of
+[Open Data Watch](https://opendatawatch.com/), where she is responsible for the
+planning and coordination of work program activities, business development and
+communications, leading policy engagements and strategic partnerships. Deirdre
+holds a Master of Global Policy Studies with a specialization in International
+Development from the LBJ School of Public Affairs at the University of Texas at
+Austin._
