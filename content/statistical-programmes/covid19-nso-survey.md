@@ -14,10 +14,12 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-The novel coronavirus pandemic has exacted a heavy toll, with more than 6
-million cases worldwide and nearly 400,000 deaths from COVID-19 as of this
-writing. Much of the world remains on lockdown, adding loss of livelihood and
-financial suffering to the grave health impacts of the virus.
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/covid19-nso-survey-RU.pdf)_<br/><br/>The
+novel coronavirus pandemic has exacted a heavy toll, with more than 6 million
+cases worldwide and nearly 400,000 deaths from COVID-19 as of this writing. Much
+of the world remains on lockdown, adding loss of livelihood and financial
+suffering to the grave health impacts of the virus.
 
 National statistical systems have not been exempt from the ravages of the
 disease. At a time when the need for high-quality, timely data is more urgent
