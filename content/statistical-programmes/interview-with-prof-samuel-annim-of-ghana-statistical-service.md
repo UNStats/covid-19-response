@@ -8,8 +8,10 @@ images:
 
 import Img from 'gatsby-image'; import { Box } from 'theme-ui';
 
-In an effort to support national statistical offices and partners around the
-world during the outbreak of COVID-19, the
+_This article is also available in
+[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/interview-with-prof-samuel-annim-of-ghana-statistical-service-RU.pdf)_<br/><br/>In
+an effort to support national statistical offices and partners around the world
+during the outbreak of COVID-19, the
 [United Nations Statistics Division](https://unstats.un.org) has launched a
 conducting a series of interviews with representatives at the front lines of
 national statistical systems responding to the pandemic. Professor Samuel Annim,
