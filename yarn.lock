@@ -2330,10 +2330,10 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@undataforum/components@0.75.1":
-  version "0.75.1"
-  resolved "https://registry.yarnpkg.com/@undataforum/components/-/components-0.75.1.tgz#d5c389d70540f3cb29e71ec921894ee1bc7b89f6"
-  integrity sha512-4TudmG+gBp3gGTMVdXQ+g3ZjjTsWZYObF7M3TDjwlGFSFjZF+KbElQ1iWOHgTsCQPBKIkkVaorKUHOEvgrC/OA==
+"@undataforum/components@0.79.0":
+  version "0.79.0"
+  resolved "https://registry.yarnpkg.com/@undataforum/components/-/components-0.79.0.tgz#c9c775a216ae420d3c944d48878829ee7661c086"
+  integrity sha512-JIU6bvwuKmGZEF8nUo7lMAXcAnDOlEumYBDkNPz+buc0+U5PT469LY/DVMJkXveUPhXB22EhKVZp0eG9RGfEvA==
   dependencies:
     prop-types "^15.7.2"
 
