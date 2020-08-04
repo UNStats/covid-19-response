@@ -5,15 +5,12 @@
   "version": "0.0.0",
   "author": "Thilo Maier <maier@un.org>",
   "homepage": "https://covid-19-response.unstatshub.org/",
-  "engines": {
-    "node": "12.x"
-  },
   "scripts": {
-    "dev": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
-    "build": "yarn run clean && cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby build",
-    "serve": "cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
-    "clean": "rm -rf ./public && cross-env GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
-    "inspect": "gatsby clean && node --inspect node_modules/.bin/gatsby develop",
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "inspect": "node --inspect node_modules/.bin/gatsby develop",
     "lint": "run-s lint:*",
     "lint:eslint": "eslint . --ignore-path .gitignore",
     "lint:prettier": "yarn run prettier --check",
@@ -35,7 +32,6 @@
     "@undataforum/gatsby-theme-blog": "0.11.4",
     "@undataforum/gatsby-theme-events": "0.8.3",
     "@undataforum/gatsby-theme-profiles": "0.8.2",
-    "cross-env": "7.0.2",
     "deepmerge": "4.2.2",
     "gatsby": "2.24.26",
     "gatsby-image": "2.4.14",
