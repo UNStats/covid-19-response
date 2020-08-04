@@ -1,20 +1,15 @@
 {
   "version": 2,
   "scope": "unstats",
-  "routes": [
+  "trailingSlash": true,
+  "redirects": [
     {
-      "src": "/statistical-programmes/use-of-admin-data-under-covid19/",
-      "status": 308,
-      "headers": {
-        "Location": "/statistical-programmes/use-of-administrative-data-sources-under-covid-19/"
-      }
+      "source": "/statistical-programmes/use-of-admin-data-under-covid19/",
+      "destination": "/statistical-programmes/use-of-administrative-data-sources-under-covid-19/"
     },
     {
-      "src": "/useful-links/covid19-data-collaboratives/",
-      "status": 308,
-      "headers": { "Location": "/useful-links/covid-19-data-collaboratives/" }
-    },
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "404.html", "status": 404 }
+      "source": "/useful-links/covid19-data-collaboratives/",
+      "destination": "/useful-links/covid-19-data-collaboratives/"
+    }
   ]
 }
