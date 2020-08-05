@@ -29,7 +29,7 @@
   "dependencies": {
     "@undataforum/components": "0.79.0",
     "@undataforum/gatsby-theme-base": "0.13.2",
-    "@undataforum/gatsby-theme-blog": "0.11.4",
+    "@undataforum/gatsby-theme-blog": "0.12.0",
     "@undataforum/gatsby-theme-events": "0.8.3",
     "@undataforum/gatsby-theme-profiles": "0.8.2",
     "deepmerge": "4.2.2",
