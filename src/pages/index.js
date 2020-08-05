@@ -10,11 +10,11 @@ import {
   Flex,
   Grid,
   Heading,
+  Link,
   Styled,
   Text,
 } from 'theme-ui';
 import { IntlProvider, FormattedMessage } from 'react-intl';
-import { Link } from '@undataforum/components';
 import merge from 'deepmerge';
 import postsMessages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
 import eventsMessages from '@undataforum/gatsby-theme-events/src/i18n/messages';

@@ -1,7 +1,6 @@
 import React from 'react';
 import { arrayOf, node, shape, string } from 'prop-types';
-import { Box, Container, Flex, Heading, Text } from 'theme-ui';
-import { Link } from '@undataforum/components';
+import { Box, Container, Flex, Heading, Link, Text } from 'theme-ui';
 
 import UnitedNationsLogo from '../logos/united-nations-logo';
 
