@@ -20,7 +20,7 @@ const PostList = ({ posts, ...props }) => (
               date,
               description: description && (
                 // Wrap in Box to trigger last-child rule for <p> which sets mb={0}.
-                <Box>
+                <Box sx={{ mb: 3 }}>
                   <MDXRenderer>{description.childMdx.body}</MDXRenderer>
                 </Box>
               ),

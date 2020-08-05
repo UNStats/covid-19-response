@@ -1,7 +1,12 @@
 import React from 'react';
 import { arrayOf, shape, string } from 'prop-types';
-import { Box, Container, Flex, Heading, Text } from 'theme-ui';
-import { Link, SocialIcons } from '@undataforum/components';
+import { Box, Container, Flex, Heading, Link, Text } from 'theme-ui';
+import {
+  EmailIcon,
+  GitHubIcon,
+  SocialIcons,
+  TwitterIcon,
+} from '@undataforum/components';
 
 import UnitedNationsLogo from '../logos/united-nations-logo';
 import GlobalPartnershipLogo from '../logos/global-partnership-logo';
@@ -83,25 +88,42 @@ const Footer = ({ links }) => (
           </Link>
         </Flex>
         <SocialIcons
-          platforms={[
+          values={[
             {
               id: 'twitter',
-              username: 'UNStats',
-              title: 'Follow us on Twitter',
+              icon: (
+                <Link
+                  href="https://twitter.com/unstats"
+                  sx={{ color: 'inherit' }}
+                >
+                  <TwitterIcon size={48} title="Follow us on Twitter" />
+                </Link>
+              ),
             },
             {
               id: 'email',
-              username: 'covid-19.stats@un.org',
-              title: 'Send us an email',
+              icon: (
+                <Link
+                  href="mailto:covid-19.stats@un.org"
+                  sx={{ color: 'inherit' }}
+                >
+                  <EmailIcon size={48} title="Send us an email" />
+                </Link>
+              ),
             },
             {
               id: 'github',
-              username: 'UNStats',
-              title: 'Follow us on GitHub',
+              icon: (
+                <Link
+                  href="https://github.com/unstats"
+                  sx={{ color: 'inherit' }}
+                >
+                  <GitHubIcon size={48} title="Follow us on GitHub" />
+                </Link>
+              ),
             },
           ]}
           align="start"
-          size={48}
           mb={[3, 4]}
         />
         <Flex sx={{ flexWrap: 'wrap', justifyContent: 'start' }}>
