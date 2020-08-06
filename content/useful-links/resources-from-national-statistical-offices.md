@@ -133,13 +133,13 @@ or update the list of links presented for their country.
 
 ## State of Palestine
 
-- [COVID-19 Response plan and measures](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/palestine-covid-19-response-plan-and-measures.pdf)
+- [COVID-19 Response plan and measures](/palestine-covid-19-response-plan-and-measures.pdf)
   - Report on the response plan being implemented by PCBS during this global
     health crises
-- [Press Release of Corona Crises losses](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/palestine-economic-forecasts-for-2020.pdf)
+- [Press Release of Corona Crises losses](/palestine-economic-forecasts-for-2020.pdf)
   - Economic forecasts for 2020 in light of the current outbreak of the
     Coronavirus
-- [Summary of consultation on effects of the COVID-19 on women in Palestine](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/palestine-indicators-on-women-during-covid-19-crisis.pdf)
+- [Summary of consultation on effects of the COVID-19 on women in Palestine](/palestine-indicators-on-women-during-covid-19-crisis.pdf)
   - A Summary of Statistical Indicators on Women in Palestine during the Covid19
     Crises
 

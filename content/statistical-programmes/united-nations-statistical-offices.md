@@ -6,14 +6,14 @@ date: 2020-06-16
 ---
 
 _This article is also available in
-[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/united-nations-statistical-offices-RU.pdf)_<br/><br/>As
-the world tackles the spread of COVID-19 and its unprecedented impacts on
-economies, societies and the environment, we are all stepping into unknown
-territory. Everybody, from politicians to parents, from newly unemployed workers
-to nurses, from supermarket cashiers to schoolchildren in front of computer
-screens, faces great uncertainty. But not everything is unknown. We can arm
-ourselves with facts to navigate through this uncertainty, guiding decisions and
-informing plans.
+[Russian](/united-nations-statistical-offices-RU.pdf)._<br/><br/>As the world
+tackles the spread of COVID-19 and its unprecedented impacts on economies,
+societies and the environment, we are all stepping into unknown territory.
+Everybody, from politicians to parents, from newly unemployed workers to nurses,
+from supermarket cashiers to schoolchildren in front of computer screens, faces
+great uncertainty. But not everything is unknown. We can arm ourselves with
+facts to navigate through this uncertainty, guiding decisions and informing
+plans.
 
 National Statistical Offices (NSOs) and other producers of official statistics
 are a key source of such facts. Against the onslaught of data from all kinds of

@@ -4,7 +4,7 @@ date: 2020-03-27
 ---
 
 _This article is also available in
-[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/disseminate-and-incentivize-data-use-RU.pdf)_<br/><br/>National
+[Russian](/disseminate-and-incentivize-data-use-RU.pdf)._<br/><br/>National
 statistical offices need to focus on disseminating open data in a way that
 facilitates and incentivizes data use to contribute to the fight against the
 pandemic. National statistical offices should provide data on health resources

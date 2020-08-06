@@ -4,7 +4,7 @@ date: 2020-05-14
 ---
 
 _This article is also available in
-[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/covid-19-related-deaths-by-ethnic-group-in-England-and-Wales-RU.pdf)_<br/><br/>The
+[Russian](/covid-19-related-deaths-by-ethnic-group-in-England-and-Wales-RU.pdf)._<br/><br/>The
 [Office of National Statistics (ONS)](https://www.ons.gov.uk/) of the United
 Kingdom has released a
 [provisional analysis of deaths related to COVID-19](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronavirusrelateddeathsbyethnicgroupenglandandwales/2march2020to10april2020),

@@ -4,8 +4,7 @@ date: 2020-05-07
 ---
 
 _This article is also available in
-[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/brazil-capacity-building-strategies-RU.pdf)_<br/><br/>
-The
+[Russian](/brazil-capacity-building-strategies-RU.pdf)._<br/><br/> The
 [Brazilian Institute of Geography and Statistics (IBGE)](https://www.ibge.gov.br/en/home-eng.html)
 had to postpone the Population Census until 2021 and suspend the data collection
 of its in-presence surveys due to the pandemic. As a result, to respond to the
