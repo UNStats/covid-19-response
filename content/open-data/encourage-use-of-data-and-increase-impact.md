@@ -4,7 +4,7 @@ date: 2020-03-25
 ---
 
 _This article is also available in
-[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/encourage-use-of-data-and-increase-impact-RU.pdf)_<br/><br/>During
+[Russian](/encourage-use-of-data-and-increase-impact-RU.pdf)._<br/><br/>During
 the COVID-19 outbreak, the demand for information from policymakers and citizens
 will be higher than ever, but connecting people to the data, encouraging use,
 and creating impact requires guidance and action by national statistical
