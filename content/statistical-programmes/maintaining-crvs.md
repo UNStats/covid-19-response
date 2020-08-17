@@ -6,16 +6,15 @@ date: 2020-04-14
 ---
 
 _This article is also available in
-[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/maintaining-crvs-RU.pdf)_<br/><br/>The
-COVID-19 pandemic is putting civil registration authorities under an
-unprecedented level of stress, where the failure to register all vital events
-may lead to serious difficulties in generating accurate and timely vital
-statistics. In the framework of the UN Legal Identity Agenda (LIA)--a holistic
-approach to civil registration, vital statistics and identity management
-launched in May 2019 and officially endorsed in March 2020--, the UN Legal
-Identity Task Force is working to assess the impact of COVID-19 on registration
-of vital events and generating vital statistics, and helping countries address
-these challenges.
+[Russian](/maintaining-crvs-RU.pdf)._<br/><br/>The COVID-19 pandemic is putting
+civil registration authorities under an unprecedented level of stress, where the
+failure to register all vital events may lead to serious difficulties in
+generating accurate and timely vital statistics. In the framework of the UN
+Legal Identity Agenda (LIA)--a holistic approach to civil registration, vital
+statistics and identity management launched in May 2019 and officially endorsed
+in March 2020--, the UN Legal Identity Task Force is working to assess the
+impact of COVID-19 on registration of vital events and generating vital
+statistics, and helping countries address these challenges.
 
 The Task Force launched a
 [short survey](https://unstats.un.org/legal-identity-agenda/COVID-19/) in order

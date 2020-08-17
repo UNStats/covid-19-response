@@ -4,7 +4,7 @@ date: 2020-03-24
 ---
 
 _This article is also available in
-[Russian](https://raw.githubusercontent.com/UNStats/covid-19-response/master/static/cloud-computing-for-operational-continuity-RU.pdf)_<br/><br/>oday,
+[Russian](/cloud-computing-for-operational-continuity-RU.pdf)._<br/><br/>oday,
 cloud computing stands out as a key element of an operatinal continuity and
 disaster recovery plan for statistical organizations, particularly in the face
 of the disruption national and global statistical systems caused by the COVID-19
