@@ -135,6 +135,16 @@ It is updated continuously as more resources become available.
     policy makers, and (3) positioning the NSO as advisor and knowledge bank for
     national governments.
 
+### The Secretariat of the Pacific Community (SPC)
+
+- [Measuring and monitoring the socio-economic impacts of the COVID-19 pandemic on the economies of the region](/spc-recommended-admin-data-for-economic-lead-indicators.pdf)
+  - A recommended list of administrative data to be used as leading indicators
+    of macroeconomic impacts
+- [Pacific Statistical/Economic Briefing, First Quarter 2020](/spc-economic-indicators-1Q2020-summary-analysis.pdf)
+  - Summary of the latest available data for leading indicators from the NSOs,
+    Central Banks, Ministries of Finance and other national websites to monitor
+    the economic impacts of COVID-19 in the Pacific Region.
+
 ### United Nations Educational, Scientific and Cultural Organization (UNESCO)
 
 - [UNESCO’s support: Educational response to COVID-19](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/support)
