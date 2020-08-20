@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Resources from international organisations
-date: 2020-06-22
+date: 2020-08-20
 ---
 
 This page contains links to data and information resources provided by
