@@ -1,13 +1,12 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import { IntlProvider, FormattedMessage } from 'react-intl';
-import merge from 'deepmerge';
-import postsMessages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
-import eventsMessages from '@undataforum/gatsby-theme-events/src/i18n/messages';
+import postsMessages from '@undataforum/gatsby-theme-blog/src/i18n/translations/en';
+import eventsMessages from '@undataforum/gatsby-theme-events/src/i18n/translations/en';
 
 import Header from '../../../components/header';
 
-const messages = merge(postsMessages, eventsMessages);
+const messages = { ...eventsMessages, ...postsMessages };
 
 const ShadowedHeader = (props) => {
   const data = useStaticQuery(graphql`
@@ -20,7 +19,7 @@ const ShadowedHeader = (props) => {
     }
   `);
   return (
-    <IntlProvider locale="en" messages={messages.en}>
+    <IntlProvider locale="en" messages={messages}>
       <Header
         {...props}
         entity="Department of Economic and Social Affairs"

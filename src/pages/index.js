@@ -15,9 +15,8 @@ import {
   Text,
 } from 'theme-ui';
 import { IntlProvider, FormattedMessage } from 'react-intl';
-import merge from 'deepmerge';
-import postsMessages from '@undataforum/gatsby-theme-blog/src/i18n/messages';
-import eventsMessages from '@undataforum/gatsby-theme-events/src/i18n/messages';
+import postsMessages from '@undataforum/gatsby-theme-blog/src/i18n/translations/en';
+import eventsMessages from '@undataforum/gatsby-theme-events/src/i18n/translations/en';
 
 import PostList from '../components/post-list';
 import Background from '../../content/blurbs/background.mdx';
@@ -28,10 +27,10 @@ import SharingIcon from '../icons/sharing-icon';
 import WebLinksIcon from '../icons/web-links-icon';
 import WorkRemotelyIcon from '../icons/work-remotely-icon';
 
-const messages = merge(postsMessages, eventsMessages);
+const messages = { ...eventsMessages, ...postsMessages };
 
 const Homepage = ({ data, location }) => (
-  <IntlProvider locale="en" messages={messages.en}>
+  <IntlProvider locale="en" messages={messages}>
     <Layout location={location}>
       <Container
         sx={{
