@@ -1,8 +1,4 @@
 .cache
 .DS_Store
-.eslintcache
-.nvmrc
-.now
-.vscode
 node_modules
 public
