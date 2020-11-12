@@ -165,6 +165,9 @@ or update the list of links presented for their country.
 
 ## United Kingdom
 
+- [Telephone interview considerations](https://unstats.un.org/unsd/covid19-response/ons-telephone-interview-guidance-2020.pdf)
+  - International guidance for moving from face-to-face interviewing to
+    interviewing over the telephone for surveys.
 - [Coronavirus (COVID-19) portal](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)
   - Latest data and analysis on coronavirus (COVID-19) in the UK and its effect
     on the economy and society.
