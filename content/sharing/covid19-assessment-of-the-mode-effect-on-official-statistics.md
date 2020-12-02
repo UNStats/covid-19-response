@@ -6,11 +6,9 @@ start: 2020-12-07T09:00
 end: 2020-12-07T11:00
 timezone: America/New_York
 registrationLink: https://forms.office.com/Pages/ResponsePage.aspx?id=2zWeD09UYE-9zF6kFubccA1hWvNU9sdMlwxf7cIoJwdURUszUk5aM1BXTjFXR0JLNUxOSUNGTlQ4WC4u
-images:
-  - ../assets/posts/iswghs-eclac-c19.png
 ---
 
-import Img from 'gatsby-image'; import { Box } from 'theme-ui';
+import { Flex, Image } from 'theme-ui';
 
 Since the health emergency arising from the global COVID-19 pandemic, national
 statistical offices (NSOs) had to interrupt primary information collection
@@ -70,6 +68,9 @@ of collection-mode effect due to the COVID19 pandemic.
 - National Institute of Statistics of Uruguay
 - Statistics Division, Economic Commission for Latin America and the Caribbean
 - Intersecretariat Working Group on Household Surveys
+
+<Flex sx={{justifyContent: 'center'}}> <Image sx={{width: 350}}
+src="/iswghs-eclac-c19.png"/> </Flex>
 
 **Date and time**: Monday, 7 December 2020, 9-11 am EDT
 
