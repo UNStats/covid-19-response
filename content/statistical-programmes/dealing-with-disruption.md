@@ -118,13 +118,13 @@ Here are some key findings from the latest report:
   so.** Among all NSOs interviewed, 82 percent are involved in collecting data
   on COVID-19 and its impacts. Notably, approximately 9 in 10 respondents from
   Sub-Saharan Africa and in Northern Africa and Western Asia (SDG region
-  corresponding to MENA) indicated their offices are planning or already
-  implementing efforts to collect data on COVID-19 and its impacts. These
-  efforts have been supported through partnerships with international or public
-  sector partners and, somewhat less frequently, private sector partners.
-  International partnerships account for the highest share in low and
-  middle-income countries, while public sector partnerships are predominant in
-  their highincome counterparts.
+  corresponding to the Middle East and North Africa - MENA) indicated their
+  offices are planning or already implementing efforts to collect data on
+  COVID-19 and its impacts. These efforts have been supported through
+  partnerships with international or public sector partners and, somewhat less
+  frequently, private sector partners. International partnerships account for
+  the highest share in low and middle-income countries, while public sector
+  partnerships are predominant in their highincome counterparts.
 
 <Box mb={3}>
   <Img
