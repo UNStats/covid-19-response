@@ -152,16 +152,16 @@ and the results will be disseminated in March.
 ### Resources:
 
 - Read the full survey report:
-  [Monitoring the State of Statistical Operations under the COVID-19 Pandemic – Round 3](http://documents1.worldbank.org/curated/en/833751608029512958/pdf/Monitoring-the-State-of-Statistical-Operations-under-the-COVID-19-Pandemic-Highlights-from-the-Third-Round-of-a-Global-COVID-19-Survey-of-National-Statistical-Offices-NSOs.pdf)
-- [Visit the NSO Survey webpage](https://www.worldbank.org/en/research/brief/survey-of-national-statistical-offices-nsos-during-covid-19)
+  [Monitoring the State of Statistical Operations under the COVID-19 Pandemic – Round 3](https://unstats.un.org/unsd/covid19-response/covid19-nso-survey-report-3.pdf)
+- [Visit the NSO Survey webpage](https://covid-19-response.unstatshub.org/statistical-programmes/covid19-nso-survey/)
 - Read this
-  [blog post](https://blogs.worldbank.org/opendata/coping-pandemic-crisis-what-do-national-statistical-offices-need-most)
+  [blog post](https://covid-19-response.unstatshub.org/statistical-programmes/priority-needs-of-national-statistical-offices/)
   highlighting the results from the previous round of the survey
-- Read the blog post by
-  [Haishan Fu](https://blogs.worldbank.org/opendata/covid-19-widens-gulf-global-data-inequality-while-national-statistical-offices-step-up),
-  Director of the Development Economics Data Group and Stefan Schweinfest,
-  Director of the UN Statistics Division, on how COVID-19 is widening the gulf
-  of global data inequality
+- Read the blog post
+  ["COVID-19 widens gulf of global data inequality, while national statistical offices step up to meet new data demands"](https://covid-19-response.unstatshub.org/statistical-programmes/covid-19-widens-gulf-of-data-inequality/)
+  by Haishan Fu, Director of the Development Economics Data Group and Stefan
+  Schweinfest, Director of the UN Statistics Division, on how COVID-19 is
+  widening the gulf of global data inequality
 
 ---
 
@@ -197,21 +197,21 @@ national statistical activities for the SDGs. He has a PhD in Economics from the
 University of Bochum in Germany and an MSc in Statistics from the Monterrey
 Institute of Technology and Higher Studies in Mexico._
 
-_**Philip Wollburg** Philip Wollburg is an Economist in the World Bank’s
-Development Data Group in the Data Production and Methods Unit. His research
-interests include agriculture, poverty, and climate impacts in low-income
-countries, as well as methodological aspects of and technological innovation in
-the measurement of key development indicators. Prior to joining the World Bank,
-he worked with the Food and Agriculture Organization of the UN (FAO) and led a
-project aimed at delivering innovative renewable energy solutions to smallholder
-agricultural and fisheries communities in East Africa. He holds a post-graduate
-degree in development economics from the University of Oxford._
+_**Philip Wollburg** is an Economist in the World Bank’s Development Data Group
+in the Data Production and Methods Unit. His research interests include
+agriculture, poverty, and climate impacts in low-income countries, as well as
+methodological aspects of and technological innovation in the measurement of key
+development indicators. Prior to joining the World Bank, he worked with the Food
+and Agriculture Organization of the UN (FAO) and led a project aimed at
+delivering innovative renewable energy solutions to smallholder agricultural and
+fisheries communities in East Africa. He holds a post-graduate degree in
+development economics from the University of Oxford._
 [Read More](https://blogs.worldbank.org/team/philip-randolph-wollburg)
 
-_**Alberto Zezza** Alberto Zezza is a Senior Economist in the Development Data
-Group of the World Bank. His research interests are in the area of agricultural
-and rural development, rural poverty reduction, food security and migration. He
-is part of the Living Standards Measurement Study (LSMS) team, where he focuses
+_**Alberto Zezza** is a Senior Economist in the Development Data Group of the
+World Bank. His research interests are in the area of agricultural and rural
+development, rural poverty reduction, food security and migration. He is part of
+the Living Standards Measurement Study (LSMS) team, where he focuses
 specifically on improving the availability and quality of food consumption and
 of livestock data in LSMS-type household surveys. Prior to joining the World
 Bank, he was with the Agricultural Development Economics Division of the Food
