@@ -40,7 +40,7 @@
     "react-dom": "16.13.1",
     "react-intl": "5.8.0",
     "theme-ui": "0.3.1",
-    "typeface-roboto": "0.0.75"
+    "typeface-roboto": "1.1.13"
   },
   "devDependencies": {
     "@maiertech/eslint-config": "0.13.0",
