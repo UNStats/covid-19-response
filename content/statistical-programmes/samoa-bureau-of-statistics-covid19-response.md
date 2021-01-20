@@ -70,15 +70,14 @@ migration statistics to report on a monthly basis.
 
 Our major revenue collection comes from the fees that the public paid for the
 registration of births, deaths and marriages. Before the lockdown, the average
-collection was about
-$3,000 tala per day. However, during the SOE lockdown, the
+collection was about $3,000 tala per day. However, during the SOE lockdown, the
 public bus services were also put on hold, except for taxis and private
 vehicles. As a result, there was limited affordable transport for the public to
 visit the civil registration office, which actually led to less registration of
-vital events, as well as reduced revenue to about $800
-tala per day. We see the opportunity here to develop an application to enable
-the public to register vital events on line during such difficult times and the
-challenge is how to reach that goal.
+vital events, as well as reduced revenue to about $800 tala per day. We see the
+opportunity here to develop an application to enable the public to register
+vital events on line during such difficult times and the challenge is how to
+reach that goal.
 
 ### 6. Demograhic and health survey-Multiple indicator cluster survey, 2019
 

@@ -2349,10 +2349,10 @@
   dependencies:
     "@shopify/eslint-plugin" "38.0.0"
 
-"@maiertech/prettier-config@0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@maiertech/prettier-config/-/prettier-config-0.2.1.tgz#8b85eb509a6e498218010e8fc540287dcbbe1e8c"
-  integrity sha512-V+DXbpav/ggMOv8xYISCvNES6Dsa3IMRErIs8F6rEEQ1C7r6KmeWyO6YOUOA3GwEAkT9Yk7T4nbprI+obN/LnA==
+"@maiertech/prettier-config@0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@maiertech/prettier-config/-/prettier-config-0.3.0.tgz#206009d9004c967d562a3b62faa3ab68185862c5"
+  integrity sha512-S6vCBBepNC5gJQLEfF6GzHyXssoTxaCtpCqdUHvIc585DIrdEMWNyEeVX7JN3rl7cQn6IMjscllIV5BBSmh1OQ==
 
 "@mdx-js/mdx@^1.6.16":
   version "1.6.16"
@@ -12643,15 +12643,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.1.2.tgz#3050700dae2e4c8b67c4c3f666cdb8af405e1ce5"
-  integrity sha512-16c7K+x4qVlJg9rEbXl7HEGmQyZlG4R9AgP+oHKRMsMsuk8s+ATStlf1NpDqyBI1HpVyfjLOeMhH2LvuNvV5Vg==
-
-prettier@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.5.tgz#d6d56282455243f2f92cc1716692c08aa31522d4"
-  integrity sha512-7PtVymN48hGcO4fGjybyBSIWDsLU4H4XlvOHfq91pz9kkGlonzwTfYkaIEwiRg/dAJF9YlbsduBAgtYLi+8cFg==
+prettier@2.2.1, prettier@^2.0.5:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
+  integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
 
 pretty-bytes@^5.3.0:
   version "5.3.0"
