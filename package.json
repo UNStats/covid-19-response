@@ -44,11 +44,11 @@
   },
   "devDependencies": {
     "@maiertech/eslint-config": "0.13.0",
-    "@maiertech/prettier-config": "0.2.1",
+    "@maiertech/prettier-config": "0.3.0",
     "eslint": "6.8.0",
     "husky": "4.3.0",
     "lint-staged": "10.4.0",
     "npm-run-all": "4.1.5",
-    "prettier": "2.1.2"
+    "prettier": "2.2.1"
   }
 }
