@@ -33,7 +33,7 @@
     "@undataforum/gatsby-theme-events": "0.9.0",
     "@undataforum/gatsby-theme-profiles": "0.9.0",
     "gatsby": "2.27.4",
-    "gatsby-image": "2.4.20",
+    "gatsby-image": "2.10.0",
     "gatsby-plugin-google-analytics": "2.3.15",
     "prop-types": "15.7.2",
     "react": "16.14.0",
@@ -44,11 +44,11 @@
   },
   "devDependencies": {
     "@maiertech/eslint-config": "0.13.0",
-    "@maiertech/prettier-config": "0.2.1",
+    "@maiertech/prettier-config": "0.3.0",
     "eslint": "6.8.0",
     "husky": "4.3.0",
     "lint-staged": "10.4.0",
     "npm-run-all": "4.1.5",
-    "prettier": "2.1.2"
+    "prettier": "2.2.1"
   }
 }
