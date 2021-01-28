@@ -1,4 +1,4 @@
-import baseTheme from '@undataforum/gatsby-theme-base/src/gatsby-plugin-theme-ui';
+import baseTheme from '@undataforum/gatsby-theme-theme-ui/src/gatsby-plugin-theme-ui';
 
 // Colors.
 const blue = '#009edb';
