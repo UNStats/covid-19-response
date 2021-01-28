@@ -1,8 +1,12 @@
 import React from 'react';
 import { arrayOf, shape, string } from 'prop-types';
-import { Box, Grid, Heading } from 'theme-ui';
-import { MDXRenderer } from '@undataforum/gatsby-theme-base';
-import { PostPreview } from '@undataforum/components';
+import {
+  Box,
+  Grid,
+  Heading,
+  PostPreview,
+} from '@undataforum/gatsby-theme-theme-ui';
+import { MDXRenderer } from 'gatsby-plugin-mdx';
 
 const PostList = ({ posts, ...props }) => (
   <Grid {...props} gap={4} columns={1}>
@@ -14,14 +18,14 @@ const PostList = ({ posts, ...props }) => (
             post={{
               title: (
                 <Heading as="h3" sx={{ textAlign: 'start', mb: 3 }}>
-                  {title.text}
+                  {title}
                 </Heading>
               ),
               date,
               description: description && (
                 // Wrap in Box to trigger last-child rule for <p> which sets mb={0}.
                 <Box sx={{ mb: 3 }}>
-                  <MDXRenderer>{description.childMdx.body}</MDXRenderer>
+                  <MDXRenderer>{description.body}</MDXRenderer>
                 </Box>
               ),
               href: path,
@@ -37,10 +41,10 @@ PostList.propTypes = {
   posts: arrayOf(
     shape({
       id: string.isRequired,
-      title: shape({ text: string.isRequired }).isRequired,
+      title: string.isRequired,
       date: string.isRequired,
       description: shape({
-        childMdx: shape({ body: string.isRequired }).isRequired,
+        body: string.isRequired,
       }).isRequired,
       path: string.isRequired,
     }).isRequired
