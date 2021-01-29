@@ -8,7 +8,7 @@ images:
 ---
 
 import Img from 'gatsby-image';
-import { Box } from 'theme-ui';
+import { Box, Link } from 'theme-ui';
 
 _This article is also available in
 [Russian](/hdx-making-covid19-data-accessible-RU.pdf)._<br/><br/>Access to open,
@@ -20,11 +20,13 @@ Data Exchange (HDX) platform so that our community can find COVID-19 related
 data from many sources and covering multiple countries.
 
 <Box mb={3}>
-  <Img
-    fluid={props.images[0]}
-    title="COVID-19 pandemic in locations with a humanitarian response, as of 15 April 2020"
-    alt="Map showing COVID-19 pandemic in locations with a humanitarian response, as of 15 April 2020"
-  />
+  <Link href="https://data.humdata.org/visualization/covid19/">
+    <Img
+      fluid={props.images[0]}
+      title="COVID-19 pandemic in locations with a humanitarian response, as of 15 April 2020"
+      alt="Map showing COVID-19 pandemic in locations with a humanitarian response, as of 15 April 2020"
+    />
+  </Link>
 </Box>
 
 The COVID-19 Pandemic page brings together dozens of datasets in
@@ -61,7 +63,7 @@ the most notable contributions include:
 - **INFORM** —
   [Epidemic risk](https://data.humdata.org/dataset/inform-epidemic-risk) (risk
   of the outbreak exceeding each country’s capacity to respond to the crisis);
-- **Qatar Computer Research Institute** —
+- **Qatar Computing Research Institute** —
   [COVID-19 Twitter data geographic distribution](https://data.humdata.org/dataset/covid-19-twitter-data-geographic-distribution)
   (number of tweets on the topic of COVID-19, by country);
 
@@ -93,5 +95,5 @@ working with you.
 
 ---
 
-_This article was contributed by Javier Teran, OCHA Centre for Humanitarian
-Data_
+_This article was contributed by Javier Teran, OCHA
+[Centre for Humanitarian Data](https://centre.humdata.org/)_
