@@ -39,7 +39,7 @@
     "typeface-roboto": "^1.1.13"
   },
   "devDependencies": {
-    "@maiertech/eslint-config": "^0.16.0",
+    "@maiertech/eslint-config": "^0.16.1",
     "@maiertech/prettier-config": "^0.3.0",
     "eslint": "^7.19.0",
     "husky": "^4.3.8",
