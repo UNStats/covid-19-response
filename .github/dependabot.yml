@@ -3,10 +3,12 @@ updates:
   - package-ecosystem: 'npm'
     directory: '/'
     schedule:
-      interval: 'weekly'
+      interval: 'monthly'
+      timezone: 'America/New_York'
     rebase-strategy: 'disabled'
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
-      interval: 'weekly'
+      interval: 'monthly'
+      timezone: 'America/New_York'
     rebase-strategy: 'disabled'
