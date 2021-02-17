@@ -2,6 +2,7 @@ import React from 'react';
 import { object } from 'prop-types';
 import { SEO } from '@undataforum/gatsby-theme-base';
 import {
+  Box,
   Container,
   EventPreview,
   Grid,
@@ -18,6 +19,7 @@ import {
 import { MDXRenderer } from 'gatsby-plugin-mdx';
 
 import messages from '../../../i18n/messages';
+import Blurb from '../../../../content/blurbs/sharing.mdx';
 
 const EventsPage = ({ data, pageContext, location }) => {
   const events = data.allEvent.nodes;
@@ -49,6 +51,9 @@ const EventsPage = ({ data, pageContext, location }) => {
           <Styled.h1>
             <FormattedMessage id={`${pageContext.collection}.title`} />
           </Styled.h1>
+          <Box mb={4}>
+            <Blurb />
+          </Box>
           <Grid gap={4} columns={[1, null, 2]}>
             {events.map((event) => {
               // Format start date.
