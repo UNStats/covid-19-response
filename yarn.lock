@@ -1662,10 +1662,10 @@
     "@sindresorhus/slugify" "^1.1.0"
     lodash.filter "^4.6.0"
 
-"@maiertech/gatsby-theme-pages-core@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@maiertech/gatsby-theme-pages-core/-/gatsby-theme-pages-core-0.4.0.tgz#d7226567f882c009c51415361666c90449637712"
-  integrity sha512-ohzfpaL6Q4hZX0AZ8hS0tUqY+w6I6mr+cyYFTDqqAMPY3GBZPexFFgxCCspd1sAMJqaWgBmcDH6BkQYDXVymDA==
+"@maiertech/gatsby-theme-pages-core@^0.4.0", "@maiertech/gatsby-theme-pages-core@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@maiertech/gatsby-theme-pages-core/-/gatsby-theme-pages-core-0.5.0.tgz#f8cc30886b85e635b3b0b952d6f488cfcb20f0ce"
+  integrity sha512-x+A8idApFORR5vD8aTTDEqYi83OvcZL9Tdt168Cih9o+UbYWXb8ne+T+V7klHjnZ63UL0R4F908vo3yTeIVbNw==
   dependencies:
     "@maiertech/gatsby-helpers" "^0.3.0"
     "@mdx-js/mdx" "^1.6.22"
