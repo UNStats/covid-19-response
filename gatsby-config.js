@@ -14,7 +14,19 @@ module.exports = {
     siteLanguage: 'en',
   },
   plugins: [
-    'gatsby-plugin-mdx',
+    {
+      resolve: 'gatsby-plugin-mdx',
+      options: {
+        gatsbyRemarkPlugins: [
+          {
+            resolve: 'gatsby-remark-copy-linked-files',
+            options: {
+              destinationDir: (file) => `downloads/${file.hash}/${file.name}`,
+            },
+          },
+        ],
+      },
+    },
     {
       resolve: '@undataforum/gatsby-theme-base',
       options: {
@@ -50,6 +62,7 @@ module.exports = {
         // basePath: '/',
         collection: 'data-solutions',
         contentPath: 'content/data-solutions',
+        mdxOtherwiseConfigured: true,
         // This option is passed through to page components.
         tagCollection: 'tags',
       },
@@ -60,6 +73,7 @@ module.exports = {
         // basePath: '/',
         collection: 'open-data',
         contentPath: 'content/open-data',
+        mdxOtherwiseConfigured: true,
         // This option is passed through to page components.
         tagCollection: 'tags',
       },
@@ -70,7 +84,7 @@ module.exports = {
         // basePath: '/',
         collection: 'useful-links',
         contentPath: 'content/useful-links',
-        assetPath: 'content/assets/posts',
+        mdxOtherwiseConfigured: true,
         // This option is passed through to page components.
         tagCollection: 'tags',
       },
@@ -81,6 +95,7 @@ module.exports = {
         // basePath: '/',
         collection: 'sharing',
         contentPath: 'content/sharing',
+        mdxOtherwiseConfigured: true,
         // This option is passed through to page components.
         tagCollection: 'tags',
       },
