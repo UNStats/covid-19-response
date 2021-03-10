@@ -22,17 +22,17 @@
   },
   "dependencies": {
     "@maiertech/gatsby-helpers": "^0.3.0",
-    "@maiertech/gatsby-theme-pages-core": "^0.5.0",
+    "@maiertech/gatsby-theme-pages-core": "^0.6.0",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
-    "@undataforum/gatsby-theme-base": "^0.16.0",
-    "@undataforum/gatsby-theme-events-core": "^0.1.0",
-    "@undataforum/gatsby-theme-posts-core": "^0.1.0",
-    "@undataforum/gatsby-theme-theme-ui": "^0.1.0",
-    "gatsby": "^2.32.3",
-    "gatsby-image": "^2.11.0",
-    "gatsby-plugin-google-analytics": "^2.11.0",
-    "gatsby-plugin-mdx": "^1.10.0",
+    "@undataforum/gatsby-theme-base": "^0.17.0",
+    "@undataforum/gatsby-theme-events-core": "^0.2.0",
+    "@undataforum/gatsby-theme-posts-core": "^0.2.0",
+    "@undataforum/gatsby-theme-theme-ui": "^0.2.0",
+    "gatsby": "^3.0.4",
+    "gatsby-image": "^3.0.0",
+    "gatsby-plugin-google-analytics": "^3.0.0",
+    "gatsby-plugin-mdx": "^2.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -47,8 +47,5 @@
     "lint-staged": "^10.5.4",
     "micromatch": "^4.0.2",
     "prettier": "^2.2.1"
-  },
-  "resolutions": {
-    "@maiertech/gatsby-theme-pages-core": "^0.5.0"
   }
 }
