@@ -38,44 +38,14 @@ module.exports = {
       resolve: '@undataforum/gatsby-theme-posts-core',
       options: {
         // basePath: '/',
-        collection: 'statistical-programmes',
-        contentPath: 'content/statistical-programmes',
+        // collection: 'posts',
+        // contentPath: 'content/posts',
         mdxOtherwiseConfigured: true,
-        // This option is passed through to page components.
+        // The following options passed through to page components.
+        label: 'Post',
         tagCollection: 'tags',
-      },
-    },
-    {
-      resolve: '@undataforum/gatsby-theme-posts-core',
-      options: {
-        // basePath: '/',
-        collection: 'work-remotely',
-        contentPath: 'content/work-remotely',
-        mdxOtherwiseConfigured: true,
-        // This option is passed through to page components.
-        tagCollection: 'tags',
-      },
-    },
-    {
-      resolve: '@undataforum/gatsby-theme-posts-core',
-      options: {
-        // basePath: '/',
-        collection: 'data-solutions',
-        contentPath: 'content/data-solutions',
-        mdxOtherwiseConfigured: true,
-        // This option is passed through to page components.
-        tagCollection: 'tags',
-      },
-    },
-    {
-      resolve: '@undataforum/gatsby-theme-posts-core',
-      options: {
-        // basePath: '/',
-        collection: 'open-data',
-        contentPath: 'content/open-data',
-        mdxOtherwiseConfigured: true,
-        // This option is passed through to page components.
-        tagCollection: 'tags',
+        postsPageTitle: 'Posts',
+        postsPageDescription: 'All posts.',
       },
     },
     {
@@ -96,7 +66,11 @@ module.exports = {
         collection: 'sharing',
         contentPath: 'content/sharing',
         mdxOtherwiseConfigured: true,
-        // This option is passed through to page components.
+        // These options are passed through to page components.
+        label: 'Event',
+        eventsPageTitle: 'Sharing experiences',
+        eventsPageDescription:
+          'Online webinars and twitter chats to share knowledge and experience on how the statsitical system can respond to the COVID-19 emergency.',
         tagCollection: 'tags',
       },
     },
@@ -109,21 +83,14 @@ module.exports = {
         mdxOtherwiseConfigured: true,
       },
     },
-    // {
-    //   resolve: '@maiertech/gatsby-theme-tags-core',
-    //   options: {
-    //     // basePath: '/',
-    //     // tagCollection: 'tags',
-    //     mdxCollections: [
-    //       'statistical-programmes',
-    //       'work-remotely',
-    //       'data-solutions',
-    //       'open-data',
-    //       'useful-links',
-    //       'sharing',
-    //     ],
-    //   },
-    // },
+    {
+      resolve: '@maiertech/gatsby-theme-tags-core',
+      options: {
+        // basePath: '/',
+        // tagCollection: 'tags',
+        mdxCollections: ['posts'],
+      },
+    },
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {

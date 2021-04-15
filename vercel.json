@@ -1,6 +1,4 @@
 {
-  "version": 2,
-  "scope": "unstats",
   "trailingSlash": true,
   "redirects": [
     {
@@ -11,9 +9,179 @@
       "source": "/statistical-programmes/brazil-capacity-building%20strategies/",
       "destination": "/statistical-programmes/brazils-capacity-building-strategies/"
     },
+
     {
       "source": "/useful-links/covid19-data-collaboratives/",
       "destination": "/useful-links/covid-19-data-collaboratives/"
+    },
+
+    {
+      "source": "/data-solutions/covid-19-related-deaths-by-ethnic-group-in-england-and-wales/",
+      "destination": "/posts/covid-19-related-deaths-by-ethnic-group-in-england-and-wales/"
+    },
+    {
+      "source": "/data-solutions/gender-disaggregated-data/",
+      "destination": "/posts/better-disaggregated-data-to-assess-the-implications-of-covid-19-on-women-and-men/"
+    },
+    {
+      "source": "/data-solutions/iadb-traffic-congestion-dashboard/",
+      "destination": "/posts/iabd-coronavirus-traffic-congestion-impact-dashboard/"
+    },
+    {
+      "source": "/data-solutions/measuring-economic-impact-of-covid19-in-romania/",
+      "destination": "/posts/measuring-the-economic-impact-of-the-covid-19-crisis-in-romania/"
+    },
+    {
+      "source": "/data-solutions/report-ccsa/",
+      "destination": "/posts/how-covid-19-is-changing-the-world-a-statistical-perspective/"
+    },
+    {
+      "source": "/data-solutions/using-experimental-to-monitor-the-impact-of-covid19-in-denmark/",
+      "destination": "/posts/using-experimental-statistics-to-monitor-the-impact-of-covid-19-in-denmark/"
+    },
+    {
+      "source": "/open-data/disseminate-and-incentivize-data-use/",
+      "destination": "/posts/disseminate-and-incentivize-data-use/"
+    },
+    {
+      "source": "/open-data/encourage-use-of-data-and-increase-impact/",
+      "destination": "/open-data/encourage-use-of-data-and-increase-impact/"
+    },
+    {
+      "source": "/open-data/hdx-making-covid19-data-accessible/",
+      "destination": "/posts/humanitarian-data-exchange-making-data-accessible-for-the-covid-19-pandemic/"
+    },
+    {
+      "source": "/open-data/launch-of-un-covid-19-data-hub/",
+      "destination": "/posts/launch-of-the-un-covid-19-data-hub/"
+    },
+    {
+      "source": "/open-data/publish-existing-data-as-open-data/",
+      "destination": "/posts/publish-existing-data-following-open-data-guidelines/"
+    },
+    {
+      "source": "/statistical-programmes/brazils-capacity-building-strategies/",
+      "destination": "/posts/brazils-capacity-building-strategies-in-pandemic-times/"
+    },
+    {
+      "source": "/statistical-programmes/challenges-of-introducing-new-technologies/",
+      "destination": "/posts/challenges-of-introducing-new-technologies/"
+    },
+    {
+      "source": "/statistical-programmes/maintaining-crvs/",
+      "destination": "/posts/maintaining-civil-registration-and-vital-statistics-during-the-covid-19-pandemic/"
+    },
+    {
+      "source": "/statistical-programmes/covid19-nso-survey/",
+      "destination": "/posts/survey-of-national-statistical-offices-during-covid-19/"
+    },
+    {
+      "source": "/statistical-programmes/dealing-with-disruption/",
+      "destination": "/posts/dealing-with-disruption/"
+    },
+    {
+      "source": "/statistical-programmes/ensuring-continuity-in-survey-operations/",
+      "destination": "/posts/ensuring-continuity-in-survey-operations/"
+    },
+    {
+      "source": "/statistical-programmes/covid-19-widens-gulf-of-data-inequality/",
+      "destination": "/posts/covid-19-widens-gulf-of-data-inequality/"
+    },
+    {
+      "source": "/statistical-programmes/impact-on-world-population-and-housing-census-programme/",
+      "destination": "/posts/impact-of-covid-19-on-world-population-and-housing-census-programme/"
+    },
+    {
+      "source": "/statistical-programmes/impact-on-production-of-imts/",
+      "destination": "/posts/impact-of-covid-19-on-the-production-of-international-merchandise-trade-statistics/"
+    },
+    {
+      "source": "/statistical-programmes/impact-on-labour-market-statistics/",
+      "destination": "/posts/covid-19-impact-on-labour-market-statistics/"
+    },
+    {
+      "source": "/statistical-programmes/interview-with-sir-ian-diamond-national-statistician-of-the-uk/",
+      "destination": "/posts/interview-with-sir-ian-diamond/"
+    },
+    {
+      "source": "/statistical-programmes/interview-with-dr-ola-awad/",
+      "destination": "/posts/interview-with-dr-ola-awad/"
+    },
+    {
+      "source": "/statistical-programmes/interview-with-prof-samuel-annim-of-ghana-statistical-service/",
+      "destination": "/posts/interview-with-prof-samuel-annim/"
+    },
+    {
+      "source": "/statistical-programmes/oecd-digital-workspace/",
+      "destination": "/posts/oecd-launches-digital-workspace-for-official-statisticians/"
+    },
+    {
+      "source": "/statistical-programmes/priority-needs-of-national-statistical-offices/",
+      "destination": "/posts/priority-needs-of-national-statistical-offices/"
+    },
+    {
+      "source": "/statistical-programmes/refocusing-statistical-capacity-development/",
+      "destination": "/posts/refocusing-statistical-capacity-development-efforts-on-data-stewardship/"
+    },
+    {
+      "source": "/statistical-programmes/samoa-bureau-of-statistics-covid19-response/",
+      "destination": "/posts/samoa-bureau-of-statistics-covid-19-response/"
+    },
+    {
+      "source": "/statistical-programmes/united-nations-statistical-offices/",
+      "destination": "/posts/six-united-nations-statistical-offices-work-together-to-support-countries-in-managing-the-covid-19-pandemic/"
+    },
+    {
+      "source": "/statistical-programmes/statistical-operations-in-colombia/",
+      "destination": "/posts/ensuring-the-adequate-performance-of-statistical-operations-in-colombia/"
+    },
+    {
+      "source": "/statistical-programmes/impact-of-covid-19-on-the-implementation-of-statistical-surveys-in-iran/",
+      "destination": "/posts/impact-of-covid-19-on-the-implementation-of-statistical-surveys-in-iran/"
+    },
+    {
+      "source": "/statistical-programmes/statistics-canada-response/",
+      "destination": "/posts/statistics-canadas-covid-19-response/"
+    },
+    {
+      "source": "/statistical-programmes/surviving-the-covid-stress-test-the-leading-experience-of-kostat/",
+      "destination": "/posts/surviving-the-covid-stress-test-the-leading-experience-of-kostat/"
+    },
+    {
+      "source": "/statistical-programmes/from-face-to-face-to-telephone-and-web/",
+      "destination": "/posts/from-face-to-face-interviews-to-telephone-interviews-and-web-based-self-reporting/"
+    },
+    {
+      "source": "/statistical-programmes/telephone-surveys-what-to-consider/",
+      "destination": "/posts/carrying-out-a-telephone-survey-under-the-impact-of-covid-19/"
+    },
+    {
+      "source": "/statistical-programmes/unece-covid19-platform/",
+      "destination": "/posts/unece-platform-on-covid-19-and-official-statistics/"
+    },
+    {
+      "source": "/statistical-programmes/use-of-administrative-data-sources-under-covid-19/",
+      "destination": "/posts/use-of-administrative-data-sources-under-covid-19/"
+    },
+    {
+      "source": "/statistical-programmes/using-telephone-interview-for-household-surveys/",
+      "destination": "/posts/using-telephone-interviews-for-household-surveys/"
+    },
+    {
+      "source": "/work-remotely/cloud-computing-for-operational-continuity/",
+      "destination": "/posts/cloud-computing-for-operational-continuity-and-disaster-recovery/"
+    },
+    {
+      "source": "/work-remotely/conferencing-in-times-of-covid-19/",
+      "destination": "/posts/conferencing-in-times-of-covid-19/"
+    },
+    {
+      "source": "/work-remotely/statistics-elearning/",
+      "destination": "/posts/statistics-e-learning/"
+    },
+    {
+      "source": "/work-remotely/telecommuting-for-operational-continuity/",
+      "destination": "/posts/telecommuting-arrangements-for-operational-continuity/"
     }
   ]
 }
