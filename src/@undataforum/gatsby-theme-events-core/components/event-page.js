@@ -11,25 +11,11 @@ import {
   Styled,
   Tags,
 } from '@undataforum/gatsby-theme-theme-ui';
-import { createIntl, createIntlCache, RawIntlProvider } from 'react-intl';
 import { MDXRenderer } from 'gatsby-plugin-mdx';
 import { createPath } from '@maiertech/gatsby-helpers';
-
-import messages from '../../../i18n/messages';
-
 const ShadowedEventPage = ({ data, pageContext, location }) => {
-  // We need to localize props that are not React components:
-  // https://github.com/formatjs/react-intl/blob/master/docs/API.md#createintl
-  const cache = createIntlCache();
-  const intl = createIntl(
-    {
-      locale: pageContext.lang,
-      messages: messages[pageContext.lang],
-    },
-    cache
-  );
-
   const { event } = data;
+  const { label } = pageContext.themeOptions;
 
   // Format start date.
   const date = new Intl.DateTimeFormat('en-US', {
@@ -52,47 +38,44 @@ const ShadowedEventPage = ({ data, pageContext, location }) => {
   }
 
   return (
-    // We would normally use `IntlProvider`, but we already have `intl` and therefore reuse it with RawIntlProvider.
-    <RawIntlProvider value={intl}>
-      <Layout location={location}>
-        <SEO
-          title={event.title}
-          description={event.description.text}
-          path={location.pathname}
+    <Layout location={location}>
+      <SEO
+        title={event.title}
+        description={event.description.text}
+        path={location.pathname}
+      />
+      <Container variant="narrow">
+        <EventPreview
+          event={{
+            tag: label,
+            title: (
+              <Heading as="h1" sx={{ textAlign: 'start', mb: 3 }}>
+                {event.title}
+              </Heading>
+            ),
+            date,
+            registrationLink: event.registrationLink,
+          }}
+          mb={3}
         />
-        <Container variant="narrow">
-          <EventPreview
-            event={{
-              tag: intl.formatMessage({ id: `${event.collection}.title` }),
-              title: (
-                <Heading as="h1" sx={{ textAlign: 'start', mb: 3 }}>
-                  {event.title}
-                </Heading>
-              ),
-              date,
-              registrationLink: event.registrationLink,
-            }}
-            mb={3}
-          />
-          <Tags values={values} variant="tags.secondary" mb={3} />
-          <MDXRenderer>{event.body}</MDXRenderer>
-          {event.attachments && event.attachments.length > 0 && (
-            <>
-              <Styled.h2>Presentations</Styled.h2>
-              <ul>
-                {event.attachments.map(({ base, publicURL }) => (
-                  <li key={base}>
-                    <Link as={NewTabLink} href={publicURL}>
-                      {base}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </>
-          )}
-        </Container>
-      </Layout>
-    </RawIntlProvider>
+        <Tags values={values} variant="tags.secondary" mb={3} />
+        <MDXRenderer>{event.body}</MDXRenderer>
+        {event.attachments && event.attachments.length > 0 && (
+          <>
+            <Styled.h2>Presentations</Styled.h2>
+            <ul>
+              {event.attachments.map(({ base, publicURL }) => (
+                <li key={base}>
+                  <Link as={NewTabLink} href={publicURL}>
+                    {base}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
+      </Container>
+    </Layout>
   );
 };
 
