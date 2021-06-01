@@ -31,7 +31,7 @@
     "@undataforum/gatsby-theme-posts-core": "^0.2.0",
     "@undataforum/gatsby-theme-theme-ui": "^0.2.0",
     "gatsby": "^3.2.1",
-    "gatsby-image": "^3.0.0",
+    "gatsby-image": "^3.6.0",
     "gatsby-plugin-google-analytics": "^3.0.0",
     "gatsby-plugin-mdx": "^2.0.0",
     "gatsby-remark-copy-linked-files": "^3.0.0",
