@@ -33,7 +33,7 @@
     "gatsby": "^3.2.1",
     "gatsby-image": "^3.0.0",
     "gatsby-plugin-google-analytics": "^3.0.0",
-    "gatsby-plugin-mdx": "^2.0.0",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-remark-copy-linked-files": "^3.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
